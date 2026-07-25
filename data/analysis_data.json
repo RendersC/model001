@@ -1,0 +1,6188 @@
+{
+ "meta": {
+  "pop": 400000,
+  "gis_businesses": 848,
+  "gis_categories": 14,
+  "rent_listings": 562,
+  "rent_clean": 534,
+  "olx_listings": 331,
+  "date": "2026-07-25"
+ },
+ "categories": [
+  {
+   "key": "vet",
+   "label": "Ветклиники",
+   "count": 20,
+   "ppp": 20000,
+   "sample": 20,
+   "avg": 4.43,
+   "weak_share": 5,
+   "strong_share": 30,
+   "total_rev": 2344,
+   "saturation": "свободно",
+   "quality": "среднее",
+   "beatable": 60,
+   "driver": "100 зоомагазинов — животные есть",
+   "driver_score": 2,
+   "leaders": [
+    {
+     "name": "ZOOVITA, центр ветеринарной медицины",
+     "rating": 4.4,
+     "reviews": 784,
+     "addr": null
+    },
+    {
+     "name": "Вет-Эксперт, ветеринарный кабинет",
+     "rating": 4.8,
+     "reviews": 262,
+     "addr": "улица Лихарева, 8/1"
+    },
+    {
+     "name": "VetLab, ветеринарный клинико-диагностический центр",
+     "rating": 4.7,
+     "reviews": 244,
+     "addr": null
+    },
+    {
+     "name": "ZOOVITA, центр ветеринарной медицины",
+     "rating": 4.4,
+     "reviews": 225,
+     "addr": null
+    },
+    {
+     "name": "Бетховен, ветеринарная клиника",
+     "rating": 4.2,
+     "reviews": 137,
+     "addr": "улица Кабанбай батыра, 112"
+    }
+   ]
+  },
+  {
+   "key": "barber",
+   "label": "Барбершопы",
+   "count": 25,
+   "ppp": 16000,
+   "sample": 25,
+   "avg": 4.86,
+   "weak_share": 0,
+   "strong_share": 87,
+   "total_rev": 5861,
+   "saturation": "свободно",
+   "quality": "сильное",
+   "beatable": 0,
+   "driver": "664 женских салона",
+   "driver_score": 1,
+   "leaders": [
+    {
+     "name": "Probor, барбершоп",
+     "rating": 4.9,
+     "reviews": 1115,
+     "addr": null
+    },
+    {
+     "name": "SAL’VA, барбершоп",
+     "rating": 5,
+     "reviews": 889,
+     "addr": "Нурсултана Назарбаева проспект, 58"
+    },
+    {
+     "name": "Upgrade, барбершоп",
+     "rating": 4.9,
+     "reviews": 693,
+     "addr": "улица Антона Чехова, 35/1"
+    },
+    {
+     "name": "SAL’VA, барбершоп",
+     "rating": 5,
+     "reviews": 381,
+     "addr": "улица Антона Чехова, 62"
+    },
+    {
+     "name": "Brutal, барбершоп",
+     "rating": 5,
+     "reviews": 331,
+     "addr": "улица Антона Чехова, 57"
+    }
+   ]
+  },
+  {
+   "key": "bakery",
+   "label": "Пекарни",
+   "count": 38,
+   "ppp": 10526,
+   "sample": 38,
+   "avg": 4.1,
+   "weak_share": 26,
+   "strong_share": 38,
+   "total_rev": 1947,
+   "saturation": "свободно",
+   "quality": "слабое",
+   "beatable": 53,
+   "driver": "—",
+   "driver_score": 1,
+   "leaders": [
+    {
+     "name": "ПЛЮШКА, кофейня",
+     "rating": 4.8,
+     "reviews": 380,
+     "addr": null
+    },
+    {
+     "name": "Lakomka, кофейня с домашней выпечкой",
+     "rating": 4.8,
+     "reviews": 251,
+     "addr": null
+    },
+    {
+     "name": "ПЛЮШКА, кофейня",
+     "rating": 4.7,
+     "reviews": 215,
+     "addr": null
+    },
+    {
+     "name": "Дом Хлеба, пекарня",
+     "rating": 4.7,
+     "reviews": 165,
+     "addr": "Нурсултана Назарбаева проспект, 8/1"
+    },
+    {
+     "name": "ПЛЮШКА, кофейня",
+     "rating": 4.7,
+     "reviews": 164,
+     "addr": "улица Сагадат Нурмагамбетов, 49"
+    }
+   ]
+  },
+  {
+   "key": "fitness",
+   "label": "Фитнес-клубы",
+   "count": 45,
+   "ppp": 8889,
+   "sample": 45,
+   "avg": 4.73,
+   "weak_share": 2,
+   "strong_share": 69,
+   "total_rev": 3390,
+   "saturation": "свободно",
+   "quality": "сильное",
+   "beatable": 17,
+   "driver": "Норма 1 на 5–6 тыс.",
+   "driver_score": 1,
+   "leaders": [
+    {
+     "name": "Atlantic",
+     "rating": 4,
+     "reviews": 451,
+     "addr": "проспект Каныша Сатпаева, 27/1"
+    },
+    {
+     "name": "Extreme kids, мультиспортивные клубы",
+     "rating": 5,
+     "reviews": 377,
+     "addr": "улица 30 Гвардейской Дивизии, 24/1"
+    },
+    {
+     "name": "TERRASPORT, фитнес-клуб",
+     "rating": 4.3,
+     "reviews": 292,
+     "addr": null
+    },
+    {
+     "name": "Alik_Boxing_Team, спортивный клуб",
+     "rating": 5,
+     "reviews": 208,
+     "addr": "набережная Славского, 48/2"
+    },
+    {
+     "name": "Invictus GO, фитнес-клуб",
+     "rating": 4.5,
+     "reviews": 201,
+     "addr": "проспект Ауэзова, 22"
+    }
+   ]
+  },
+  {
+   "key": "otdelka",
+   "label": "Отделочные материалы",
+   "count": 66,
+   "ppp": 6061,
+   "sample": 60,
+   "avg": 4.42,
+   "weak_share": 21,
+   "strong_share": 40,
+   "total_rev": 2764,
+   "saturation": "свободно",
+   "quality": "слабое",
+   "beatable": 44,
+   "driver": "Стройка ВКО +22,3%",
+   "driver_score": 2,
+   "leaders": [
+    {
+     "name": "12 Месяцев, центр строительных материалов",
+     "rating": 4.5,
+     "reviews": 567,
+     "addr": null
+    },
+    {
+     "name": "Мегастрой, супермаркет строительных и отделочных материалов",
+     "rating": 2.6,
+     "reviews": 376,
+     "addr": null
+    },
+    {
+     "name": "ТНП, магазин строительных материалов",
+     "rating": 3.7,
+     "reviews": 266,
+     "addr": null
+    },
+    {
+     "name": "Комфорт, гипермаркет строительных материалов и товаров для дома",
+     "rating": 3.6,
+     "reviews": 251,
+     "addr": null
+    },
+    {
+     "name": "ТНП, магазин строительных материалов",
+     "rating": 4.5,
+     "reviews": 168,
+     "addr": null
+    }
+   ]
+  },
+  {
+   "key": "coffee",
+   "label": "Кофейни",
+   "count": 93,
+   "ppp": 4301,
+   "sample": 60,
+   "avg": 4.65,
+   "weak_share": 2,
+   "strong_share": 62,
+   "total_rev": 14958,
+   "saturation": "умеренно",
+   "quality": "среднее",
+   "beatable": 13,
+   "driver": "Общепит РК +13,3%",
+   "driver_score": 1,
+   "leaders": [
+    {
+     "name": "Coffee Boom",
+     "rating": 4.3,
+     "reviews": 2646,
+     "addr": null
+    },
+    {
+     "name": "Moti coffee, кофейня",
+     "rating": 4.6,
+     "reviews": 694,
+     "addr": "улица Оралхан Бокей, 31/3"
+    },
+    {
+     "name": "Coffee time, кофейня",
+     "rating": 4.7,
+     "reviews": 595,
+     "addr": null
+    },
+    {
+     "name": "Сладкая жизнь, кафе-кондитерская",
+     "rating": 4.7,
+     "reviews": 527,
+     "addr": "улица Антона Чехова, 54"
+    },
+    {
+     "name": "Frida coffee, кофейня",
+     "rating": 4.5,
+     "reviews": 497,
+     "addr": "проспект Ауэзова, 12"
+    }
+   ]
+  },
+  {
+   "key": "zoo",
+   "label": "Зоомагазины",
+   "count": 100,
+   "ppp": 4000,
+   "sample": 60,
+   "avg": 4.5,
+   "weak_share": 12,
+   "strong_share": 48,
+   "total_rev": 2840,
+   "saturation": "умеренно",
+   "quality": "среднее",
+   "beatable": 36,
+   "driver": "—",
+   "driver_score": 0,
+   "leaders": [
+    {
+     "name": "ZOOVITA, центр ветеринарной медицины",
+     "rating": 4.4,
+     "reviews": 784,
+     "addr": null
+    },
+    {
+     "name": "ZOOVITA, центр ветеринарной медицины",
+     "rating": 4.4,
+     "reviews": 225,
+     "addr": null
+    },
+    {
+     "name": "Бетховен, ветеринарная клиника",
+     "rating": 4.2,
+     "reviews": 137,
+     "addr": "улица Кабанбай батыра, 112"
+    },
+    {
+     "name": "Феникс, ветеринарная клиника",
+     "rating": 4.3,
+     "reviews": 113,
+     "addr": "Нурсултана Назарбаева проспект, 21"
+    },
+    {
+     "name": "Свой Доктор, ветеринарный кабинет",
+     "rating": 4.9,
+     "reviews": 98,
+     "addr": null
+    }
+   ]
+  },
+  {
+   "key": "stroymag",
+   "label": "Строймагазины",
+   "count": 116,
+   "ppp": 3448,
+   "sample": 60,
+   "avg": 4.37,
+   "weak_share": 14,
+   "strong_share": 33,
+   "total_rev": 3833,
+   "saturation": "умеренно",
+   "quality": "слабое",
+   "beatable": 48,
+   "driver": "Стройка ВКО +22,3%",
+   "driver_score": 2,
+   "leaders": [
+    {
+     "name": "12 Месяцев, центр строительных материалов",
+     "rating": 4.5,
+     "reviews": 567,
+     "addr": null
+    },
+    {
+     "name": "Мегастрой, супермаркет строительных и отделочных материалов",
+     "rating": 2.6,
+     "reviews": 376,
+     "addr": null
+    },
+    {
+     "name": "Кровельный Центр, торгово-производственная компания",
+     "rating": 4.8,
+     "reviews": 354,
+     "addr": null
+    },
+    {
+     "name": "ТНП, магазин строительных материалов",
+     "rating": 3.7,
+     "reviews": 266,
+     "addr": null
+    },
+    {
+     "name": "Комфорт, гипермаркет строительных материалов и товаров для дома",
+     "rating": 3.6,
+     "reviews": 251,
+     "addr": null
+    }
+   ]
+  },
+  {
+   "key": "stoma",
+   "label": "Стоматологии",
+   "count": 132,
+   "ppp": 3030,
+   "sample": 60,
+   "avg": 4.7,
+   "weak_share": 5,
+   "strong_share": 77,
+   "total_rev": 13313,
+   "saturation": "умеренно",
+   "quality": "сильное",
+   "beatable": 10,
+   "driver": "Платные услуги +4,6%",
+   "driver_score": 0,
+   "leaders": [
+    {
+     "name": "ELITE DENTAL CLINIC, стоматологическая клиника",
+     "rating": 4.9,
+     "reviews": 1053,
+     "addr": null
+    },
+    {
+     "name": "ПАПА, МАМА, Я, клиника для всей семьи",
+     "rating": 4.7,
+     "reviews": 798,
+     "addr": null
+    },
+    {
+     "name": "Алмаз 32, стоматологическая клиника",
+     "rating": 4.8,
+     "reviews": 760,
+     "addr": "улица Кабанбай батыра, 122"
+    },
+    {
+     "name": "HAPPY CLINIC, детский медицинский центр",
+     "rating": 4.5,
+     "reviews": 640,
+     "addr": null
+    },
+    {
+     "name": "Smile Clinic, стоматология",
+     "rating": 4.9,
+     "reviews": 520,
+     "addr": null
+    }
+   ]
+  },
+  {
+   "key": "pvz",
+   "label": "Пункты выдачи",
+   "count": 203,
+   "ppp": 1970,
+   "sample": 60,
+   "avg": 4.16,
+   "weak_share": 30,
+   "strong_share": 30,
+   "total_rev": 3369,
+   "saturation": "плотно",
+   "quality": "слабое",
+   "beatable": 52,
+   "driver": "E-com 17,1% розницы",
+   "driver_score": -1,
+   "leaders": [
+    {
+     "name": "Wildberries, пункт выдачи товара",
+     "rating": 2.6,
+     "reviews": 219,
+     "addr": "улица Оралхан Бокей, 7"
+    },
+    {
+     "name": "Wildberries, пункт выдачи товара",
+     "rating": 2.7,
+     "reviews": 178,
+     "addr": "проспект Казыбек би, 42"
+    },
+    {
+     "name": "Wildberries, пункт выдачи товара",
+     "rating": 2.6,
+     "reviews": 160,
+     "addr": "Нурсултана Назарбаева проспект, 75"
+    },
+    {
+     "name": "Wildberries, пункт выдачи товара",
+     "rating": 3,
+     "reviews": 150,
+     "addr": "улица Казахстан, 85"
+    },
+    {
+     "name": "Wildberries, пункт выдачи товара",
+     "rating": 2.5,
+     "reviews": 147,
+     "addr": "проспект Шакарим, 165"
+    }
+   ]
+  },
+  {
+   "key": "tire",
+   "label": "Шиномонтаж",
+   "count": 216,
+   "ppp": 1852,
+   "sample": 60,
+   "avg": 4.47,
+   "weak_share": 10,
+   "strong_share": 42,
+   "total_rev": 6490,
+   "saturation": "плотно",
+   "quality": "среднее",
+   "beatable": 47,
+   "driver": "288 тыс. авто, сезон",
+   "driver_score": 1,
+   "leaders": [
+    {
+     "name": "Hyundai Oskemen, центр по продаже автомобилей",
+     "rating": 4.7,
+     "reviews": 814,
+     "addr": null
+    },
+    {
+     "name": "1ST OIL, центр замены масел",
+     "rating": 4.9,
+     "reviews": 699,
+     "addr": "улица Потанина, 8/1"
+    },
+    {
+     "name": "Рулевой, СТО",
+     "rating": 4.7,
+     "reviews": 306,
+     "addr": "улица Чернова, 128а"
+    },
+    {
+     "name": "Тұлпар КШТ, автосервисный центр",
+     "rating": 3.5,
+     "reviews": 256,
+     "addr": null
+    },
+    {
+     "name": "5 Звёзд, шиномонтажная мастерская",
+     "rating": 4.3,
+     "reviews": 235,
+     "addr": "проспект Победы, 4/2"
+    }
+   ]
+  },
+  {
+   "key": "auto",
+   "label": "Автосервисы",
+   "count": 294,
+   "ppp": 1361,
+   "sample": 60,
+   "avg": 4.57,
+   "weak_share": 7,
+   "strong_share": 47,
+   "total_rev": 10417,
+   "saturation": "плотно",
+   "quality": "среднее",
+   "beatable": 32,
+   "driver": "53% авто ВКО >20 лет",
+   "driver_score": 2,
+   "leaders": [
+    {
+     "name": "Geely Oskemen, автосалон",
+     "rating": 5,
+     "reviews": 1423,
+     "addr": "переулок Нефтяной, 2"
+    },
+    {
+     "name": "1ST OIL, центр замены масел",
+     "rating": 4.9,
+     "reviews": 1378,
+     "addr": null
+    },
+    {
+     "name": "Hyundai Oskemen, центр по продаже автомобилей",
+     "rating": 4.7,
+     "reviews": 814,
+     "addr": null
+    },
+    {
+     "name": "SCT-Service, автоцентр",
+     "rating": 4.9,
+     "reviews": 757,
+     "addr": null
+    },
+    {
+     "name": "710 OIL, пункт замены масла",
+     "rating": 4.9,
+     "reviews": 324,
+     "addr": null
+    }
+   ]
+  },
+  {
+   "key": "cafe",
+   "label": "Кафе",
+   "count": 314,
+   "ppp": 1274,
+   "sample": 60,
+   "avg": 4.33,
+   "weak_share": 18,
+   "strong_share": 22,
+   "total_rev": 37261,
+   "saturation": "плотно",
+   "quality": "слабое",
+   "beatable": 47,
+   "driver": "Общепит РК +13,3%",
+   "driver_score": 1,
+   "leaders": [
+    {
+     "name": "Ясин, шайхана",
+     "rating": 4.7,
+     "reviews": 4098,
+     "addr": null
+    },
+    {
+     "name": "Coffee Boom",
+     "rating": 4.3,
+     "reviews": 2646,
+     "addr": null
+    },
+    {
+     "name": "Good Week, кафе",
+     "rating": 4.5,
+     "reviews": 2285,
+     "addr": null
+    },
+    {
+     "name": "Vёsla Sushi & Wok",
+     "rating": 4.6,
+     "reviews": 1710,
+     "addr": "Нурсултана Назарбаева проспект, 46"
+    },
+    {
+     "name": "Panda Lamian, ресторан быстрого питания",
+     "rating": 4.8,
+     "reviews": 1475,
+     "addr": null
+    }
+   ]
+  },
+  {
+   "key": "beauty",
+   "label": "Салоны красоты",
+   "count": 664,
+   "ppp": 602,
+   "sample": 60,
+   "avg": 4.52,
+   "weak_share": 10,
+   "strong_share": 43,
+   "total_rev": 8920,
+   "saturation": "плотно",
+   "quality": "среднее",
+   "beatable": 28,
+   "driver": "—",
+   "driver_score": 0,
+   "leaders": [
+    {
+     "name": "Lava keratin studio, студия восстановления волос",
+     "rating": 4.9,
+     "reviews": 689,
+     "addr": null
+    },
+    {
+     "name": "Nika beauty, салон красоты",
+     "rating": 4.8,
+     "reviews": 556,
+     "addr": "улица Оралхан Бокей, 13"
+    },
+    {
+     "name": "Tsa Tsa, студия",
+     "rating": 4.9,
+     "reviews": 480,
+     "addr": null
+    },
+    {
+     "name": "PodoLukko, центр подологии, маникюра и педикюра",
+     "rating": 4.9,
+     "reviews": 435,
+     "addr": "улица Сагадат Нурмагамбетов, 53"
+    },
+    {
+     "name": "Жасмин, парикмахерская",
+     "rating": 4.4,
+     "reviews": 407,
+     "addr": "улица Оралхан Бокей, 27"
+    }
+   ]
+  }
+ ],
+ "rent_purpose": [
+  {
+   "n": 98,
+   "median": 4000,
+   "p25": 2500,
+   "p75": 5714,
+   "min": 300,
+   "max": 20000,
+   "purpose": "Свободное назначение"
+  },
+  {
+   "n": 67,
+   "median": 4000,
+   "p25": 3000,
+   "p75": 5000,
+   "min": 900,
+   "max": 13500,
+   "purpose": "Офисы"
+  },
+  {
+   "n": 66,
+   "median": 5916,
+   "p25": 3900,
+   "p75": 8750,
+   "min": 1500,
+   "max": 15556,
+   "purpose": "Магазины и бутики"
+  },
+  {
+   "n": 35,
+   "median": 2000,
+   "p25": 1200,
+   "p75": 2500,
+   "min": 654,
+   "max": 7000,
+   "purpose": "Склады"
+  },
+  {
+   "n": 21,
+   "median": 5000,
+   "p25": 2500,
+   "p75": 6500,
+   "min": 652,
+   "max": 12500,
+   "purpose": "Салоны красоты"
+  },
+  {
+   "n": 17,
+   "median": 1500,
+   "p25": 857,
+   "p75": 2273,
+   "min": 500,
+   "max": 5556,
+   "purpose": "Свободное назначение, склады"
+  },
+  {
+   "n": 14,
+   "median": 5266,
+   "p25": 4000,
+   "p75": 6462,
+   "min": 1133,
+   "max": 16667,
+   "purpose": "Общепит"
+  },
+  {
+   "n": 8,
+   "median": 4000,
+   "p25": 3333,
+   "p75": 4399,
+   "min": 2500,
+   "max": 5000,
+   "purpose": "Азс, автосервисы и автомойки"
+  },
+  {
+   "n": 7,
+   "median": 4000,
+   "p25": 2857,
+   "p75": 4861,
+   "min": 2500,
+   "max": 5137,
+   "purpose": "Офисы, магазины и бутики"
+  },
+  {
+   "n": 6,
+   "median": 4496,
+   "p25": 3182,
+   "p75": 4706,
+   "min": 3182,
+   "max": 6667,
+   "purpose": "Свободное назначение, офисы, магазины и бутики, салоны красоты, фитнес и спорт, медцентры и аптеки, образование, развлечения, конференц-залы, кабинеты и рабочие места, студии"
+  },
+  {
+   "n": 6,
+   "median": 3182,
+   "p25": 3182,
+   "p75": 3182,
+   "min": 3182,
+   "max": 4000,
+   "purpose": "Свободное назначение, офисы, магазины и бутики, общепит, салоны красоты, фитнес и спорт, медцентры и аптеки, образование, развлечения, конференц-залы, кабинеты и рабочие места, студии"
+  },
+  {
+   "n": 5,
+   "median": 1800,
+   "p25": 1400,
+   "p75": 2727,
+   "min": 800,
+   "max": 3500,
+   "purpose": "Свободное назначение, офисы, склады"
+  },
+  {
+   "n": 5,
+   "median": 2000,
+   "p25": 2000,
+   "p75": 2000,
+   "min": 960,
+   "max": 5000,
+   "purpose": "Офисы, склады"
+  }
+ ],
+ "rent_district": [
+  {
+   "n": 356,
+   "median": 4000,
+   "p25": 2500,
+   "p75": 5500,
+   "min": 400,
+   "max": 20000,
+   "district": "Прочие адреса (правобережье)"
+  },
+  {
+   "n": 162,
+   "median": 4316,
+   "p25": 2632,
+   "p75": 6000,
+   "min": 300,
+   "max": 20000,
+   "district": "Ульбинский (центр)"
+  },
+  {
+   "n": 9,
+   "median": 3000,
+   "p25": 2188,
+   "p75": 5833,
+   "min": 1562,
+   "max": 15000,
+   "district": "Меновное"
+  }
+ ],
+ "rent_band": [
+  {
+   "n": 187,
+   "median": 4722,
+   "p25": 3125,
+   "p75": 6863,
+   "min": 450,
+   "max": 20000,
+   "band": "до 50 м²"
+  },
+  {
+   "n": 168,
+   "median": 4000,
+   "p25": 2857,
+   "p75": 5500,
+   "min": 300,
+   "max": 16667,
+   "band": "50–150 м²"
+  },
+  {
+   "n": 112,
+   "median": 3500,
+   "p25": 2000,
+   "p75": 5000,
+   "min": 476,
+   "max": 10000,
+   "band": "150–400 м²"
+  },
+  {
+   "n": 67,
+   "median": 3000,
+   "p25": 1200,
+   "p75": 5000,
+   "min": 400,
+   "max": 10000,
+   "band": "400+ м²"
+  }
+ ],
+ "spatial": {
+  "center": {
+   "lat": 49.9442,
+   "lon": 82.6113
+  },
+  "bounds": {
+   "lat0": 49.885,
+   "lat1": 49.995,
+   "lon0": 82.545,
+   "lon1": 82.69
+  },
+  "left_bank_lon": 82.585,
+  "categories": [
+   {
+    "key": "auto",
+    "label": "Автосервисы",
+    "n": 59,
+    "med_dist": 4.25,
+    "periph_share": 81,
+    "left_share": 36,
+    "spread": 1.49,
+    "vs_grocery_periph": 25
+   },
+   {
+    "key": "vet",
+    "label": "Ветклиники",
+    "n": 19,
+    "med_dist": 3.38,
+    "periph_share": 63,
+    "left_share": 16,
+    "spread": 1.4,
+    "vs_grocery_periph": 7
+   },
+   {
+    "key": "otdelka",
+    "label": "Отделочные",
+    "n": 51,
+    "med_dist": 2.87,
+    "periph_share": 63,
+    "left_share": 10,
+    "spread": 1.49,
+    "vs_grocery_periph": 7
+   },
+   {
+    "key": "pvz",
+    "label": "ПВЗ",
+    "n": 60,
+    "med_dist": 2.66,
+    "periph_share": 57,
+    "left_share": 15,
+    "spread": 1.57,
+    "vs_grocery_periph": 1
+   },
+   {
+    "key": "grocery",
+    "label": "Продуктовые",
+    "n": 55,
+    "med_dist": 2.95,
+    "periph_share": 56,
+    "left_share": 18,
+    "spread": 1.81,
+    "vs_grocery_periph": 0
+   },
+   {
+    "key": "stoma",
+    "label": "Стоматологии",
+    "n": 59,
+    "med_dist": 2.42,
+    "periph_share": 49,
+    "left_share": 2,
+    "spread": 1.56,
+    "vs_grocery_periph": -7
+   },
+   {
+    "key": "pharma",
+    "label": "Аптеки",
+    "n": 60,
+    "med_dist": 2.24,
+    "periph_share": 47,
+    "left_share": 7,
+    "spread": 1.51,
+    "vs_grocery_periph": -9
+   },
+   {
+    "key": "beauty",
+    "label": "Салоны красоты",
+    "n": 60,
+    "med_dist": 2.09,
+    "periph_share": 43,
+    "left_share": 7,
+    "spread": 1.58,
+    "vs_grocery_periph": -13
+   },
+   {
+    "key": "cafe",
+    "label": "Кафе",
+    "n": 60,
+    "med_dist": 2.05,
+    "periph_share": 43,
+    "left_share": 10,
+    "spread": 1.45,
+    "vs_grocery_periph": -13
+   },
+   {
+    "key": "bakery",
+    "label": "Пекарни",
+    "n": 31,
+    "med_dist": 2.06,
+    "periph_share": 42,
+    "left_share": 6,
+    "spread": 1.84,
+    "vs_grocery_periph": -14
+   },
+   {
+    "key": "barber",
+    "label": "Барбершопы",
+    "n": 23,
+    "med_dist": 1.85,
+    "periph_share": 39,
+    "left_share": 0,
+    "spread": 1.62,
+    "vs_grocery_periph": -17
+   },
+   {
+    "key": "coffee",
+    "label": "Кофейни",
+    "n": 60,
+    "med_dist": 1.37,
+    "periph_share": 33,
+    "left_share": 0,
+    "spread": 1.38,
+    "vs_grocery_periph": -23
+   },
+   {
+    "key": "fitness",
+    "label": "Фитнес",
+    "n": 40,
+    "med_dist": 1.8,
+    "periph_share": 32,
+    "left_share": 8,
+    "spread": 1.57,
+    "vs_grocery_periph": -24
+   }
+  ],
+  "points": [
+   {
+    "cat": "grocery",
+    "lat": 49.96596,
+    "lon": 82.58758,
+    "name": "City Center, супермаркет",
+    "rating": 4.2,
+    "reviews": 617
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.93077,
+    "lon": 82.59652,
+    "name": "Altay Market, супермаркет",
+    "rating": 4.8,
+    "reviews": 27
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.97196,
+    "lon": 82.61068,
+    "name": "Chef market, оптово-розничный магазин продуктов",
+    "rating": 4.5,
+    "reviews": 83
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.91553,
+    "lon": 82.62439,
+    "name": "METRO Cash & Carry, оптовый магазин",
+    "rating": 4.1,
+    "reviews": 179
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.98534,
+    "lon": 82.57257,
+    "name": "Белорусские продукты",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.97066,
+    "lon": 82.61456,
+    "name": "Светофор, супермаркет",
+    "rating": 3.8,
+    "reviews": 77
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.99553,
+    "lon": 82.65873,
+    "name": "Светлячок, продуктовый магазин",
+    "rating": 4,
+    "reviews": 17
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.92936,
+    "lon": 82.61206,
+    "name": "Magnum Hyper",
+    "rating": 3.7,
+    "reviews": 616
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.94919,
+    "lon": 82.61735,
+    "name": "Magnum Super",
+    "rating": 2.9,
+    "reviews": 243
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.9033,
+    "lon": 82.62051,
+    "name": "Magnum, Magnum Express",
+    "rating": 2.9,
+    "reviews": 147
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.95076,
+    "lon": 82.53418,
+    "name": "Ахмер, продуктовый магазин",
+    "rating": 4.8,
+    "reviews": 19
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.94902,
+    "lon": 82.61331,
+    "name": "Колос, супермаркет",
+    "rating": 2.7,
+    "reviews": 132
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.94946,
+    "lon": 82.63873,
+    "name": "Продуктофф, магазин",
+    "rating": 4.8,
+    "reviews": 717
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.94992,
+    "lon": 82.60663,
+    "name": "Продуктофф, магазин",
+    "rating": 4.6,
+    "reviews": 814
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.96093,
+    "lon": 82.63661,
+    "name": "Halyk Mart, оптомаркет",
+    "rating": 4,
+    "reviews": 114
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.94964,
+    "lon": 82.64,
+    "name": "Волна, супермаркет",
+    "rating": 2.9,
+    "reviews": 100
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.90307,
+    "lon": 82.6265,
+    "name": "A-Store, гипермаркет",
+    "rating": 4.3,
+    "reviews": 196
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.89861,
+    "lon": 82.61232,
+    "name": "Айзере, мини-маркет",
+    "rating": 3.2,
+    "reviews": 121
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.94439,
+    "lon": 82.607,
+    "name": "Чайка, продуктовый магазин",
+    "rating": 3.9,
+    "reviews": 67
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.98384,
+    "lon": 82.57481,
+    "name": "Светофор, супермаркет",
+    "rating": 3.1,
+    "reviews": 142
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.96272,
+    "lon": 82.63963,
+    "name": "Светофор, супермаркет",
+    "rating": 3.7,
+    "reviews": 78
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.92503,
+    "lon": 82.6261,
+    "name": "Айзере, мини-маркет",
+    "rating": 3.5,
+    "reviews": 143
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.93014,
+    "lon": 82.58428,
+    "name": "Светофор, супермаркет",
+    "rating": 3.6,
+    "reviews": 77
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.97275,
+    "lon": 82.5825,
+    "name": "Рахат, продуктовый магазин",
+    "rating": 3.9,
+    "reviews": 33
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.96162,
+    "lon": 82.59296,
+    "name": "Караша, продуктовый магазин",
+    "rating": 4.6,
+    "reviews": 38
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.94828,
+    "lon": 82.6126,
+    "name": "Ауэзовский, магазин",
+    "rating": 2.7,
+    "reviews": 34
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.88758,
+    "lon": 82.64052,
+    "name": "Магнат, мини-маркет",
+    "rating": 4.2,
+    "reviews": 69
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.93279,
+    "lon": 82.58753,
+    "name": "Арзан баға, супермаркет",
+    "rating": 4.2,
+    "reviews": 66
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.96638,
+    "lon": 82.54386,
+    "name": "Жәй төбе, продуктовый магазин",
+    "rating": 3.7,
+    "reviews": 30
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.94459,
+    "lon": 82.60433,
+    "name": "Горожанка, продуктовый магазин",
+    "rating": 4.3,
+    "reviews": 54
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.96328,
+    "lon": 82.60953,
+    "name": "Нури, продовольственный магазин",
+    "rating": 2.2,
+    "reviews": 124
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.95926,
+    "lon": 82.63691,
+    "name": "Sandy, продовольственный магазин",
+    "rating": 2.2,
+    "reviews": 134
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.95278,
+    "lon": 82.64361,
+    "name": "Дао, продовольственный магазин",
+    "rating": 3.5,
+    "reviews": 65
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.89556,
+    "lon": 82.62006,
+    "name": "888 Маркет, магазин",
+    "rating": 2.1,
+    "reviews": 27
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.95779,
+    "lon": 82.60719,
+    "name": "Снежинка, магазин продуктов",
+    "rating": 4.3,
+    "reviews": 32
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.95113,
+    "lon": 82.53441,
+    "name": "7`я Маркет, супермаркет",
+    "rating": 4.7,
+    "reviews": 314
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.89182,
+    "lon": 82.64915,
+    "name": "Мереке, продовольственный магазин",
+    "rating": 4,
+    "reviews": 34
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.92576,
+    "lon": 82.62561,
+    "name": "Айару, мини-маркет",
+    "rating": 4.7,
+    "reviews": 80
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.98625,
+    "lon": 82.57198,
+    "name": "Smile, продуктовый магазин",
+    "rating": 3.2,
+    "reviews": 60
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.97502,
+    "lon": 82.65098,
+    "name": "7`я Маркет, супермаркет",
+    "rating": 4.6,
+    "reviews": 176
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.9578,
+    "lon": 82.61065,
+    "name": "La Central",
+    "rating": 3.9,
+    "reviews": 114
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.97607,
+    "lon": 82.5572,
+    "name": "Айша, продуктовый магазин",
+    "rating": 4.5,
+    "reviews": 19
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.96322,
+    "lon": 82.68155,
+    "name": "Барыс, продуктовый магазин",
+    "rating": 4.5,
+    "reviews": 16
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.94558,
+    "lon": 82.62526,
+    "name": "Ласточка, мини-маркет",
+    "rating": 2.8,
+    "reviews": 76
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.90221,
+    "lon": 82.62146,
+    "name": "Нур, магазин",
+    "rating": 2.2,
+    "reviews": 62
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.92029,
+    "lon": 82.62918,
+    "name": "A-Store, гипермаркет",
+    "rating": 2.7,
+    "reviews": 31
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.9597,
+    "lon": 82.62017,
+    "name": "Lime, магазин разливных напитков",
+    "rating": 4.1,
+    "reviews": 90
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.93861,
+    "lon": 82.58249,
+    "name": "Елена, продовольственный магазин",
+    "rating": 4.2,
+    "reviews": 25
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.91351,
+    "lon": 82.62763,
+    "name": "Оливье, супермаркет",
+    "rating": 4.2,
+    "reviews": 32
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.97583,
+    "lon": 82.58738,
+    "name": "Lime, мини-маркет",
+    "rating": 4.3,
+    "reviews": 39
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.89906,
+    "lon": 82.63503,
+    "name": "Allmart, продуктовый магазин",
+    "rating": 4.3,
+    "reviews": 83
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.89209,
+    "lon": 82.63717,
+    "name": "Qazyna, мини-маркет",
+    "rating": 4.5,
+    "reviews": 45
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.98489,
+    "lon": 82.59215,
+    "name": "A-Store, гипермаркет",
+    "rating": 1.7,
+    "reviews": 102
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.9512,
+    "lon": 82.62086,
+    "name": "Nice Food, продуктовый магазин",
+    "rating": 4.2,
+    "reviews": 33
+   },
+   {
+    "cat": "grocery",
+    "lat": 49.90292,
+    "lon": 82.62424,
+    "name": "18, продуктовый магазин",
+    "rating": 4.9,
+    "reviews": 43
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.89961,
+    "lon": 82.61777,
+    "name": "ОптоМед, аптека",
+    "rating": 4.5,
+    "reviews": 53
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.96917,
+    "lon": 82.59889,
+    "name": "БИОСФЕРА, аптека",
+    "rating": 4.3,
+    "reviews": 49
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.9659,
+    "lon": 82.58952,
+    "name": "Halyk Arzan Pharm, аптека",
+    "rating": 4.3,
+    "reviews": 14
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.90101,
+    "lon": 82.61502,
+    "name": "Аптека Со склада",
+    "rating": 4.5,
+    "reviews": 14
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95864,
+    "lon": 82.60342,
+    "name": "Уміт-Фарм, социальная аптека",
+    "rating": 4.7,
+    "reviews": 22
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94783,
+    "lon": 82.64663,
+    "name": "Аптека",
+    "rating": 4.1,
+    "reviews": 23
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.9432,
+    "lon": 82.62552,
+    "name": "Pharmacom, аптека",
+    "rating": 3.4,
+    "reviews": 67
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.92951,
+    "lon": 82.61274,
+    "name": "Kaspi.kz, онлайн-аптека",
+    "rating": 2.3,
+    "reviews": 2
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.96643,
+    "lon": 82.59853,
+    "name": "Медсервис плюс, аптека",
+    "rating": 4.2,
+    "reviews": 17
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95821,
+    "lon": 82.63602,
+    "name": "103, аптека",
+    "rating": 4.8,
+    "reviews": 159
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95981,
+    "lon": 82.60586,
+    "name": "103, аптека",
+    "rating": 4.6,
+    "reviews": 42
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.9465,
+    "lon": 82.61087,
+    "name": "Zerde, аптека",
+    "rating": 4.7,
+    "reviews": 52
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94914,
+    "lon": 82.63965,
+    "name": "ЕвроАзияФарм",
+    "rating": 3.4,
+    "reviews": 119
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.96843,
+    "lon": 82.60793,
+    "name": "ЕвроАзияФарм",
+    "rating": 4,
+    "reviews": 102
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.9476,
+    "lon": 82.61192,
+    "name": "Europharma, Аптека №165",
+    "rating": 3.7,
+    "reviews": 160
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.89999,
+    "lon": 82.6131,
+    "name": "АГАТ-K, аптека",
+    "rating": 4.2,
+    "reviews": 70
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94581,
+    "lon": 82.62247,
+    "name": "Евромед, аптека",
+    "rating": 4,
+    "reviews": 80
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.90034,
+    "lon": 82.61703,
+    "name": "Zerde, аптека",
+    "rating": 4.3,
+    "reviews": 39
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95865,
+    "lon": 82.60355,
+    "name": "Zerde, аптека",
+    "rating": 4.9,
+    "reviews": 50
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94637,
+    "lon": 82.61075,
+    "name": "Евромед, аптека",
+    "rating": 3.8,
+    "reviews": 31
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.96277,
+    "lon": 82.57966,
+    "name": "Kazmed, аптека",
+    "rating": 3.7,
+    "reviews": 46
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.89927,
+    "lon": 82.61821,
+    "name": "БИОСФЕРА, аптека",
+    "rating": 4.4,
+    "reviews": 16
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95996,
+    "lon": 82.60542,
+    "name": "Zerde, аптека",
+    "rating": 4.8,
+    "reviews": 38
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94973,
+    "lon": 82.63776,
+    "name": "Zerde, аптека",
+    "rating": 4.5,
+    "reviews": 35
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.9051,
+    "lon": 82.63078,
+    "name": "Zerde, аптека",
+    "rating": 4.5,
+    "reviews": 32
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94962,
+    "lon": 82.63998,
+    "name": "БИОСФЕРА, аптека",
+    "rating": 4.6,
+    "reviews": 31
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95732,
+    "lon": 82.60501,
+    "name": "Europharma, Аптека №66",
+    "rating": 3.7,
+    "reviews": 80
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.96508,
+    "lon": 82.58907,
+    "name": "Евромед, аптека",
+    "rating": 3.4,
+    "reviews": 37
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.90311,
+    "lon": 82.62377,
+    "name": "24, аптека",
+    "rating": 4.2,
+    "reviews": 326
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95063,
+    "lon": 82.63728,
+    "name": "Europharma, аптека №103",
+    "rating": 3.8,
+    "reviews": 67
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.97364,
+    "lon": 82.58814,
+    "name": "Zerde, аптека",
+    "rating": 4.5,
+    "reviews": 31
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.96984,
+    "lon": 82.58155,
+    "name": "Zerde, аптека",
+    "rating": 4.6,
+    "reviews": 19
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95994,
+    "lon": 82.60549,
+    "name": "БИОСФЕРА, аптека",
+    "rating": 4.7,
+    "reviews": 10
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.96359,
+    "lon": 82.58633,
+    "name": "БИОСФЕРА, аптека",
+    "rating": 4.8,
+    "reviews": 36
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94944,
+    "lon": 82.61365,
+    "name": "Комек, аптека",
+    "rating": 4.8,
+    "reviews": 7
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95854,
+    "lon": 82.60275,
+    "name": "Экономь, аптека",
+    "rating": 4.2,
+    "reviews": 27
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95135,
+    "lon": 82.63341,
+    "name": "Zerde, аптека",
+    "rating": 4.4,
+    "reviews": 3
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95477,
+    "lon": 82.64709,
+    "name": "Гедеон Рихтер, аптека",
+    "rating": 4,
+    "reviews": 26
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.96552,
+    "lon": 82.59866,
+    "name": "Ваша Аптека",
+    "rating": 4.1,
+    "reviews": 38
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95447,
+    "lon": 82.63366,
+    "name": "Kazmed, аптека",
+    "rating": 4.3,
+    "reviews": 25
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95251,
+    "lon": 82.64239,
+    "name": "Zerde, аптека",
+    "rating": 4.9,
+    "reviews": 11
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94857,
+    "lon": 82.61288,
+    "name": "БИОСФЕРА, аптека",
+    "rating": 4.7,
+    "reviews": 28
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.89751,
+    "lon": 82.62315,
+    "name": "Zhuldyz pharm, аптека",
+    "rating": 4,
+    "reviews": 37
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.97423,
+    "lon": 82.58903,
+    "name": "Europharma, Аптека №338",
+    "rating": 5,
+    "reviews": 1
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94297,
+    "lon": 82.61965,
+    "name": "Kazmed, аптека",
+    "rating": 4.1,
+    "reviews": 37
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.89836,
+    "lon": 82.62133,
+    "name": "Europharma, Аптека №31",
+    "rating": 2.8,
+    "reviews": 79
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95384,
+    "lon": 82.64359,
+    "name": "Забота, аптека",
+    "rating": 4.2,
+    "reviews": 40
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95135,
+    "lon": 82.63782,
+    "name": "Социальная аптека",
+    "rating": 4.8,
+    "reviews": 30
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95438,
+    "lon": 82.63266,
+    "name": "Europharma",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94974,
+    "lon": 82.61506,
+    "name": "ЕвроАзияФарм",
+    "rating": 3.6,
+    "reviews": 37
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95338,
+    "lon": 82.59216,
+    "name": "Евромед, аптека",
+    "rating": 4.4,
+    "reviews": 21
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.90233,
+    "lon": 82.60786,
+    "name": "ЕвроАзияФарм",
+    "rating": 2.9,
+    "reviews": 70
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.96375,
+    "lon": 82.58665,
+    "name": "Zerde, аптека",
+    "rating": 5,
+    "reviews": 5
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.89331,
+    "lon": 82.59648,
+    "name": "AishaPharm, аптека",
+    "rating": 3.8,
+    "reviews": 49
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95413,
+    "lon": 82.62465,
+    "name": "Диана, аптека",
+    "rating": 3.7,
+    "reviews": 24
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.95612,
+    "lon": 82.61357,
+    "name": "Zerde, аптека",
+    "rating": 4.7,
+    "reviews": 18
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.98569,
+    "lon": 82.57183,
+    "name": "Zerde, аптека",
+    "rating": 4.3,
+    "reviews": 14
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94673,
+    "lon": 82.61109,
+    "name": "ОптоМед, аптека",
+    "rating": 4.5,
+    "reviews": 62
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.97024,
+    "lon": 82.58231,
+    "name": "БИОСФЕРА, аптека",
+    "rating": 4.6,
+    "reviews": 13
+   },
+   {
+    "cat": "pharma",
+    "lat": 49.94556,
+    "lon": 82.61475,
+    "name": "Europharma, Аптека №210",
+    "rating": 4.1,
+    "reviews": 51
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.96614,
+    "lon": 82.59794,
+    "name": "ПЛЮШКА, кофейня",
+    "rating": 4.8,
+    "reviews": 380
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.94949,
+    "lon": 82.61339,
+    "name": "La Famiglia, итальянская пекарня",
+    "rating": 4.7,
+    "reviews": 63
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.95137,
+    "lon": 82.62053,
+    "name": "ПЛЮШКА, кофейня",
+    "rating": 4.7,
+    "reviews": 164
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.90421,
+    "lon": 82.60732,
+    "name": "Буlки, пекарня-кофейня",
+    "rating": 4.4,
+    "reviews": 26
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.94766,
+    "lon": 82.61197,
+    "name": "ПЛЮШКА, кофейня",
+    "rating": 4.7,
+    "reviews": 215
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.95858,
+    "lon": 82.60554,
+    "name": "Вояж, кондитерская-пекарня",
+    "rating": 3.9,
+    "reviews": 153
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.95079,
+    "lon": 82.61643,
+    "name": "Lakomka, кофейня с домашней выпечкой",
+    "rating": 4.8,
+    "reviews": 251
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.95879,
+    "lon": 82.61017,
+    "name": "Дом Хлеба, пекарня",
+    "rating": 4.7,
+    "reviews": 165
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.95251,
+    "lon": 82.6325,
+    "name": "ПЛЮШКА, кофейня",
+    "rating": 4.7,
+    "reviews": 54
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.89227,
+    "lon": 82.62414,
+    "name": "Добрый пекарь",
+    "rating": 4.6,
+    "reviews": 6
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.95236,
+    "lon": 82.63293,
+    "name": "Добрый пекарь",
+    "rating": 4.1,
+    "reviews": 43
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.96543,
+    "lon": 82.58737,
+    "name": "Добрый пекарь",
+    "rating": 4,
+    "reviews": 30
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.94691,
+    "lon": 82.59604,
+    "name": "Булочная",
+    "rating": 4.8,
+    "reviews": 41
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.90024,
+    "lon": 82.61623,
+    "name": "Добрый пекарь",
+    "rating": 4.3,
+    "reviews": 37
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.92448,
+    "lon": 82.65918,
+    "name": "Burabai, пекарня",
+    "rating": 5,
+    "reviews": 11
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.92951,
+    "lon": 82.61274,
+    "name": "Добрый пекарь",
+    "rating": 4.3,
+    "reviews": 17
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.95958,
+    "lon": 82.59526,
+    "name": "Roj Helat, пекарня",
+    "rating": 3.2,
+    "reviews": 16
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.95321,
+    "lon": 82.53021,
+    "name": "Аққу, пекарня",
+    "rating": 4.3,
+    "reviews": 9
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.89546,
+    "lon": 82.61485,
+    "name": "Добрый пекарь",
+    "rating": 3.6,
+    "reviews": 14
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.94439,
+    "lon": 82.607,
+    "name": "Добрый пекарь",
+    "rating": 4.5,
+    "reviews": 23
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.89558,
+    "lon": 82.59629,
+    "name": "Family Market, Пекарня",
+    "rating": 2.2,
+    "reviews": 8
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.96731,
+    "lon": 82.57294,
+    "name": "Пекарня Восточная",
+    "rating": 2.8,
+    "reviews": 11
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.8997,
+    "lon": 82.65795,
+    "name": "Пекарня",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.95778,
+    "lon": 82.59749,
+    "name": "Pekarina",
+    "rating": 4.2,
+    "reviews": 14
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.9602,
+    "lon": 82.63174,
+    "name": "Pekarina",
+    "rating": 3.6,
+    "reviews": 8
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.9681,
+    "lon": 82.6231,
+    "name": "Элит, пекарня",
+    "rating": 2.1,
+    "reviews": 42
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.95477,
+    "lon": 82.63852,
+    "name": "Pekarina",
+    "rating": 1,
+    "reviews": 1
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.93077,
+    "lon": 82.59652,
+    "name": "Burabai, пекарня",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.95236,
+    "lon": 82.63293,
+    "name": "Груша, пекарня",
+    "rating": 4.3,
+    "reviews": 55
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.89307,
+    "lon": 82.64623,
+    "name": "NDN familybakery, кондитерский цех",
+    "rating": 4.3,
+    "reviews": 16
+   },
+   {
+    "cat": "bakery",
+    "lat": 49.94992,
+    "lon": 82.60663,
+    "name": "Bonape, французская пекарня",
+    "rating": 2.4,
+    "reviews": 38
+   },
+   {
+    "cat": "vet",
+    "lat": 49.98201,
+    "lon": 82.57624,
+    "name": "ZOOVITA, центр ветеринарной медицины",
+    "rating": 4.4,
+    "reviews": 784
+   },
+   {
+    "cat": "vet",
+    "lat": 49.96596,
+    "lon": 82.57805,
+    "name": "VetLab, ветеринарный клинико-диагностический центр",
+    "rating": 4.7,
+    "reviews": 244
+   },
+   {
+    "cat": "vet",
+    "lat": 49.95345,
+    "lon": 82.62257,
+    "name": "ZOOVITA, центр ветеринарной медицины",
+    "rating": 4.4,
+    "reviews": 225
+   },
+   {
+    "cat": "vet",
+    "lat": 49.89728,
+    "lon": 82.62113,
+    "name": "ZOOVITA, центр ветеринарной медицины",
+    "rating": 4.6,
+    "reviews": 49
+   },
+   {
+    "cat": "vet",
+    "lat": 49.94907,
+    "lon": 82.60417,
+    "name": "Вет-Эксперт, ветеринарный кабинет",
+    "rating": 4.8,
+    "reviews": 262
+   },
+   {
+    "cat": "vet",
+    "lat": 49.97525,
+    "lon": 82.60216,
+    "name": "Свой Доктор, ветеринарный кабинет",
+    "rating": 4.9,
+    "reviews": 98
+   },
+   {
+    "cat": "vet",
+    "lat": 49.95897,
+    "lon": 82.63867,
+    "name": "Фламинго, ветеринарная клиника",
+    "rating": 4.4,
+    "reviews": 61
+   },
+   {
+    "cat": "vet",
+    "lat": 49.95437,
+    "lon": 82.64592,
+    "name": "VetLab, ветеринарный клинико-диагностический центр",
+    "rating": 4.6,
+    "reviews": 48
+   },
+   {
+    "cat": "vet",
+    "lat": 49.9632,
+    "lon": 82.60036,
+    "name": "Феникс, ветеринарная клиника",
+    "rating": 4.3,
+    "reviews": 113
+   },
+   {
+    "cat": "vet",
+    "lat": 49.94894,
+    "lon": 82.64172,
+    "name": "Бетховен, ветеринарная клиника",
+    "rating": 4.2,
+    "reviews": 137
+   },
+   {
+    "cat": "vet",
+    "lat": 49.97821,
+    "lon": 82.58924,
+    "name": "Вита, ветеринарная клиника",
+    "rating": 4.1,
+    "reviews": 115
+   },
+   {
+    "cat": "vet",
+    "lat": 49.96713,
+    "lon": 82.58016,
+    "name": "Бетховен, ветеринарная клиника",
+    "rating": 4.7,
+    "reviews": 29
+   },
+   {
+    "cat": "vet",
+    "lat": 49.98005,
+    "lon": 82.59755,
+    "name": "Ветсервис Восток, ветеринарная аптека",
+    "rating": 4,
+    "reviews": 26
+   },
+   {
+    "cat": "vet",
+    "lat": 49.9372,
+    "lon": 82.58603,
+    "name": "Мила, ветеринарный центр",
+    "rating": 4.4,
+    "reviews": 21
+   },
+   {
+    "cat": "vet",
+    "lat": 49.94551,
+    "lon": 82.61447,
+    "name": "Бастет, ветеринарный кабинет",
+    "rating": 5,
+    "reviews": 6
+   },
+   {
+    "cat": "vet",
+    "lat": 49.89742,
+    "lon": 82.62121,
+    "name": "Клиника кошек",
+    "rating": 4.4,
+    "reviews": 16
+   },
+   {
+    "cat": "vet",
+    "lat": 49.96181,
+    "lon": 82.60928,
+    "name": "Лада-Н, ветеринарная клиника",
+    "rating": 4,
+    "reviews": 45
+   },
+   {
+    "cat": "vet",
+    "lat": 49.98005,
+    "lon": 82.59755,
+    "name": "АлАн, зооветцентр",
+    "rating": 4.1,
+    "reviews": 20
+   },
+   {
+    "cat": "vet",
+    "lat": 49.97685,
+    "lon": 82.59484,
+    "name": "ВетLife, ветеринарная клиника",
+    "rating": 3.8,
+    "reviews": 27
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.93366,
+    "lon": 82.58539,
+    "name": "Магнат, магазин строительных материалов",
+    "rating": 4.2,
+    "reviews": 29
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.99241,
+    "lon": 82.65098,
+    "name": "СТРОЙ АРСЕНАЛ, официальный представитель Knauf, Titan, Henkel",
+    "rating": 4.7,
+    "reviews": 30
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.91603,
+    "lon": 82.63056,
+    "name": "ТНП, магазин строительных материалов",
+    "rating": 4.5,
+    "reviews": 168
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96028,
+    "lon": 82.63747,
+    "name": "ТНП, магазин строительных материалов",
+    "rating": 3.7,
+    "reviews": 266
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.95958,
+    "lon": 82.63908,
+    "name": "Мегастрой, супермаркет строительных и отделочных материалов",
+    "rating": 2.6,
+    "reviews": 376
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.91295,
+    "lon": 82.63183,
+    "name": "12 Месяцев, центр строительных материалов",
+    "rating": 4.5,
+    "reviews": 567
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96423,
+    "lon": 82.64256,
+    "name": "Комфорт, гипермаркет строительных материалов и товаров для дома",
+    "rating": 3.6,
+    "reviews": 251
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.89801,
+    "lon": 82.64511,
+    "name": "Беакрис",
+    "rating": 3.3,
+    "reviews": 91
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.95674,
+    "lon": 82.62661,
+    "name": "СТРОЙ АРСЕНАЛ, официальный представитель Knauf, Titan, Henkel",
+    "rating": 4.4,
+    "reviews": 29
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96477,
+    "lon": 82.57868,
+    "name": "Метизно-торговая компания",
+    "rating": 4.1,
+    "reviews": 26
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96167,
+    "lon": 82.60754,
+    "name": "СТРОЙ АРСЕНАЛ, официальный представитель Knauf, Titan, Henkel",
+    "rating": 4.2,
+    "reviews": 46
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.97066,
+    "lon": 82.61456,
+    "name": "Студия цвета, официальный дистрибьютор Tikkurila, Docke",
+    "rating": 4.6,
+    "reviews": 32
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.9523,
+    "lon": 82.61285,
+    "name": "Caparol, официальный дилер ARCH, Alpina",
+    "rating": 5,
+    "reviews": 40
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.97604,
+    "lon": 82.55738,
+    "name": "Алмаз, магазин хозяйственных товаров",
+    "rating": 4.6,
+    "reviews": 17
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96635,
+    "lon": 82.59054,
+    "name": "Дом, магазин строительных материалов",
+    "rating": 4.4,
+    "reviews": 33
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.89308,
+    "lon": 82.61561,
+    "name": "Новостройка, магазин строительных материалов",
+    "rating": 4.2,
+    "reviews": 36
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.95796,
+    "lon": 82.60554,
+    "name": "Nota Bene, магазин отделочных материалов",
+    "rating": 4.6,
+    "reviews": 55
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.95389,
+    "lon": 82.64797,
+    "name": "Сигнал, магазин строительных и хозяйственных материалов",
+    "rating": 3.8,
+    "reviews": 14
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.94957,
+    "lon": 82.62205,
+    "name": "Империал",
+    "rating": 3.9,
+    "reviews": 9
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96668,
+    "lon": 82.54529,
+    "name": "Хозмаг, магазин",
+    "rating": 5,
+    "reviews": 10
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.92348,
+    "lon": 82.62145,
+    "name": "Bauramix, магазин декоративно-отделочных материалов",
+    "rating": 5,
+    "reviews": 19
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96067,
+    "lon": 82.63779,
+    "name": "Bauramix, магазин декоративно-отделочных материалов",
+    "rating": 5,
+    "reviews": 5
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.97914,
+    "lon": 82.60667,
+    "name": "NS trade, торговая компания",
+    "rating": 5,
+    "reviews": 1
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.93102,
+    "lon": 82.64641,
+    "name": "Казвинилстрой, оптово-розничная компания",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96392,
+    "lon": 82.62522,
+    "name": "5 Баллов, лакокрасочная торговая компания",
+    "rating": 3.9,
+    "reviews": 14
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.95797,
+    "lon": 82.60312,
+    "name": "РиО, официальный дилер TIKKURILA",
+    "rating": 4.1,
+    "reviews": 29
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96549,
+    "lon": 82.58061,
+    "name": "Nota Bene, магазин отделочных материалов",
+    "rating": 4.5,
+    "reviews": 77
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96125,
+    "lon": 82.63401,
+    "name": "Nota Bene, магазин отделочных материалов",
+    "rating": 4.7,
+    "reviews": 42
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.97182,
+    "lon": 82.64888,
+    "name": "Камелот, компания по продаже и производству искусственного камня",
+    "rating": 4.9,
+    "reviews": 39
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.9514,
+    "lon": 82.61654,
+    "name": "Глянец, торгово-монтажная фирма",
+    "rating": 4.9,
+    "reviews": 126
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.91592,
+    "lon": 82.63056,
+    "name": "5 Баллов, лакокрасочная торговая компания",
+    "rating": 5,
+    "reviews": 2
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.98053,
+    "lon": 82.59891,
+    "name": "SmartGips, компания по производству гипсовых 3D панелей",
+    "rating": 3.9,
+    "reviews": 11
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.95185,
+    "lon": 82.63567,
+    "name": "RS, магазин строительных материалов",
+    "rating": 5,
+    "reviews": 2
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.97042,
+    "lon": 82.60748,
+    "name": "Print Star Media, рекламно-производственная компания",
+    "rating": 4.4,
+    "reviews": 44
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.92348,
+    "lon": 82.62145,
+    "name": "DecoRoom",
+    "rating": 4.5,
+    "reviews": 23
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.95149,
+    "lon": 82.61957,
+    "name": "Юкка, магазин декоративного оформления",
+    "rating": 4.4,
+    "reviews": 21
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.94834,
+    "lon": 82.64424,
+    "name": "Оптово-розничный склад отделочных декоративных материалов",
+    "rating": 4.3,
+    "reviews": 6
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96093,
+    "lon": 82.63661,
+    "name": "Прагматика, студия декоративных строительных материалов",
+    "rating": 5,
+    "reviews": 3
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.95127,
+    "lon": 82.60921,
+    "name": "ZMary_art, творческая мастерская",
+    "rating": 5,
+    "reviews": 2
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.90233,
+    "lon": 82.62168,
+    "name": "Marmar luxe decor",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.89858,
+    "lon": 82.63027,
+    "name": "Камелот, компания по продаже и производству искусственного камня",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.95484,
+    "lon": 82.68849,
+    "name": "Контраст, магазин строительных материалов",
+    "rating": 5,
+    "reviews": 6
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.9467,
+    "lon": 82.61637,
+    "name": "Lorex, мебельная компания",
+    "rating": 5,
+    "reviews": 1
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.97747,
+    "lon": 82.61021,
+    "name": "Grand Mabel, цех по изготовлению мебели",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96067,
+    "lon": 82.63779,
+    "name": "Камелот, компания по продаже и производству искусственного камня",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.94458,
+    "lon": 82.62659,
+    "name": "Art-studio, компания по изготовлению декоративного камня",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.96423,
+    "lon": 82.64256,
+    "name": "Камелот, компания по продаже и производству искусственного камня",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.99399,
+    "lon": 82.56808,
+    "name": "Компания по продаже стройматериалов, ИП 1Click",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.89634,
+    "lon": 82.61652,
+    "name": "Nota Bene, магазин отделочных материалов",
+    "rating": 5,
+    "reviews": 2
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.92348,
+    "lon": 82.62145,
+    "name": "Nota Bene, магазин отделочных материалов",
+    "rating": 4.6,
+    "reviews": 24
+   },
+   {
+    "cat": "otdelka",
+    "lat": 49.97357,
+    "lon": 82.61038,
+    "name": "Amir Studio",
+    "rating": 5,
+    "reviews": 3
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95488,
+    "lon": 82.62595,
+    "name": "TERRASPORT, фитнес-клуб",
+    "rating": 4.7,
+    "reviews": 65
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.9587,
+    "lon": 82.59526,
+    "name": "UkaLeaderSport.kz, фитнес-клуб",
+    "rating": 5,
+    "reviews": 6
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.9482,
+    "lon": 82.63585,
+    "name": "Flash Pilates, студия пилатеса",
+    "rating": 5,
+    "reviews": 18
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.9057,
+    "lon": 82.63175,
+    "name": "Atlantic",
+    "rating": 4,
+    "reviews": 451
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.9484,
+    "lon": 82.61364,
+    "name": "Invictus GO, фитнес-клуб",
+    "rating": 4.5,
+    "reviews": 201
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.94964,
+    "lon": 82.6172,
+    "name": "Papa gym",
+    "rating": 4.7,
+    "reviews": 117
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.94753,
+    "lon": 82.64433,
+    "name": "Flex Fitness Club",
+    "rating": 4.6,
+    "reviews": 124
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95664,
+    "lon": 82.60997,
+    "name": "TERRASPORT, фитнес-клуб",
+    "rating": 4.3,
+    "reviews": 292
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.89788,
+    "lon": 82.61977,
+    "name": "TERRASPORT, фитнес-клуб",
+    "rating": 4.7,
+    "reviews": 121
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.96261,
+    "lon": 82.58025,
+    "name": "Trinity Fitness, фитнес-центр",
+    "rating": 4.9,
+    "reviews": 133
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.90258,
+    "lon": 82.61653,
+    "name": "Flex Fitness Club",
+    "rating": 4.8,
+    "reviews": 80
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.89522,
+    "lon": 82.61589,
+    "name": "Papa gym",
+    "rating": 4.6,
+    "reviews": 134
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95934,
+    "lon": 82.59604,
+    "name": "TERRASPORT, фитнес-клуб",
+    "rating": 4.8,
+    "reviews": 98
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.94619,
+    "lon": 82.61431,
+    "name": "Art-fitness",
+    "rating": 4.8,
+    "reviews": 63
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95936,
+    "lon": 82.60417,
+    "name": "TERRASPORT, фитнес-клуб",
+    "rating": 4.9,
+    "reviews": 95
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.96101,
+    "lon": 82.5938,
+    "name": "Extreme kids, мультиспортивные клубы",
+    "rating": 5,
+    "reviews": 377
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95083,
+    "lon": 82.63474,
+    "name": "Aviva Fitness&SPA, женский премиальный фитнес-центр",
+    "rating": 4.5,
+    "reviews": 40
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.94939,
+    "lon": 82.60684,
+    "name": "TERRASPORT, фитнес-клуб",
+    "rating": 4.7,
+    "reviews": 139
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.89132,
+    "lon": 82.61973,
+    "name": "Fitpro, фитнес-клуб",
+    "rating": 5,
+    "reviews": 16
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.962,
+    "lon": 82.61427,
+    "name": "Soft Fitness, женская фитнес-студия стретчинга и растяжки",
+    "rating": 4.9,
+    "reviews": 78
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95758,
+    "lon": 82.60038,
+    "name": "FitLife, фитнес-клуб",
+    "rating": 4.3,
+    "reviews": 47
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.92036,
+    "lon": 82.62813,
+    "name": "Ya. Pilates Room, студия пилатеса",
+    "rating": 5,
+    "reviews": 1
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95566,
+    "lon": 82.61072,
+    "name": "Fitclass, спортивный центр",
+    "rating": 4.9,
+    "reviews": 76
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.94362,
+    "lon": 82.65233,
+    "name": "Олимпия, тренажерный зал",
+    "rating": 4.9,
+    "reviews": 29
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.94527,
+    "lon": 82.60971,
+    "name": "OrangeArea, фитнес-клуб бизнес-класса",
+    "rating": 4.2,
+    "reviews": 21
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.94795,
+    "lon": 82.59484,
+    "name": "Alik_Boxing_Team, спортивный клуб",
+    "rating": 5,
+    "reviews": 208
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.97703,
+    "lon": 82.57457,
+    "name": "Stimul, тренажерный зал",
+    "rating": 5,
+    "reviews": 71
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.94918,
+    "lon": 82.60213,
+    "name": "Protozanovskiy, спортивный комплекс",
+    "rating": 4.3,
+    "reviews": 31
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.98384,
+    "lon": 82.57481,
+    "name": "Fitness Time",
+    "rating": 3.7,
+    "reviews": 23
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95364,
+    "lon": 82.63178,
+    "name": "Fitness Owl, студия танцев и фитнеса",
+    "rating": 5,
+    "reviews": 9
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.97003,
+    "lon": 82.59458,
+    "name": "Жемчужинка, фитнес-клуб",
+    "rating": 4.6,
+    "reviews": 17
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.90923,
+    "lon": 82.61016,
+    "name": "ZhastarSport, фитнес-клуб",
+    "rating": 5,
+    "reviews": 5
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95267,
+    "lon": 82.61895,
+    "name": "Intellekt Boxing Academy, школа бокса",
+    "rating": 5,
+    "reviews": 13
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95364,
+    "lon": 82.63178,
+    "name": "JUMPING, фитнес-клуб на батутах",
+    "rating": 4,
+    "reviews": 2
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95227,
+    "lon": 82.62009,
+    "name": "Lipina Dance Studio, студия танцев и фитнеса",
+    "rating": 5,
+    "reviews": 3
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.90527,
+    "lon": 82.62402,
+    "name": "Fitness lady, фитнес-клуб",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.95257,
+    "lon": 82.61977,
+    "name": "Intellekt Boxing Academy, школа бокса",
+    "rating": 4.9,
+    "reviews": 58
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.9511,
+    "lon": 82.62065,
+    "name": "Луч, студия танца и фитнеса",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.94667,
+    "lon": 82.6082,
+    "name": "Mndance ballet, балетная студия",
+    "rating": 5,
+    "reviews": 2
+   },
+   {
+    "cat": "fitness",
+    "lat": 49.9466,
+    "lon": 82.59839,
+    "name": "Lipina Dance Studio, студия танцев и фитнеса",
+    "rating": null,
+    "reviews": null
+   },
+   {
+    "cat": "barber",
+    "lat": 49.95719,
+    "lon": 82.61081,
+    "name": "Барон, барбершоп",
+    "rating": 4.9,
+    "reviews": 29
+   },
+   {
+    "cat": "barber",
+    "lat": 49.94889,
+    "lon": 82.62018,
+    "name": "Upgrade, барбершоп",
+    "rating": 4.9,
+    "reviews": 693
+   },
+   {
+    "cat": "barber",
+    "lat": 49.89886,
+    "lon": 82.60514,
+    "name": "Gentlemen’s club, барбершоп",
+    "rating": 4.8,
+    "reviews": 268
+   },
+   {
+    "cat": "barber",
+    "lat": 49.95049,
+    "lon": 82.62215,
+    "name": "Probor, барбершоп",
+    "rating": 4.9,
+    "reviews": 1115
+   },
+   {
+    "cat": "barber",
+    "lat": 49.97062,
+    "lon": 82.59265,
+    "name": "SAL’VA, барбершоп",
+    "rating": 5,
+    "reviews": 889
+   },
+   {
+    "cat": "barber",
+    "lat": 49.94581,
+    "lon": 82.61888,
+    "name": "Pravda, барбершоп",
+    "rating": 4.9,
+    "reviews": 139
+   },
+   {
+    "cat": "barber",
+    "lat": 49.9526,
+    "lon": 82.62277,
+    "name": "Brutal, барбершоп",
+    "rating": 5,
+    "reviews": 331
+   },
+   {
+    "cat": "barber",
+    "lat": 49.90476,
+    "lon": 82.60941,
+    "name": "Barber Lounge, барбершоп",
+    "rating": 4.9,
+    "reviews": 94
+   },
+   {
+    "cat": "barber",
+    "lat": 49.97214,
+    "lon": 82.59072,
+    "name": "Britva, мужской салон",
+    "rating": 4.6,
+    "reviews": 278
+   },
+   {
+    "cat": "barber",
+    "lat": 49.95097,
+    "lon": 82.62274,
+    "name": "SAL’VA, барбершоп",
+    "rating": 5,
+    "reviews": 381
+   },
+   {
+    "cat": "barber",
+    "lat": 49.95782,
+    "lon": 82.60878,
+    "name": "HotRod, барбершоп",
+    "rating": 4.7,
+    "reviews": 238
+   },
+   {
+    "cat": "barber",
+    "lat": 49.95396,
+    "lon": 82.62803,
+    "name": "Barbershop Doss, барбершоп",
+    "rating": 4.6,
+    "reviews": 270
+   },
+   {
+    "cat": "barber",
+    "lat": 49.9636,
+    "lon": 82.60972,
+    "name": "Avangard, барбершоп",
+    "rating": 4.9,
+    "reviews": 117
+   },
+   {
+    "cat": "barber",
+    "lat": 49.96749,
+    "lon": 82.59496,
+    "name": "Borodach, барбершоп",
+    "rating": 4.9,
+    "reviews": 297
+   },
+   {
+    "cat": "barber",
+    "lat": 49.9212,
+    "lon": 82.61737,
+    "name": "Aq Saqal, барбершоп",
+    "rating": 4.6,
+    "reviews": 214
+   },
+   {
+    "cat": "barber",
+    "lat": 49.94579,
+    "lon": 82.61123,
+    "name": "Winchester, барбершоп",
+    "rating": 4.9,
+    "reviews": 90
+   },
+   {
+    "cat": "barber",
+    "lat": 49.94235,
+    "lon": 82.61764,
+    "name": "Studio 4.4",
+    "rating": 5,
+    "reviews": 163
+   },
+   {
+    "cat": "barber",
+    "lat": 49.90118,
+    "lon": 82.61695,
+    "name": "Gentlemen’s club, барбершоп",
+    "rating": 4.8,
+    "reviews": 70
+   },
+   {
+    "cat": "barber",
+    "lat": 49.94978,
+    "lon": 82.60663,
+    "name": "Head Shot, барбершоп",
+    "rating": 4.8,
+    "reviews": 58
+   },
+   {
+    "cat": "barber",
+    "lat": 49.97298,
+    "lon": 82.58967,
+    "name": "Chistobarber, барбершоп",
+    "rating": 5,
+    "reviews": 30
+   },
+   {
+    "cat": "barber",
+    "lat": 49.88722,
+    "lon": 82.61762,
+    "name": "Kwt.Barber",
+    "rating": 4.8,
+    "reviews": 38
+   },
+   {
+    "cat": "barber",
+    "lat": 49.96068,
+    "lon": 82.6072,
+    "name": "Probor, барбершоп",
+    "rating": 4.8,
+    "reviews": 56
+   },
+   {
+    "cat": "barber",
+    "lat": 49.96125,
+    "lon": 82.63401,
+    "name": "Assel.tatto, тату салон",
+    "rating": 5,
+    "reviews": 3
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94959,
+    "lon": 82.6252,
+    "name": "Чехов",
+    "rating": 4.2,
+    "reviews": 273
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94824,
+    "lon": 82.61906,
+    "name": "Selfie Coffee, кофейня",
+    "rating": 4.8,
+    "reviews": 254
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94469,
+    "lon": 82.61001,
+    "name": "CREMÉ, кофейня",
+    "rating": 4.9,
+    "reviews": 352
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.96614,
+    "lon": 82.59794,
+    "name": "ПЛЮШКА, кофейня",
+    "rating": 4.8,
+    "reviews": 380
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.96473,
+    "lon": 82.58661,
+    "name": "Coffee time, кофейня",
+    "rating": 4.7,
+    "reviews": 595
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95235,
+    "lon": 82.61624,
+    "name": "Hani, кафе-кондитерская",
+    "rating": 4.8,
+    "reviews": 68
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95858,
+    "lon": 82.60554,
+    "name": "Вояж, кондитерская-пекарня",
+    "rating": 3.9,
+    "reviews": 153
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94554,
+    "lon": 82.61111,
+    "name": "Frida coffee, кофейня",
+    "rating": 4.5,
+    "reviews": 497
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95037,
+    "lon": 82.62189,
+    "name": "Сладкая жизнь, кафе-кондитерская",
+    "rating": 4.7,
+    "reviews": 527
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.89631,
+    "lon": 82.61662,
+    "name": "Тәп-тәтті, кондитерская",
+    "rating": 4.7,
+    "reviews": 396
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94292,
+    "lon": 82.62484,
+    "name": "Coffee Boom",
+    "rating": 4.3,
+    "reviews": 2646
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.91983,
+    "lon": 82.627,
+    "name": "Coffee Boom Roasters & Bakery",
+    "rating": 4.6,
+    "reviews": 187
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95087,
+    "lon": 82.62183,
+    "name": "Zebra Coffee",
+    "rating": 4.7,
+    "reviews": 295
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95199,
+    "lon": 82.63056,
+    "name": "Kulikov, кондитерский дом",
+    "rating": 4.7,
+    "reviews": 380
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94703,
+    "lon": 82.61071,
+    "name": "Папа Джованни, кафе-траттория",
+    "rating": 4.6,
+    "reviews": 375
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94449,
+    "lon": 82.62617,
+    "name": "Zebra Coffee",
+    "rating": 4.6,
+    "reviews": 220
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.89911,
+    "lon": 82.61261,
+    "name": "Moti coffee, кофейня",
+    "rating": 4.6,
+    "reviews": 694
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94834,
+    "lon": 82.6422,
+    "name": "Тәп-тәтті, кондитерская",
+    "rating": 4.5,
+    "reviews": 84
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94532,
+    "lon": 82.61528,
+    "name": "MarmeLatte, кофейня",
+    "rating": 4.2,
+    "reviews": 208
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95137,
+    "lon": 82.62053,
+    "name": "ПЛЮШКА, кофейня",
+    "rating": 4.7,
+    "reviews": 164
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95086,
+    "lon": 82.60683,
+    "name": "Bolek coffee station",
+    "rating": 4.9,
+    "reviews": 66
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.89972,
+    "lon": 82.62424,
+    "name": "Satpayev coffee, кофейня",
+    "rating": 4.6,
+    "reviews": 220
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.92096,
+    "lon": 82.61591,
+    "name": "Aroma Belle",
+    "rating": 4.9,
+    "reviews": 36
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.97646,
+    "lon": 82.58524,
+    "name": "Кото-Фей, кофейня",
+    "rating": 4.8,
+    "reviews": 420
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.91929,
+    "lon": 82.6275,
+    "name": "Moti coffee, кофейня",
+    "rating": 4.9,
+    "reviews": 323
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95145,
+    "lon": 82.62178,
+    "name": "Папа Джованни, кафе-траттория",
+    "rating": 4.7,
+    "reviews": 219
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.90421,
+    "lon": 82.60732,
+    "name": "Буlки, пекарня-кофейня",
+    "rating": 4.4,
+    "reviews": 26
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94919,
+    "lon": 82.61735,
+    "name": "Global Coffee",
+    "rating": 4.5,
+    "reviews": 351
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.9199,
+    "lon": 82.62699,
+    "name": "Zebra Coffee",
+    "rating": 4.7,
+    "reviews": 95
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94766,
+    "lon": 82.61197,
+    "name": "ПЛЮШКА, кофейня",
+    "rating": 4.7,
+    "reviews": 215
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.91994,
+    "lon": 82.62938,
+    "name": "Hurrem Sultan, турецкая кофейня",
+    "rating": 4.6,
+    "reviews": 86
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94982,
+    "lon": 82.62044,
+    "name": "Espresso Day, кофейня",
+    "rating": 4.7,
+    "reviews": 102
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94314,
+    "lon": 82.625,
+    "name": "Moti coffee, кофейня",
+    "rating": 4.8,
+    "reviews": 250
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94691,
+    "lon": 82.59256,
+    "name": "Мёд, кофейня",
+    "rating": 4.6,
+    "reviews": 101
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95449,
+    "lon": 82.62138,
+    "name": "dommi coffee, кофейня",
+    "rating": 4.7,
+    "reviews": 333
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.96596,
+    "lon": 82.58968,
+    "name": "Global Coffee",
+    "rating": 4.8,
+    "reviews": 90
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94948,
+    "lon": 82.62507,
+    "name": "A16 K-mart, магазин-кофейня",
+    "rating": 4.5,
+    "reviews": 311
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94494,
+    "lon": 82.61644,
+    "name": "Кофеметрика, кофейня-ростерия",
+    "rating": 4.9,
+    "reviews": 63
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.91995,
+    "lon": 82.62824,
+    "name": "Kulikov, кондитерский дом",
+    "rating": 4.9,
+    "reviews": 43
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.92625,
+    "lon": 82.62947,
+    "name": "RestorCoffee, кофейня",
+    "rating": 4.7,
+    "reviews": 98
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.90273,
+    "lon": 82.62346,
+    "name": "dommi coffee, кофейня",
+    "rating": 4.8,
+    "reviews": 102
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95459,
+    "lon": 82.62437,
+    "name": "CoffeeTeria, кофейня",
+    "rating": 4.8,
+    "reviews": 362
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94919,
+    "lon": 82.62483,
+    "name": "Пончиковая",
+    "rating": 4.5,
+    "reviews": 191
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94698,
+    "lon": 82.61774,
+    "name": "Coffee Owl, кофейня",
+    "rating": 4.6,
+    "reviews": 409
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.9201,
+    "lon": 82.62834,
+    "name": "Wedrink, чайный дом",
+    "rating": 4,
+    "reviews": 158
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94294,
+    "lon": 82.62544,
+    "name": "Wedrink, чайный дом",
+    "rating": 4.1,
+    "reviews": 266
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95079,
+    "lon": 82.61643,
+    "name": "Lakomka, кофейня с домашней выпечкой",
+    "rating": 4.8,
+    "reviews": 251
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95167,
+    "lon": 82.62439,
+    "name": "Sova by kofe.fratelli, кофейный магазин",
+    "rating": 4.8,
+    "reviews": 115
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94464,
+    "lon": 82.60414,
+    "name": "Daily coffee",
+    "rating": 4.5,
+    "reviews": 256
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94958,
+    "lon": 82.62078,
+    "name": "Daily coffee",
+    "rating": 5,
+    "reviews": 10
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95554,
+    "lon": 82.63366,
+    "name": "John Coffey, кофейня",
+    "rating": 4.8,
+    "reviews": 238
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.90177,
+    "lon": 82.61675,
+    "name": "Пончиковая",
+    "rating": 4.8,
+    "reviews": 16
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.96877,
+    "lon": 82.59496,
+    "name": "Fjord Coffee, кофейня",
+    "rating": 4.8,
+    "reviews": 100
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.94974,
+    "lon": 82.62843,
+    "name": "Индиго, кофейня",
+    "rating": 4,
+    "reviews": 112
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.93187,
+    "lon": 82.58877,
+    "name": "Sen ushin",
+    "rating": 4.7,
+    "reviews": 22
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.951,
+    "lon": 82.61495,
+    "name": "Sova by kofe.fratelli, кофейный магазин",
+    "rating": 5,
+    "reviews": 17
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95251,
+    "lon": 82.6325,
+    "name": "ПЛЮШКА, кофейня",
+    "rating": 4.7,
+    "reviews": 54
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.95103,
+    "lon": 82.63417,
+    "name": "Coffee`78, кофейня",
+    "rating": 4.7,
+    "reviews": 42
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.98321,
+    "lon": 82.59329,
+    "name": "Hani, кафе-кондитерская",
+    "rating": 5,
+    "reviews": 2
+   },
+   {
+    "cat": "coffee",
+    "lat": 49.96086,
+    "lon": 82.63804,
+    "name": "Coffee`78, кофейня",
+    "rating": 4.6,
+    "reviews": 39
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98052,
+    "lon": 82.59253,
+    "name": "Рулевой, СТО",
+    "rating": 4.7,
+    "reviews": 306
+   },
+   {
+    "cat": "auto",
+    "lat": 49.97474,
+    "lon": 82.62163,
+    "name": "AutoExpert Service update",
+    "rating": 4.2,
+    "reviews": 100
+   },
+   {
+    "cat": "auto",
+    "lat": 49.93245,
+    "lon": 82.58973,
+    "name": "1ST OIL, центр замены масел",
+    "rating": 4.9,
+    "reviews": 1378
+   },
+   {
+    "cat": "auto",
+    "lat": 49.92891,
+    "lon": 82.57064,
+    "name": "Fortuna, автокомплекс",
+    "rating": 4.7,
+    "reviews": 136
+   },
+   {
+    "cat": "auto",
+    "lat": 49.92457,
+    "lon": 82.62001,
+    "name": "Car City, СТО",
+    "rating": 4.2,
+    "reviews": 151
+   },
+   {
+    "cat": "auto",
+    "lat": 49.9904,
+    "lon": 82.56847,
+    "name": "Автопрофи",
+    "rating": 5,
+    "reviews": 10
+   },
+   {
+    "cat": "auto",
+    "lat": 49.91015,
+    "lon": 82.62824,
+    "name": "Hyundai Oskemen, центр по продаже автомобилей",
+    "rating": 4.7,
+    "reviews": 814
+   },
+   {
+    "cat": "auto",
+    "lat": 49.97651,
+    "lon": 82.62338,
+    "name": "Тойота Центр Шығыс, официальный дилер",
+    "rating": 4.4,
+    "reviews": 127
+   },
+   {
+    "cat": "auto",
+    "lat": 49.89946,
+    "lon": 82.60903,
+    "name": "Chery, сервисный центр",
+    "rating": 4.3,
+    "reviews": 57
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98201,
+    "lon": 82.55278,
+    "name": "Тулпар, автосервис",
+    "rating": 4.5,
+    "reviews": 40
+   },
+   {
+    "cat": "auto",
+    "lat": 49.97999,
+    "lon": 82.55057,
+    "name": "Remzona, автосервис",
+    "rating": 4.9,
+    "reviews": 55
+   },
+   {
+    "cat": "auto",
+    "lat": 49.9529,
+    "lon": 82.62124,
+    "name": "710 OIL, пункт замены масла",
+    "rating": 4.9,
+    "reviews": 324
+   },
+   {
+    "cat": "auto",
+    "lat": 49.95105,
+    "lon": 82.53348,
+    "name": "Авто плюс, автоцентр",
+    "rating": 4.5,
+    "reviews": 96
+   },
+   {
+    "cat": "auto",
+    "lat": 49.95054,
+    "lon": 82.6497,
+    "name": "AutoMaster, СТО",
+    "rating": 4.6,
+    "reviews": 112
+   },
+   {
+    "cat": "auto",
+    "lat": 49.96121,
+    "lon": 82.62102,
+    "name": "Тринити, автокомплекс",
+    "rating": 4.2,
+    "reviews": 27
+   },
+   {
+    "cat": "auto",
+    "lat": 49.90836,
+    "lon": 82.63023,
+    "name": "TUMAR, автосервис",
+    "rating": 4.9,
+    "reviews": 184
+   },
+   {
+    "cat": "auto",
+    "lat": 49.92745,
+    "lon": 82.61672,
+    "name": "Viton & Vibrotest SERVICE, автосервис и лаборатория по чистке и диагностике форсунок",
+    "rating": 5,
+    "reviews": 85
+   },
+   {
+    "cat": "auto",
+    "lat": 49.92516,
+    "lon": 82.62053,
+    "name": "Haval Oskemen, центр по продаже автомобилей",
+    "rating": 4.8,
+    "reviews": 146
+   },
+   {
+    "cat": "auto",
+    "lat": 49.9357,
+    "lon": 82.58757,
+    "name": "Japan, центр автосервиса",
+    "rating": 4.3,
+    "reviews": 43
+   },
+   {
+    "cat": "auto",
+    "lat": 49.96219,
+    "lon": 82.54346,
+    "name": "Нур Авто, автосервис",
+    "rating": 4.5,
+    "reviews": 161
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98389,
+    "lon": 82.55519,
+    "name": "G-energy service, автосервисный центр",
+    "rating": 4.8,
+    "reviews": 145
+   },
+   {
+    "cat": "auto",
+    "lat": 49.95458,
+    "lon": 82.54305,
+    "name": "5 Звёзд, автокомплекс",
+    "rating": 4.5,
+    "reviews": 101
+   },
+   {
+    "cat": "auto",
+    "lat": 49.90384,
+    "lon": 82.63541,
+    "name": "Doscar, официальный сервисный центр",
+    "rating": 3.3,
+    "reviews": 95
+   },
+   {
+    "cat": "auto",
+    "lat": 49.9765,
+    "lon": 82.61458,
+    "name": "Формула Цвета, автокомплекс",
+    "rating": 4.8,
+    "reviews": 217
+   },
+   {
+    "cat": "auto",
+    "lat": 49.96245,
+    "lon": 82.57915,
+    "name": "22 OIL SERVICE, центр замены масла",
+    "rating": 4.8,
+    "reviews": 95
+   },
+   {
+    "cat": "auto",
+    "lat": 49.90723,
+    "lon": 82.62603,
+    "name": "Hot Pit Service, автосервис",
+    "rating": 4.8,
+    "reviews": 73
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98663,
+    "lon": 82.56326,
+    "name": "Mobil 1 Center, пункт замены масла",
+    "rating": 4.6,
+    "reviews": 27
+   },
+   {
+    "cat": "auto",
+    "lat": 49.97427,
+    "lon": 82.62076,
+    "name": "На тракторной, СТО",
+    "rating": 5,
+    "reviews": 12
+   },
+   {
+    "cat": "auto",
+    "lat": 49.9085,
+    "lon": 82.6273,
+    "name": "Subaru Oskemen, центр по продаже автомобилей",
+    "rating": 4.8,
+    "reviews": 25
+   },
+   {
+    "cat": "auto",
+    "lat": 49.95657,
+    "lon": 82.62977,
+    "name": "RB Service, пункт замены масла",
+    "rating": 4.9,
+    "reviews": 26
+   },
+   {
+    "cat": "auto",
+    "lat": 49.88825,
+    "lon": 82.61667,
+    "name": "Doscar, автосервис",
+    "rating": 3.8,
+    "reviews": 192
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98649,
+    "lon": 82.57693,
+    "name": "Geely Oskemen, автосалон",
+    "rating": 5,
+    "reviews": 1423
+   },
+   {
+    "cat": "auto",
+    "lat": 49.9017,
+    "lon": 82.61837,
+    "name": "Тұлпар КШТ, автосервисный центр",
+    "rating": 3.5,
+    "reviews": 256
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98638,
+    "lon": 82.63576,
+    "name": "От А до Я, автоцентр",
+    "rating": 4.5,
+    "reviews": 160
+   },
+   {
+    "cat": "auto",
+    "lat": 49.93841,
+    "lon": 82.58525,
+    "name": "Arsen Auto",
+    "rating": 4.4,
+    "reviews": 91
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98998,
+    "lon": 82.56881,
+    "name": "Shell Helix Service Centre, авторизованный центр замены и продажи масел",
+    "rating": 4.9,
+    "reviews": 302
+   },
+   {
+    "cat": "auto",
+    "lat": 49.97729,
+    "lon": 82.58889,
+    "name": "Гефест, автосервис",
+    "rating": 4.6,
+    "reviews": 70
+   },
+   {
+    "cat": "auto",
+    "lat": 49.95505,
+    "lon": 82.5431,
+    "name": "Dastan Avto Service",
+    "rating": 4.5,
+    "reviews": 75
+   },
+   {
+    "cat": "auto",
+    "lat": 49.99348,
+    "lon": 82.65333,
+    "name": "ЭЙКОС, сеть профессиональных шинных центров",
+    "rating": 4,
+    "reviews": 205
+   },
+   {
+    "cat": "auto",
+    "lat": 49.97511,
+    "lon": 82.60905,
+    "name": "SCT-Service, автоцентр",
+    "rating": 4.9,
+    "reviews": 757
+   },
+   {
+    "cat": "auto",
+    "lat": 49.97963,
+    "lon": 82.55093,
+    "name": "Мир моторных масел, центр по замене масла",
+    "rating": 4.3,
+    "reviews": 146
+   },
+   {
+    "cat": "auto",
+    "lat": 49.99824,
+    "lon": 82.6585,
+    "name": "Вираж, автосалон грузовых автомобилей и тракторов",
+    "rating": 4.6,
+    "reviews": 54
+   },
+   {
+    "cat": "auto",
+    "lat": 49.87934,
+    "lon": 82.61945,
+    "name": "У Ильяса, автосервис",
+    "rating": 5,
+    "reviews": 26
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98199,
+    "lon": 82.55398,
+    "name": "Нур-Авто, автосервис-магазин",
+    "rating": 4.2,
+    "reviews": 14
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98196,
+    "lon": 82.56251,
+    "name": "Montana, автокомплекс",
+    "rating": 4.5,
+    "reviews": 119
+   },
+   {
+    "cat": "auto",
+    "lat": 49.9828,
+    "lon": 82.57723,
+    "name": "Фаворит Pro, автосервис",
+    "rating": 4.6,
+    "reviews": 173
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98965,
+    "lon": 82.64282,
+    "name": "Статус, автоцентр",
+    "rating": 3.9,
+    "reviews": 41
+   },
+   {
+    "cat": "auto",
+    "lat": 49.97652,
+    "lon": 82.61329,
+    "name": "Формула Цвета, центр замены масел и технических жидкостей",
+    "rating": 5,
+    "reviews": 96
+   },
+   {
+    "cat": "auto",
+    "lat": 49.96796,
+    "lon": 82.61511,
+    "name": "Katana, автосервис",
+    "rating": 4.4,
+    "reviews": 74
+   },
+   {
+    "cat": "auto",
+    "lat": 49.96158,
+    "lon": 82.61799,
+    "name": "Тех Яма, автосервис",
+    "rating": 4.9,
+    "reviews": 79
+   },
+   {
+    "cat": "auto",
+    "lat": 49.99292,
+    "lon": 82.65251,
+    "name": "Royal AutoService, СТО",
+    "rating": 4.4,
+    "reviews": 9
+   },
+   {
+    "cat": "auto",
+    "lat": 49.97169,
+    "lon": 82.57056,
+    "name": "Субарик, центр авторазбора",
+    "rating": 4.1,
+    "reviews": 55
+   },
+   {
+    "cat": "auto",
+    "lat": 49.94851,
+    "lon": 82.54061,
+    "name": "Авто-Сам, магазин автозапчастей и автотоваров",
+    "rating": 4.2,
+    "reviews": 63
+   },
+   {
+    "cat": "auto",
+    "lat": 49.90015,
+    "lon": 82.62824,
+    "name": "Alash авто, автосервис",
+    "rating": 4.8,
+    "reviews": 120
+   },
+   {
+    "cat": "auto",
+    "lat": 49.9612,
+    "lon": 82.6226,
+    "name": "I-Car Oil, пункт замены масла",
+    "rating": 4.9,
+    "reviews": 37
+   },
+   {
+    "cat": "auto",
+    "lat": 49.974,
+    "lon": 82.59445,
+    "name": "АвтоФарт, автосервис",
+    "rating": 4.3,
+    "reviews": 167
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98044,
+    "lon": 82.58043,
+    "name": "1ST OIL, центр замены масел",
+    "rating": 5,
+    "reviews": 292
+   },
+   {
+    "cat": "auto",
+    "lat": 49.98052,
+    "lon": 82.58058,
+    "name": "VIP, автосервис",
+    "rating": 4.8,
+    "reviews": 25
+   },
+   {
+    "cat": "auto",
+    "lat": 49.97464,
+    "lon": 82.60958,
+    "name": "АвтоБаза, автосервис",
+    "rating": 4.6,
+    "reviews": 110
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94862,
+    "lon": 82.61419,
+    "name": "Nailzona, ногтевая студия",
+    "rating": 5,
+    "reviews": 46
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95723,
+    "lon": 82.60494,
+    "name": "Wella, салон красоты",
+    "rating": 4.6,
+    "reviews": 117
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94673,
+    "lon": 82.62239,
+    "name": "The look, салон красоты",
+    "rating": 5,
+    "reviews": 24
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.9609,
+    "lon": 82.5819,
+    "name": "Carpe Diem, центр эстетики",
+    "rating": 5,
+    "reviews": 221
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.90561,
+    "lon": 82.62582,
+    "name": "Zhaukazyn, салон красоты",
+    "rating": 4.9,
+    "reviews": 92
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95327,
+    "lon": 82.62533,
+    "name": "Beauty Nails, студия красоты",
+    "rating": 4.7,
+    "reviews": 168
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.90005,
+    "lon": 82.61693,
+    "name": "Nika beauty, салон красоты",
+    "rating": 4.8,
+    "reviews": 556
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95195,
+    "lon": 82.61883,
+    "name": "PodoLukko, центр подологии, маникюра и педикюра",
+    "rating": 4.9,
+    "reviews": 435
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94889,
+    "lon": 82.62018,
+    "name": "Black Nails, ногтевая студия",
+    "rating": 4.8,
+    "reviews": 296
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.96681,
+    "lon": 82.58137,
+    "name": "Л`Амур, салон",
+    "rating": 4.7,
+    "reviews": 80
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.96737,
+    "lon": 82.60435,
+    "name": "Sakura, кабинет парикмахера",
+    "rating": 4.9,
+    "reviews": 67
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.90118,
+    "lon": 82.61695,
+    "name": "Ladies club maison, салон красоты",
+    "rating": 4.8,
+    "reviews": 34
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.9003,
+    "lon": 82.61425,
+    "name": "Жасмин, парикмахерская",
+    "rating": 4.4,
+    "reviews": 407
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94747,
+    "lon": 82.61315,
+    "name": "Тандем, салон-парикмахерская",
+    "rating": 4.7,
+    "reviews": 106
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95448,
+    "lon": 82.61026,
+    "name": "Shiny River, медицинский центр красоты",
+    "rating": 4.5,
+    "reviews": 129
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.9542,
+    "lon": 82.62848,
+    "name": "Lucky Beauty Studio, студия красоты",
+    "rating": 4.1,
+    "reviews": 361
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94964,
+    "lon": 82.62479,
+    "name": "Studio М`Арт, центр эстетической косметологии",
+    "rating": 4.6,
+    "reviews": 165
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94638,
+    "lon": 82.61843,
+    "name": "ULTRAMARINE, салон красоты",
+    "rating": 4.9,
+    "reviews": 130
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.9693,
+    "lon": 82.58035,
+    "name": "Идеал, парикмахерская",
+    "rating": 4.3,
+    "reviews": 89
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.96565,
+    "lon": 82.59005,
+    "name": "Lucky Beauty Studio, студия красоты",
+    "rating": 4,
+    "reviews": 209
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95864,
+    "lon": 82.60815,
+    "name": "Sandi, мужской салон",
+    "rating": 3.6,
+    "reviews": 198
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.96111,
+    "lon": 82.60384,
+    "name": "Lucky Beauty Studio, студия красоты",
+    "rating": 4.5,
+    "reviews": 48
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.8995,
+    "lon": 82.60354,
+    "name": "NK, академия красоты",
+    "rating": 4.7,
+    "reviews": 227
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.90341,
+    "lon": 82.62247,
+    "name": "Әдемі, салон красоты",
+    "rating": 3.8,
+    "reviews": 165
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94556,
+    "lon": 82.61084,
+    "name": "Chocolate, салон красоты",
+    "rating": 4.2,
+    "reviews": 120
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.90199,
+    "lon": 82.62557,
+    "name": "Janym sol, студия красоты",
+    "rating": 4.3,
+    "reviews": 61
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94918,
+    "lon": 82.63726,
+    "name": "Oktyabryatova studio, салон красоты",
+    "rating": 4.5,
+    "reviews": 76
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94999,
+    "lon": 82.63701,
+    "name": "Пилки, ногтевая студия",
+    "rating": 4.7,
+    "reviews": 228
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.90361,
+    "lon": 82.61061,
+    "name": "Lucky Beauty Studio, студия красоты",
+    "rating": 3.5,
+    "reviews": 141
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.96812,
+    "lon": 82.59578,
+    "name": "Альфа, парикмахерская",
+    "rating": 4.3,
+    "reviews": 78
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.97633,
+    "lon": 82.58473,
+    "name": "RED, парикмахерская",
+    "rating": 4.9,
+    "reviews": 129
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95176,
+    "lon": 82.63389,
+    "name": "Зангар, салон красоты",
+    "rating": 4.1,
+    "reviews": 7
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.91335,
+    "lon": 82.62772,
+    "name": "Zyablik Lab, салон красоты",
+    "rating": 4.5,
+    "reviews": 77
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94879,
+    "lon": 82.64214,
+    "name": "Lava keratin studio, студия восстановления волос",
+    "rating": 4.9,
+    "reviews": 689
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.9501,
+    "lon": 82.62047,
+    "name": "Nail bar ukg К НоКтю, студия красоты",
+    "rating": 4.9,
+    "reviews": 131
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.97455,
+    "lon": 82.58964,
+    "name": "Блюз, салон красоты",
+    "rating": 4.4,
+    "reviews": 63
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.89019,
+    "lon": 82.61688,
+    "name": "Ясмин, салон красоты",
+    "rating": 4.9,
+    "reviews": 150
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94829,
+    "lon": 82.59024,
+    "name": "Twenty Seven, студия красоты",
+    "rating": 4.7,
+    "reviews": 124
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.89831,
+    "lon": 82.62155,
+    "name": "Блюз, салон красоты",
+    "rating": 3.9,
+    "reviews": 198
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.91993,
+    "lon": 82.62895,
+    "name": "Viva Deluxe, салон красоты",
+    "rating": 2.9,
+    "reviews": 125
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95584,
+    "lon": 82.6138,
+    "name": "Алина, салон красоты",
+    "rating": 4.5,
+    "reviews": 127
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95696,
+    "lon": 82.63486,
+    "name": "Sharm, салон красоты",
+    "rating": 4.9,
+    "reviews": 84
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94517,
+    "lon": 82.62672,
+    "name": "Кадария, салон красоты",
+    "rating": 4.5,
+    "reviews": 42
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94604,
+    "lon": 82.62344,
+    "name": "Томирис, салон красоты",
+    "rating": 4.6,
+    "reviews": 121
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94573,
+    "lon": 82.6496,
+    "name": "Алина, парикмахерская",
+    "rating": 3.7,
+    "reviews": 36
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.97566,
+    "lon": 82.5894,
+    "name": "Lucky Beauty Studio, студия красоты",
+    "rating": 4.4,
+    "reviews": 94
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.90263,
+    "lon": 82.62185,
+    "name": "Алтын, салон красоты",
+    "rating": 4.5,
+    "reviews": 47
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94297,
+    "lon": 82.6248,
+    "name": "New Luna, студия маникюра",
+    "rating": 4.6,
+    "reviews": 27
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95364,
+    "lon": 82.63178,
+    "name": "Ostrov Studio, студия красоты",
+    "rating": 4.4,
+    "reviews": 93
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.88888,
+    "lon": 82.61499,
+    "name": "Aziz, салон красоты",
+    "rating": 4.6,
+    "reviews": 144
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95816,
+    "lon": 82.60775,
+    "name": "Аида, салон красоты",
+    "rating": 4.6,
+    "reviews": 137
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95737,
+    "lon": 82.60406,
+    "name": "Tsa Tsa, студия",
+    "rating": 4.9,
+    "reviews": 480
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94708,
+    "lon": 82.6175,
+    "name": "Colorexpert, салон красоты",
+    "rating": 4.6,
+    "reviews": 71
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.94975,
+    "lon": 82.61708,
+    "name": "Papaiya_beautyspace, студия красоты",
+    "rating": 4.8,
+    "reviews": 72
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95217,
+    "lon": 82.64186,
+    "name": "Mira Beys, салон красоты",
+    "rating": 4.6,
+    "reviews": 73
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.95149,
+    "lon": 82.62164,
+    "name": "Platinum, студия красоты",
+    "rating": 4.6,
+    "reviews": 119
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.90115,
+    "lon": 82.60257,
+    "name": "Айжан, парикмахерская",
+    "rating": 4.9,
+    "reviews": 163
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.96395,
+    "lon": 82.60051,
+    "name": "Alfiya beauty, салон красоты",
+    "rating": 4.5,
+    "reviews": 49
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.962,
+    "lon": 82.61427,
+    "name": "Dar, студия красоты",
+    "rating": 4.7,
+    "reviews": 20
+   },
+   {
+    "cat": "beauty",
+    "lat": 49.97271,
+    "lon": 82.59,
+    "name": "Amour Nails, салон красоты",
+    "rating": 4.7,
+    "reviews": 154
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.8993,
+    "lon": 82.60358,
+    "name": "One Dent, стоматологическая клиника",
+    "rating": 4.9,
+    "reviews": 24
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.90375,
+    "lon": 82.61321,
+    "name": "ELITE DENTAL CLINIC, стоматологическая клиника",
+    "rating": 4.9,
+    "reviews": 1053
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.94369,
+    "lon": 82.61667,
+    "name": "HAPPY CLINIC, детский медицинский центр",
+    "rating": 4.5,
+    "reviews": 640
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.90375,
+    "lon": 82.60918,
+    "name": "ДЕНТАЛИКА, стоматология",
+    "rating": 4.5,
+    "reviews": 50
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96386,
+    "lon": 82.60062,
+    "name": "Premier Clinic, цифровая стоматология",
+    "rating": 5,
+    "reviews": 130
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96488,
+    "lon": 82.58867,
+    "name": "Dr.Toktassynov, стоматология",
+    "rating": 4.7,
+    "reviews": 156
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95937,
+    "lon": 82.6185,
+    "name": "Консайз, стоматология",
+    "rating": 4.5,
+    "reviews": 122
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95321,
+    "lon": 82.62551,
+    "name": "Smile Clinic, стоматология",
+    "rating": 4.9,
+    "reviews": 520
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95624,
+    "lon": 82.63619,
+    "name": "Dent House Shederbaev, стоматологическая клиника",
+    "rating": 4.9,
+    "reviews": 229
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96066,
+    "lon": 82.60667,
+    "name": "Asia Dent, стоматологическая клиника",
+    "rating": 5,
+    "reviews": 163
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.90258,
+    "lon": 82.6102,
+    "name": "Arlan Dent, стоматология",
+    "rating": 5,
+    "reviews": 180
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.94665,
+    "lon": 82.61799,
+    "name": "Stommax, стоматология",
+    "rating": 4.9,
+    "reviews": 88
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.90548,
+    "lon": 82.60722,
+    "name": "Atlant dental clinic, стоматология",
+    "rating": 4.8,
+    "reviews": 70
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95093,
+    "lon": 82.63793,
+    "name": "Алмаз 32, стоматологическая клиника",
+    "rating": 4.8,
+    "reviews": 760
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96354,
+    "lon": 82.58624,
+    "name": "DианаDенm, стоматологический центр",
+    "rating": 4.8,
+    "reviews": 201
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95342,
+    "lon": 82.62711,
+    "name": "ZHAN DENT, стоматология",
+    "rating": 4.8,
+    "reviews": 150
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96167,
+    "lon": 82.60824,
+    "name": "ПАПА, МАМА, Я, клиника для всей семьи",
+    "rating": 4.7,
+    "reviews": 798
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95343,
+    "lon": 82.62402,
+    "name": "Kiddy dental clinic, частная семейная стоматология",
+    "rating": 5,
+    "reviews": 71
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96897,
+    "lon": 82.59673,
+    "name": "ГЕРКУЛЕС, стоматологическая клиника",
+    "rating": 4.9,
+    "reviews": 85
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96615,
+    "lon": 82.59697,
+    "name": "Dent-Lux, стоматологическая клиника экспертного класса",
+    "rating": 4.7,
+    "reviews": 205
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95529,
+    "lon": 82.62698,
+    "name": "Aistom, стоматологическая клиника",
+    "rating": 4.7,
+    "reviews": 37
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.89574,
+    "lon": 82.6188,
+    "name": "Dr.Kailarov, стоматология",
+    "rating": 4.8,
+    "reviews": 179
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95164,
+    "lon": 82.61017,
+    "name": "Kornilovich Dental Clinic, авторская стоматология",
+    "rating": 4.9,
+    "reviews": 191
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.9449,
+    "lon": 82.61021,
+    "name": "Стоматология на Ауэзова 4",
+    "rating": 4.7,
+    "reviews": 33
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.89751,
+    "lon": 82.62315,
+    "name": "Жұлдыз, стоматологический центр",
+    "rating": 4.9,
+    "reviews": 298
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.94805,
+    "lon": 82.64696,
+    "name": "Стоматология на Новаторов 2",
+    "rating": 3.9,
+    "reviews": 511
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.97275,
+    "lon": 82.59878,
+    "name": "Вита-1, многопрофильная клиника",
+    "rating": 3.4,
+    "reviews": 274
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96449,
+    "lon": 82.61245,
+    "name": "АсылТөре, стоматология",
+    "rating": 4.1,
+    "reviews": 421
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.89875,
+    "lon": 82.60558,
+    "name": "АсылТөре, стоматология",
+    "rating": 4.5,
+    "reviews": 308
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95553,
+    "lon": 82.64333,
+    "name": "Детская стоматологическая поликлиника",
+    "rating": 3,
+    "reviews": 351
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95869,
+    "lon": 82.60382,
+    "name": "Жұлдыз, стоматологический центр",
+    "rating": 4.7,
+    "reviews": 135
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96099,
+    "lon": 82.60266,
+    "name": "Стоматолог",
+    "rating": 4.3,
+    "reviews": 225
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.94434,
+    "lon": 82.6199,
+    "name": "Dental-service, стоматологическая клиника",
+    "rating": 4.8,
+    "reviews": 375
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96103,
+    "lon": 82.60161,
+    "name": "Зубной Доктор",
+    "rating": 4.9,
+    "reviews": 410
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.90537,
+    "lon": 82.62569,
+    "name": "Mont Blanc Dental Clinic, имплантологический центр",
+    "rating": 4.8,
+    "reviews": 216
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95499,
+    "lon": 82.63429,
+    "name": "EAST SMILE, семейная стоматология",
+    "rating": 4.7,
+    "reviews": 134
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.97425,
+    "lon": 82.58737,
+    "name": "DианаDенm, стоматологический центр",
+    "rating": 4.9,
+    "reviews": 437
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.90217,
+    "lon": 82.60512,
+    "name": "АсылТөре, стоматология",
+    "rating": 4.5,
+    "reviews": 49
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95121,
+    "lon": 82.62284,
+    "name": "32 Dent, стоматологический центр",
+    "rating": 4.9,
+    "reviews": 414
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.97595,
+    "lon": 82.58522,
+    "name": "Dental Trio, стоматологический центр",
+    "rating": 4.9,
+    "reviews": 190
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.89435,
+    "lon": 82.61964,
+    "name": "Ai dent, стоматологическая клиника",
+    "rating": 4.7,
+    "reviews": 200
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95673,
+    "lon": 82.63467,
+    "name": "Жұлдыз, стоматологический центр",
+    "rating": 4.6,
+    "reviews": 91
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.89177,
+    "lon": 82.61963,
+    "name": "EAST SMILE, семейная стоматология",
+    "rating": 4.9,
+    "reviews": 45
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.94637,
+    "lon": 82.61611,
+    "name": "Дентал Студио, стоматологическая клиника",
+    "rating": 4.9,
+    "reviews": 282
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.94521,
+    "lon": 82.64925,
+    "name": "Стоматология на Пристани",
+    "rating": 4.2,
+    "reviews": 52
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.94353,
+    "lon": 82.61652,
+    "name": "Mont Blanc Dental Clinic, имплантологический центр",
+    "rating": 4.7,
+    "reviews": 12
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.8996,
+    "lon": 82.60359,
+    "name": "32 Dent, стоматологический центр",
+    "rating": 5,
+    "reviews": 208
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.90553,
+    "lon": 82.62577,
+    "name": "Dr.Issanova, стоматологическая клиника",
+    "rating": 5,
+    "reviews": 307
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.94653,
+    "lon": 82.59425,
+    "name": "Аль-Дента, стоматология",
+    "rating": 4.6,
+    "reviews": 129
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.90004,
+    "lon": 82.61698,
+    "name": "Sapphire Dental Studio, стоматологический центр",
+    "rating": 4.8,
+    "reviews": 86
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96292,
+    "lon": 82.58518,
+    "name": "Dental-service, стоматологическая клиника",
+    "rating": 4.8,
+    "reviews": 114
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96945,
+    "lon": 82.5808,
+    "name": "Авиценна",
+    "rating": 4.7,
+    "reviews": 106
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95059,
+    "lon": 82.64196,
+    "name": "Rasul Dent, стоматологическая клиника",
+    "rating": 4.8,
+    "reviews": 15
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.95179,
+    "lon": 82.64312,
+    "name": "Azat, стоматологический центр",
+    "rating": 4.7,
+    "reviews": 61
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.94618,
+    "lon": 82.61858,
+    "name": "Stommax, стоматология",
+    "rating": 4.8,
+    "reviews": 220
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.94906,
+    "lon": 82.62033,
+    "name": "Deipon Dental Clinic, стоматология",
+    "rating": 5,
+    "reviews": 160
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.90202,
+    "lon": 82.62591,
+    "name": "Dent Time, стоматологическая клиника",
+    "rating": 4.8,
+    "reviews": 86
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.97317,
+    "lon": 82.5928,
+    "name": "Линия Улыбки, стоматологическая клиника",
+    "rating": 4.6,
+    "reviews": 68
+   },
+   {
+    "cat": "stoma",
+    "lat": 49.96445,
+    "lon": 82.59989,
+    "name": "Dental-Art, стоматологический центр",
+    "rating": 4.9,
+    "reviews": 162
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94693,
+    "lon": 82.64722,
+    "name": "Teplo, ресторан",
+    "rating": 4.6,
+    "reviews": 636
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96482,
+    "lon": 82.58634,
+    "name": "Zira, кафе восточной кухни",
+    "rating": 3.7,
+    "reviews": 351
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94919,
+    "lon": 82.62483,
+    "name": "DamDay, кафе быстрого питания",
+    "rating": 4.7,
+    "reviews": 139
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94877,
+    "lon": 82.62047,
+    "name": "Ясин, шайхана",
+    "rating": 4.7,
+    "reviews": 4098
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95897,
+    "lon": 82.59351,
+    "name": "Kafe Mindal, банкетный зал",
+    "rating": 4.5,
+    "reviews": 203
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.89637,
+    "lon": 82.61637,
+    "name": "CrepeCafe, семейное кафе",
+    "rating": 4.5,
+    "reviews": 558
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94897,
+    "lon": 82.62064,
+    "name": "Panda Lamian, ресторан быстрого питания",
+    "rating": 4.8,
+    "reviews": 1475
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96486,
+    "lon": 82.60672,
+    "name": "Kinza, кафе",
+    "rating": 4.7,
+    "reviews": 701
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.97082,
+    "lon": 82.58495,
+    "name": "Nomad, кафе-Бар",
+    "rating": 4.4,
+    "reviews": 400
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.93043,
+    "lon": 82.5971,
+    "name": "Salem, чайхана",
+    "rating": 4.4,
+    "reviews": 398
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.89915,
+    "lon": 82.61867,
+    "name": "Altyn Sandyq, семейное кафе",
+    "rating": 4.7,
+    "reviews": 14
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96233,
+    "lon": 82.60863,
+    "name": "Fergana, кафе восточной кухни",
+    "rating": 4.7,
+    "reviews": 344
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95154,
+    "lon": 82.63035,
+    "name": "il Gusto, семейное кафе",
+    "rating": 3.7,
+    "reviews": 675
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.9507,
+    "lon": 82.62175,
+    "name": "Донер, кафе",
+    "rating": 4,
+    "reviews": 733
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.89301,
+    "lon": 82.62225,
+    "name": "Altyn Restaurant",
+    "rating": 4.7,
+    "reviews": 85
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94189,
+    "lon": 82.6179,
+    "name": "Золотой якорь, кафе",
+    "rating": 4.5,
+    "reviews": 55
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96234,
+    "lon": 82.5794,
+    "name": "Pasha doner kebab",
+    "rating": 4.1,
+    "reviews": 613
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94817,
+    "lon": 82.61817,
+    "name": "ZEN, премиум лаундж-бар",
+    "rating": 4.3,
+    "reviews": 100
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96002,
+    "lon": 82.60251,
+    "name": "Золотая Орда, банкетный комплекс",
+    "rating": 4.6,
+    "reviews": 254
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95629,
+    "lon": 82.61342,
+    "name": "SUSHI MANIA, служба доставки суши и роллов",
+    "rating": 4.6,
+    "reviews": 1206
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94917,
+    "lon": 82.62082,
+    "name": "Tooman, лаундж-бар",
+    "rating": 4.8,
+    "reviews": 216
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95366,
+    "lon": 82.59859,
+    "name": "OBLAKA, лаундж-бар",
+    "rating": 4.9,
+    "reviews": 1058
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95013,
+    "lon": 82.61671,
+    "name": "GIN, лаундж-бар",
+    "rating": 4.5,
+    "reviews": 725
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.90189,
+    "lon": 82.61121,
+    "name": "Донер, кафе",
+    "rating": 4.3,
+    "reviews": 829
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96594,
+    "lon": 82.62116,
+    "name": "Zeytun, кафе",
+    "rating": 4.3,
+    "reviews": 560
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95212,
+    "lon": 82.63048,
+    "name": "Ya Ya Асхана, кафе-столовая",
+    "rating": 4.7,
+    "reviews": 1406
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95039,
+    "lon": 82.60578,
+    "name": "Frida coffee & lounge, лаундж-бар",
+    "rating": 4.5,
+    "reviews": 101
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.90887,
+    "lon": 82.63025,
+    "name": "Сарыарка, кафе",
+    "rating": 4.8,
+    "reviews": 813
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.90122,
+    "lon": 82.61472,
+    "name": "Пицца Блюз, кафе",
+    "rating": 3.9,
+    "reviews": 722
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.90154,
+    "lon": 82.61684,
+    "name": "Al-Han, комплекс",
+    "rating": 4.5,
+    "reviews": 83
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94685,
+    "lon": 82.61966,
+    "name": "Летний сад, кафе",
+    "rating": 4.5,
+    "reviews": 328
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96574,
+    "lon": 82.57395,
+    "name": "Сочи, кафе",
+    "rating": 3.7,
+    "reviews": 900
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94656,
+    "lon": 82.61197,
+    "name": "Cafe Raсer",
+    "rating": 4.6,
+    "reviews": 586
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94973,
+    "lon": 82.6229,
+    "name": "Пицца Блюз, кафе",
+    "rating": 3.7,
+    "reviews": 592
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.97449,
+    "lon": 82.5583,
+    "name": "Gala, гриль-бар",
+    "rating": 4.2,
+    "reviews": 525
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95349,
+    "lon": 82.59735,
+    "name": "Мята на Солнечной, лаундж-бар",
+    "rating": 4.8,
+    "reviews": 291
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96615,
+    "lon": 82.5822,
+    "name": "Шашлычная №1",
+    "rating": 3.9,
+    "reviews": 115
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.92401,
+    "lon": 82.63098,
+    "name": "Bauyrdaq, кафе",
+    "rating": 4.5,
+    "reviews": 581
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95009,
+    "lon": 82.62182,
+    "name": "Инжир, ресторан восточной кухни",
+    "rating": 4.6,
+    "reviews": 437
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94292,
+    "lon": 82.62484,
+    "name": "Coffee Boom",
+    "rating": 4.3,
+    "reviews": 2646
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.91983,
+    "lon": 82.627,
+    "name": "Coffee Boom Roasters & Bakery",
+    "rating": 4.6,
+    "reviews": 187
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.9441,
+    "lon": 82.62585,
+    "name": "Пицца Блюз, кафе",
+    "rating": 3.3,
+    "reviews": 664
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96698,
+    "lon": 82.59703,
+    "name": "Пицца Блюз, кафе",
+    "rating": 2.9,
+    "reviews": 573
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.90418,
+    "lon": 82.63467,
+    "name": "VinoGrad, паб",
+    "rating": 4.2,
+    "reviews": 323
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.97076,
+    "lon": 82.62053,
+    "name": "Поляна, кафе",
+    "rating": 4.2,
+    "reviews": 503
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.97454,
+    "lon": 82.60222,
+    "name": "Салют, рестобар",
+    "rating": 4.3,
+    "reviews": 505
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96766,
+    "lon": 82.59625,
+    "name": "Good Week, кафе",
+    "rating": 4.5,
+    "reviews": 2285
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95555,
+    "lon": 82.61405,
+    "name": "Пицца Блюз, кафе",
+    "rating": 3.5,
+    "reviews": 452
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95039,
+    "lon": 82.60578,
+    "name": "Рассол, ресто-бар",
+    "rating": 4.4,
+    "reviews": 158
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.94929,
+    "lon": 82.61303,
+    "name": "Масленица, кафе",
+    "rating": 4.1,
+    "reviews": 463
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.90064,
+    "lon": 82.61614,
+    "name": "Оливье, кафе-столовая",
+    "rating": 4,
+    "reviews": 266
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95309,
+    "lon": 82.6316,
+    "name": "Df, кафе фастфудной продукции",
+    "rating": 4.6,
+    "reviews": 429
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96757,
+    "lon": 82.58329,
+    "name": "Soprano, караоке-бар",
+    "rating": 3.9,
+    "reviews": 382
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96365,
+    "lon": 82.62205,
+    "name": "Tayfun",
+    "rating": 4.8,
+    "reviews": 187
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95515,
+    "lon": 82.63248,
+    "name": "Brilliant, бильярдный клуб",
+    "rating": 4.1,
+    "reviews": 253
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95156,
+    "lon": 82.61543,
+    "name": "Napoleon, кафе-шашлычная",
+    "rating": 4.6,
+    "reviews": 146
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96671,
+    "lon": 82.59733,
+    "name": "Vёsla Sushi & Wok",
+    "rating": 4.6,
+    "reviews": 1710
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95878,
+    "lon": 82.59252,
+    "name": "Ote!, кафе",
+    "rating": 4,
+    "reviews": 672
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.95075,
+    "lon": 82.62917,
+    "name": "Tulipark, семейное кафе",
+    "rating": 3.6,
+    "reviews": 394
+   },
+   {
+    "cat": "cafe",
+    "lat": 49.96996,
+    "lon": 82.59421,
+    "name": "Феникс, кафе",
+    "rating": 4.5,
+    "reviews": 157
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.9703,
+    "lon": 82.61377,
+    "name": "Grut Cargo",
+    "rating": 5,
+    "reviews": 62
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.89858,
+    "lon": 82.62191,
+    "name": "JanaPost, сервис доставки товаров из Pinduoduo, Temu и Taobao",
+    "rating": 4.4,
+    "reviews": 98
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95411,
+    "lon": 82.62033,
+    "name": "CDEK",
+    "rating": 4.9,
+    "reviews": 98
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.96933,
+    "lon": 82.59443,
+    "name": "JanaPost, сервис доставки товаров из Pinduoduo, Temu и Taobao",
+    "rating": 4.6,
+    "reviews": 99
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.94975,
+    "lon": 82.63756,
+    "name": "JanaPost, сервис доставки товаров из Pinduoduo, Temu и Taobao",
+    "rating": 4.3,
+    "reviews": 78
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95199,
+    "lon": 82.61547,
+    "name": "JanaPost, сервис доставки товаров из Pinduoduo, Temu и Taobao",
+    "rating": 4.9,
+    "reviews": 46
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.89829,
+    "lon": 82.61931,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 4.7,
+    "reviews": 17
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.93292,
+    "lon": 82.58124,
+    "name": "Altai Express, склад",
+    "rating": 4.8,
+    "reviews": 11
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.97746,
+    "lon": 82.60333,
+    "name": "Temu, пункт выдачи заказов",
+    "rating": 3.9,
+    "reviews": 7
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95826,
+    "lon": 82.58361,
+    "name": "JanaPost, сервис доставки товаров из Pinduoduo, Temu и Taobao",
+    "rating": 4.5,
+    "reviews": 134
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.89012,
+    "lon": 82.65839,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 5,
+    "reviews": 15
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.96102,
+    "lon": 82.63926,
+    "name": "Lamoda.kz, интернет-магазин",
+    "rating": 4.2,
+    "reviews": 80
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.90199,
+    "lon": 82.62604,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.4,
+    "reviews": 56
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.90338,
+    "lon": 82.61067,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.5,
+    "reviews": 21
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.90345,
+    "lon": 82.61995,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 4,
+    "reviews": 46
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.94636,
+    "lon": 82.61828,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 3.2,
+    "reviews": 81
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95761,
+    "lon": 82.60957,
+    "name": "Ns Cargo, служба доставки товаров из Китая",
+    "rating": 4.9,
+    "reviews": 121
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.94844,
+    "lon": 82.64778,
+    "name": "Ozon, пункт выдачи интернет заказов",
+    "rating": 4.7,
+    "reviews": 24
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.89865,
+    "lon": 82.6194,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 2.6,
+    "reviews": 219
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.96658,
+    "lon": 82.60707,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 4.7,
+    "reviews": 27
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.948,
+    "lon": 82.61365,
+    "name": "Flip.kz, пункт выдачи товара",
+    "rating": 4.9,
+    "reviews": 23
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.97773,
+    "lon": 82.58272,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 5,
+    "reviews": 44
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.97562,
+    "lon": 82.58631,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.5,
+    "reviews": 51
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95744,
+    "lon": 82.60397,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 4.9,
+    "reviews": 31
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.96832,
+    "lon": 82.57856,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.3,
+    "reviews": 36
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.96549,
+    "lon": 82.58061,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 4.6,
+    "reviews": 7
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.96336,
+    "lon": 82.5859,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 4.6,
+    "reviews": 36
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.96266,
+    "lon": 82.60891,
+    "name": "Ozon, пункт выдачи заказов",
+    "rating": 4.6,
+    "reviews": 33
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.97634,
+    "lon": 82.58834,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.3,
+    "reviews": 77
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.96295,
+    "lon": 82.60066,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 2.6,
+    "reviews": 143
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.94949,
+    "lon": 82.63734,
+    "name": "Ozon, пункт выдачи заказов",
+    "rating": 4.8,
+    "reviews": 22
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.93912,
+    "lon": 82.58084,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.8,
+    "reviews": 19
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95006,
+    "lon": 82.63838,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 3.2,
+    "reviews": 142
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.89914,
+    "lon": 82.60396,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 2.7,
+    "reviews": 178
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.98733,
+    "lon": 82.57034,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 3.9,
+    "reviews": 29
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95606,
+    "lon": 82.63332,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 3,
+    "reviews": 150
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95364,
+    "lon": 82.63178,
+    "name": "Ozon, пункт выдачи товаров",
+    "rating": 3.3,
+    "reviews": 5
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.89429,
+    "lon": 82.64169,
+    "name": "Megastore, магазин",
+    "rating": 5,
+    "reviews": 26
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.94766,
+    "lon": 82.64767,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.8,
+    "reviews": 31
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.94369,
+    "lon": 82.60917,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 4.6,
+    "reviews": 14
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.94295,
+    "lon": 82.61781,
+    "name": "Fast88 Cargo, пункт выдачи",
+    "rating": 4.8,
+    "reviews": 20
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.89939,
+    "lon": 82.61258,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 3.8,
+    "reviews": 13
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95307,
+    "lon": 82.62512,
+    "name": "Ozon, пункт выдачи заказов",
+    "rating": 4.6,
+    "reviews": 18
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.89836,
+    "lon": 82.61127,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.1,
+    "reviews": 26
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.96079,
+    "lon": 82.60729,
+    "name": "Wildberries, пункт выдачи онлайн-заказов",
+    "rating": 2.3,
+    "reviews": 11
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95054,
+    "lon": 82.64184,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 3.7,
+    "reviews": 76
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.97289,
+    "lon": 82.59427,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 2.5,
+    "reviews": 147
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.96614,
+    "lon": 82.58997,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.3,
+    "reviews": 25
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.94963,
+    "lon": 82.63746,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 3.8,
+    "reviews": 18
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95547,
+    "lon": 82.61355,
+    "name": "Ozon, пункт выдачи заказов",
+    "rating": 5,
+    "reviews": 17
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.97349,
+    "lon": 82.58833,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.3,
+    "reviews": 17
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.97275,
+    "lon": 82.5825,
+    "name": "Ozon, пункт выдачи интернет заказов",
+    "rating": 4.5,
+    "reviews": 14
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.94776,
+    "lon": 82.63286,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 4.4,
+    "reviews": 18
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.96717,
+    "lon": 82.5999,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 2.6,
+    "reviews": 137
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95404,
+    "lon": 82.62457,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 2.9,
+    "reviews": 128
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.97975,
+    "lon": 82.57958,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 2.6,
+    "reviews": 160
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.93008,
+    "lon": 82.65363,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.6,
+    "reviews": 21
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.89186,
+    "lon": 82.64938,
+    "name": "Wildberries, пункт выдачи товара",
+    "rating": 4.1,
+    "reviews": 28
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.94873,
+    "lon": 82.59149,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 4.4,
+    "reviews": 17
+   },
+   {
+    "cat": "pvz",
+    "lat": 49.95374,
+    "lon": 82.5983,
+    "name": "Ozon, пункт выдачи интернет-заказов",
+    "rating": 3.9,
+    "reviews": 21
+   }
+  ],
+  "grid": [
+   [
+    0,
+    0,
+    2,
+    27,
+    26,
+    7,
+    2,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    21,
+    33,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    1,
+    5,
+    6,
+    19,
+    2,
+    1,
+    0
+   ],
+   [
+    0,
+    2,
+    11,
+    30,
+    28,
+    7,
+    0,
+    0
+   ],
+   [
+    8,
+    4,
+    20,
+    84,
+    90,
+    48,
+    0,
+    2
+   ],
+   [
+    5,
+    12,
+    61,
+    26,
+    8,
+    4,
+    0,
+    0
+   ],
+   [
+    6,
+    16,
+    6,
+    0,
+    0,
+    5,
+    2,
+    0
+   ]
+  ],
+  "grid_nr": 7,
+  "grid_nc": 8
+ }
+}

@@ -1,0 +1,3096 @@
+{
+  "grocery": [
+    {
+      "name": "Гарантия, продовольственный магазин",
+      "addr": null,
+      "cat": "common_store",
+      "rating": 4.5,
+      "reviews": 57,
+      "branches": 1,
+      "lat": 50.019347,
+      "lon": 82.709721
+    },
+    {
+      "name": "City Center, супермаркет",
+      "addr": null,
+      "cat": "mart",
+      "rating": 4.2,
+      "reviews": 617,
+      "branches": 1,
+      "lat": 49.965962,
+      "lon": 82.587583
+    },
+    {
+      "name": "Altay Market, супермаркет",
+      "addr": "улица Жибек Жолы, 44 к1",
+      "cat": "mart",
+      "rating": 4.8,
+      "reviews": 27,
+      "branches": 1,
+      "lat": 49.930771,
+      "lon": 82.596516
+    },
+    {
+      "name": "Chef market, оптово-розничный магазин продуктов",
+      "addr": null,
+      "cat": "mart",
+      "rating": 4.5,
+      "reviews": 83,
+      "branches": 1,
+      "lat": 49.971956,
+      "lon": 82.610678
+    },
+    {
+      "name": "АсОрда",
+      "addr": "улица Бажова, 469 к1",
+      "cat": "mart",
+      "rating": 4.9,
+      "reviews": 70,
+      "branches": 1,
+      "lat": 50.017748,
+      "lon": 82.515257
+    },
+    {
+      "name": "METRO Cash & Carry, оптовый магазин",
+      "addr": null,
+      "cat": "mart",
+      "rating": 4.1,
+      "reviews": 179,
+      "branches": 1,
+      "lat": 49.915533,
+      "lon": 82.624393
+    },
+    {
+      "name": "Белорусские продукты",
+      "addr": "Нурсултана Назарбаева проспект, 87",
+      "cat": "shop",
+      "rating": null,
+      "reviews": null,
+      "branches": 13,
+      "lat": 49.985338,
+      "lon": 82.572567
+    },
+    {
+      "name": "Светофор, супермаркет",
+      "addr": "улица Бажова, 14",
+      "cat": "mart",
+      "rating": 3.8,
+      "reviews": 77,
+      "branches": 5,
+      "lat": 49.970658,
+      "lon": 82.614561
+    },
+    {
+      "name": "Светлячок, продуктовый магазин",
+      "addr": "улица Грибоедова, 2",
+      "cat": "shop",
+      "rating": 4,
+      "reviews": 17,
+      "branches": 2,
+      "lat": 49.995527,
+      "lon": 82.658729
+    },
+    {
+      "name": "Magnum Hyper",
+      "addr": "улица Жибек Жолы, 1",
+      "cat": "mart",
+      "rating": 3.7,
+      "reviews": 616,
+      "branches": 3,
+      "lat": 49.929359,
+      "lon": 82.612057
+    },
+    {
+      "name": "Magnum Super",
+      "addr": "проспект Победы, 10",
+      "cat": "mart",
+      "rating": 2.9,
+      "reviews": 243,
+      "branches": 3,
+      "lat": 49.949192,
+      "lon": 82.61735
+    },
+    {
+      "name": "Magnum, Magnum Express",
+      "addr": "проспект Каныша Сатпаева, 16/1",
+      "cat": "mart",
+      "rating": 2.9,
+      "reviews": 147,
+      "branches": 3,
+      "lat": 49.903304,
+      "lon": 82.620514
+    },
+    {
+      "name": "Ахмер, продуктовый магазин",
+      "addr": "улица Гайсы Аязбаева, 31",
+      "cat": "shop",
+      "rating": 4.8,
+      "reviews": 19,
+      "branches": 1,
+      "lat": 49.950761,
+      "lon": 82.534185
+    },
+    {
+      "name": "Колос, супермаркет",
+      "addr": "проспект Ауэзова, 15",
+      "cat": "mart",
+      "rating": 2.7,
+      "reviews": 132,
+      "branches": 1,
+      "lat": 49.949018,
+      "lon": 82.613309
+    },
+    {
+      "name": "Продуктофф, магазин",
+      "addr": "улица Кабанбай батыра, 91/4",
+      "cat": "shop",
+      "rating": 4.8,
+      "reviews": 717,
+      "branches": 2,
+      "lat": 49.949456,
+      "lon": 82.638733
+    },
+    {
+      "name": "Продуктофф, магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 4.6,
+      "reviews": 814,
+      "branches": 2,
+      "lat": 49.949917,
+      "lon": 82.60663
+    },
+    {
+      "name": "Halyk Mart, оптомаркет",
+      "addr": null,
+      "cat": "mart",
+      "rating": 4,
+      "reviews": 114,
+      "branches": 1,
+      "lat": 49.960929,
+      "lon": 82.636612
+    },
+    {
+      "name": "Волна, супермаркет",
+      "addr": null,
+      "cat": "mart",
+      "rating": 2.9,
+      "reviews": 100,
+      "branches": 1,
+      "lat": 49.949642,
+      "lon": 82.639996
+    },
+    {
+      "name": "A-Store, гипермаркет",
+      "addr": "проспект Каныша Сатпаева, 15Б",
+      "cat": "mart",
+      "rating": 4.3,
+      "reviews": 196,
+      "branches": 6,
+      "lat": 49.903071,
+      "lon": 82.626498
+    },
+    {
+      "name": "Айзере, мини-маркет",
+      "addr": null,
+      "cat": "mart",
+      "rating": 3.2,
+      "reviews": 121,
+      "branches": 2,
+      "lat": 49.898611,
+      "lon": 82.612323
+    },
+    {
+      "name": "Чайка, продуктовый магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 3.9,
+      "reviews": 67,
+      "branches": 1,
+      "lat": 49.94439,
+      "lon": 82.606999
+    },
+    {
+      "name": "Самал, супермаркет",
+      "addr": "улица Бажова, 331/1",
+      "cat": "mart",
+      "rating": 3.5,
+      "reviews": 74,
+      "branches": 1,
+      "lat": 50.010053,
+      "lon": 82.553134
+    },
+    {
+      "name": "Светофор, супермаркет",
+      "addr": "Нурсултана Назарбаева проспект, 127",
+      "cat": "mart",
+      "rating": 3.1,
+      "reviews": 142,
+      "branches": 5,
+      "lat": 49.983836,
+      "lon": 82.574808
+    },
+    {
+      "name": "Светофор, супермаркет",
+      "addr": "улица Казахстан, 163 к1",
+      "cat": "mart",
+      "rating": 3.7,
+      "reviews": 78,
+      "branches": 5,
+      "lat": 49.96272,
+      "lon": 82.639632
+    },
+    {
+      "name": "Айзере, мини-маркет",
+      "addr": "проспект Каныша Сатпаева, 55/3",
+      "cat": "mart",
+      "rating": 3.5,
+      "reviews": 143,
+      "branches": 2,
+      "lat": 49.925032,
+      "lon": 82.626104
+    },
+    {
+      "name": "Светофор, супермаркет",
+      "addr": "Шоссейный переулок, 26/10",
+      "cat": "mart",
+      "rating": 3.6,
+      "reviews": 77,
+      "branches": 5,
+      "lat": 49.930141,
+      "lon": 82.584282
+    },
+    {
+      "name": "Рахат, продуктовый магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 3.9,
+      "reviews": 33,
+      "branches": 1,
+      "lat": 49.972755,
+      "lon": 82.582502
+    },
+    {
+      "name": "Караша, продуктовый магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 4.6,
+      "reviews": 38,
+      "branches": 1,
+      "lat": 49.961618,
+      "lon": 82.592963
+    },
+    {
+      "name": "Ауэзовский, магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 2.7,
+      "reviews": 34,
+      "branches": 1,
+      "lat": 49.948275,
+      "lon": 82.612604
+    },
+    {
+      "name": "Магнат, мини-маркет",
+      "addr": "улица Джека Лондона, 26/3",
+      "cat": "mart",
+      "rating": 4.2,
+      "reviews": 69,
+      "branches": 1,
+      "lat": 49.887578,
+      "lon": 82.640523
+    },
+    {
+      "name": "Арзан баға, супермаркет",
+      "addr": "улица Талаптан Ахметжан, 5в",
+      "cat": "mart",
+      "rating": 4.2,
+      "reviews": 66,
+      "branches": 2,
+      "lat": 49.93279,
+      "lon": 82.587528
+    },
+    {
+      "name": "Жәй төбе, продуктовый магазин",
+      "addr": "улица Тогас, 3/1",
+      "cat": "shop",
+      "rating": 3.7,
+      "reviews": 30,
+      "branches": 1,
+      "lat": 49.966384,
+      "lon": 82.543865
+    },
+    {
+      "name": "Горожанка, продуктовый магазин",
+      "addr": "набережная Славского, 30",
+      "cat": "shop",
+      "rating": 4.3,
+      "reviews": 54,
+      "branches": 1,
+      "lat": 49.944593,
+      "lon": 82.604327
+    },
+    {
+      "name": "Нури, продовольственный магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 2.2,
+      "reviews": 124,
+      "branches": 1,
+      "lat": 49.963284,
+      "lon": 82.609531
+    },
+    {
+      "name": "Sandy, продовольственный магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 2.2,
+      "reviews": 134,
+      "branches": 1,
+      "lat": 49.95926,
+      "lon": 82.636913
+    },
+    {
+      "name": "Дао, продовольственный магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 3.5,
+      "reviews": 65,
+      "branches": 1,
+      "lat": 49.952783,
+      "lon": 82.643608
+    },
+    {
+      "name": "888 Маркет, магазин",
+      "addr": "проспект Каныша Сатпаева, 2",
+      "cat": "shop",
+      "rating": 2.1,
+      "reviews": 27,
+      "branches": 1,
+      "lat": 49.895561,
+      "lon": 82.620058
+    },
+    {
+      "name": "Снежинка, магазин продуктов",
+      "addr": null,
+      "cat": "shop",
+      "rating": 4.3,
+      "reviews": 32,
+      "branches": 1,
+      "lat": 49.957785,
+      "lon": 82.607191
+    },
+    {
+      "name": "7`я Маркет, супермаркет",
+      "addr": "улица Гайсы Аязбаева, 18",
+      "cat": "mart",
+      "rating": 4.7,
+      "reviews": 314,
+      "branches": 3,
+      "lat": 49.951129,
+      "lon": 82.534407
+    },
+    {
+      "name": "Мереке, продовольственный магазин",
+      "addr": "улица Энтузиастов, 35",
+      "cat": "shop",
+      "rating": 4,
+      "reviews": 34,
+      "branches": 1,
+      "lat": 49.891818,
+      "lon": 82.649148
+    },
+    {
+      "name": "Айару, мини-маркет",
+      "addr": "проспект Каныша Сатпаева, 57/2",
+      "cat": "shop",
+      "rating": 4.7,
+      "reviews": 80,
+      "branches": 1,
+      "lat": 49.925763,
+      "lon": 82.625612
+    },
+    {
+      "name": "Smile, продуктовый магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 3.2,
+      "reviews": 60,
+      "branches": 1,
+      "lat": 49.986254,
+      "lon": 82.571977
+    },
+    {
+      "name": "7`я Маркет, супермаркет",
+      "addr": "улица Тимофеева, 81/1",
+      "cat": "mart",
+      "rating": 4.6,
+      "reviews": 176,
+      "branches": 3,
+      "lat": 49.975022,
+      "lon": 82.650984
+    },
+    {
+      "name": "La Central",
+      "addr": "Нурсултана Назарбаева проспект, 6",
+      "cat": "mart",
+      "rating": 3.9,
+      "reviews": 114,
+      "branches": 2,
+      "lat": 49.957803,
+      "lon": 82.610647
+    },
+    {
+      "name": "Айша, продуктовый магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 4.5,
+      "reviews": 19,
+      "branches": 1,
+      "lat": 49.976066,
+      "lon": 82.557203
+    },
+    {
+      "name": "Барыс, продуктовый магазин",
+      "addr": "улица Сиреневая, 33а",
+      "cat": "shop",
+      "rating": 4.5,
+      "reviews": 16,
+      "branches": 1,
+      "lat": 49.963222,
+      "lon": 82.681551
+    },
+    {
+      "name": "Ласточка, мини-маркет",
+      "addr": null,
+      "cat": "mart",
+      "rating": 2.8,
+      "reviews": 76,
+      "branches": 1,
+      "lat": 49.945581,
+      "lon": 82.625264
+    },
+    {
+      "name": "Нур, магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 2.2,
+      "reviews": 62,
+      "branches": 1,
+      "lat": 49.902208,
+      "lon": 82.621462
+    },
+    {
+      "name": "A-Store, гипермаркет",
+      "addr": "проспект Каныша Сатпаева, 51",
+      "cat": "mart",
+      "rating": 2.7,
+      "reviews": 31,
+      "branches": 6,
+      "lat": 49.920293,
+      "lon": 82.629184
+    },
+    {
+      "name": "Lime, магазин разливных напитков",
+      "addr": "улица Бориса Александрова, 11/2",
+      "cat": "shop",
+      "rating": 4.1,
+      "reviews": 90,
+      "branches": 3,
+      "lat": 49.959701,
+      "lon": 82.620174
+    },
+    {
+      "name": "Елена, продовольственный магазин",
+      "addr": "Кооперативный переулок, 8а",
+      "cat": "shop",
+      "rating": 4.2,
+      "reviews": 25,
+      "branches": 1,
+      "lat": 49.938605,
+      "lon": 82.582488
+    },
+    {
+      "name": "Tau market, минимаркет",
+      "addr": "улица Койшыбаева, 1 к2",
+      "cat": "mart",
+      "rating": 4.6,
+      "reviews": 10,
+      "branches": 1,
+      "lat": 49.943431,
+      "lon": 82.52218
+    },
+    {
+      "name": "Оливье, супермаркет",
+      "addr": "проспект Каныша Сатпаева, 74",
+      "cat": "mart",
+      "rating": 4.2,
+      "reviews": 32,
+      "branches": 1,
+      "lat": 49.913505,
+      "lon": 82.62763
+    },
+    {
+      "name": "Lime, мини-маркет",
+      "addr": "улица Металлургов, 28",
+      "cat": "shop",
+      "rating": 4.3,
+      "reviews": 39,
+      "branches": 3,
+      "lat": 49.975835,
+      "lon": 82.587379
+    },
+    {
+      "name": "Allmart, продуктовый магазин",
+      "addr": null,
+      "cat": "mart",
+      "rating": 4.3,
+      "reviews": 83,
+      "branches": 5,
+      "lat": 49.899062,
+      "lon": 82.635029
+    },
+    {
+      "name": "Qazyna, мини-маркет",
+      "addr": "улица Дружбы Народов, 42",
+      "cat": "mart",
+      "rating": 4.5,
+      "reviews": 45,
+      "branches": 1,
+      "lat": 49.89209,
+      "lon": 82.637169
+    },
+    {
+      "name": "A-Store, гипермаркет",
+      "addr": "улица Бажова, 110",
+      "cat": "mart",
+      "rating": 1.7,
+      "reviews": 102,
+      "branches": 6,
+      "lat": 49.984893,
+      "lon": 82.592147
+    },
+    {
+      "name": "Звёздный, продуктовый магазин",
+      "addr": "С/О Звездный, 336",
+      "cat": "shop",
+      "rating": 4.9,
+      "reviews": 5,
+      "branches": 1,
+      "lat": 49.938337,
+      "lon": 82.503025
+    },
+    {
+      "name": "Nice Food, продуктовый магазин",
+      "addr": "улица Сагадат Нурмагамбетов, 43",
+      "cat": "shop",
+      "rating": 4.2,
+      "reviews": 33,
+      "branches": 1,
+      "lat": 49.951198,
+      "lon": 82.620863
+    },
+    {
+      "name": "18, продуктовый магазин",
+      "addr": null,
+      "cat": "shop",
+      "rating": 4.9,
+      "reviews": 43,
+      "branches": 1,
+      "lat": 49.90292,
+      "lon": 82.624239
+    }
+  ],
+  "pharma": [
+    {
+      "name": "ОптоМед, аптека",
+      "addr": "улица Оралхан Бокей, 13",
+      "cat": "pharmacy",
+      "rating": 4.5,
+      "reviews": 53,
+      "branches": 11,
+      "lat": 49.899615,
+      "lon": 82.617773
+    },
+    {
+      "name": "БИОСФЕРА, аптека",
+      "addr": "проспект Шакарим, 149 к6",
+      "cat": "pharmacy",
+      "rating": 4.3,
+      "reviews": 49,
+      "branches": 23,
+      "lat": 49.969174,
+      "lon": 82.598895
+    },
+    {
+      "name": "Halyk Arzan Pharm, аптека",
+      "addr": "улица Виноградова, 19а",
+      "cat": "pharmacy",
+      "rating": 4.3,
+      "reviews": 14,
+      "branches": 5,
+      "lat": 49.965903,
+      "lon": 82.589516
+    },
+    {
+      "name": "Аптека Со склада",
+      "addr": "улица Оралхан Бокей, 27",
+      "cat": "pharmacy",
+      "rating": 4.5,
+      "reviews": 14,
+      "branches": 14,
+      "lat": 49.901008,
+      "lon": 82.615018
+    },
+    {
+      "name": "Уміт-Фарм, социальная аптека",
+      "addr": "улица Потанина, 15",
+      "cat": "pharmacy",
+      "rating": 4.7,
+      "reviews": 22,
+      "branches": 11,
+      "lat": 49.958635,
+      "lon": 82.603416
+    },
+    {
+      "name": "Аптека",
+      "addr": "улица Новаторов, 2",
+      "cat": "pharmacy",
+      "rating": 4.1,
+      "reviews": 23,
+      "branches": 2,
+      "lat": 49.947832,
+      "lon": 82.646634
+    },
+    {
+      "name": "Pharmacom, аптека",
+      "addr": "улица Казахстан, 62",
+      "cat": "pharmacy",
+      "rating": 3.4,
+      "reviews": 67,
+      "branches": 4,
+      "lat": 49.9432,
+      "lon": 82.625516
+    },
+    {
+      "name": "Kaspi.kz, онлайн-аптека",
+      "addr": "улица Жибек Жолы, 1",
+      "cat": "pharmacy",
+      "rating": 2.3,
+      "reviews": 2,
+      "branches": 5,
+      "lat": 49.929513,
+      "lon": 82.612735
+    },
+    {
+      "name": "Медсервис плюс, аптека",
+      "addr": "улица Алматинская, 72",
+      "cat": "pharmacy",
+      "rating": 4.2,
+      "reviews": 17,
+      "branches": 5,
+      "lat": 49.966425,
+      "lon": 82.598532
+    },
+    {
+      "name": "103, аптека",
+      "addr": null,
+      "cat": "pharmacy",
+      "rating": 4.8,
+      "reviews": 159,
+      "branches": 2,
+      "lat": 49.95821,
+      "lon": 82.636017
+    },
+    {
+      "name": "103, аптека",
+      "addr": "Нурсултана Назарбаева проспект, 20",
+      "cat": "pharmacy",
+      "rating": 4.6,
+      "reviews": 42,
+      "branches": 2,
+      "lat": 49.959808,
+      "lon": 82.605865
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "проспект Ауэзова, 9",
+      "cat": "pharmacy",
+      "rating": 4.7,
+      "reviews": 52,
+      "branches": 18,
+      "lat": 49.946503,
+      "lon": 82.610874
+    },
+    {
+      "name": "ЕвроАзияФарм",
+      "addr": null,
+      "cat": "pharmacy",
+      "rating": 3.4,
+      "reviews": 119,
+      "branches": 5,
+      "lat": 49.949142,
+      "lon": 82.63965
+    },
+    {
+      "name": "ЕвроАзияФарм",
+      "addr": "проспект Шакарим, 95",
+      "cat": "pharmacy",
+      "rating": 4,
+      "reviews": 102,
+      "branches": 5,
+      "lat": 49.968432,
+      "lon": 82.607934
+    },
+    {
+      "name": "Europharma, Аптека №165",
+      "addr": "проспект Ауэзова, 11",
+      "cat": "pharmacy",
+      "rating": 3.7,
+      "reviews": 160,
+      "branches": 8,
+      "lat": 49.947603,
+      "lon": 82.611918
+    },
+    {
+      "name": "АГАТ-K, аптека",
+      "addr": "улица Оралхан Бокей, 31/1",
+      "cat": "pharmacy",
+      "rating": 4.2,
+      "reviews": 70,
+      "branches": 1,
+      "lat": 49.899994,
+      "lon": 82.613104
+    },
+    {
+      "name": "Евромед, аптека",
+      "addr": "улица Кайсенова, 61",
+      "cat": "pharmacy",
+      "rating": 4,
+      "reviews": 80,
+      "branches": 4,
+      "lat": 49.945807,
+      "lon": 82.622472
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "улица Оралхан Бокей, 13/2",
+      "cat": "pharmacy",
+      "rating": 4.3,
+      "reviews": 39,
+      "branches": 18,
+      "lat": 49.900343,
+      "lon": 82.617026
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "улица Потанина, 15",
+      "cat": "pharmacy",
+      "rating": 4.9,
+      "reviews": 50,
+      "branches": 18,
+      "lat": 49.958654,
+      "lon": 82.603546
+    },
+    {
+      "name": "Евромед, аптека",
+      "addr": "проспект Ауэзова, 9",
+      "cat": "pharmacy",
+      "rating": 3.8,
+      "reviews": 31,
+      "branches": 4,
+      "lat": 49.946369,
+      "lon": 82.610747
+    },
+    {
+      "name": "Kazmed, аптека",
+      "addr": "улица Карбышева, 24",
+      "cat": "pharmacy",
+      "rating": 3.7,
+      "reviews": 46,
+      "branches": 3,
+      "lat": 49.962771,
+      "lon": 82.579661
+    },
+    {
+      "name": "БИОСФЕРА, аптека",
+      "addr": "улица Оралхан Бокей, 7/1",
+      "cat": "pharmacy",
+      "rating": 4.4,
+      "reviews": 16,
+      "branches": 23,
+      "lat": 49.89927,
+      "lon": 82.618213
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "Нурсултана Назарбаева проспект, 20",
+      "cat": "pharmacy",
+      "rating": 4.8,
+      "reviews": 38,
+      "branches": 18,
+      "lat": 49.959959,
+      "lon": 82.60542
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "улица Кабанбай батыра, 87/1",
+      "cat": "pharmacy",
+      "rating": 4.5,
+      "reviews": 35,
+      "branches": 18,
+      "lat": 49.949726,
+      "lon": 82.637758
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "улица Байбатчина, 18",
+      "cat": "pharmacy",
+      "rating": 4.5,
+      "reviews": 32,
+      "branches": 18,
+      "lat": 49.905098,
+      "lon": 82.63078
+    },
+    {
+      "name": "БИОСФЕРА, аптека",
+      "addr": "улица Кабанбай батыра, 114",
+      "cat": "pharmacy",
+      "rating": 4.6,
+      "reviews": 31,
+      "branches": 23,
+      "lat": 49.949621,
+      "lon": 82.639977
+    },
+    {
+      "name": "Europharma, Аптека №66",
+      "addr": "Амре Кашаубаев улица, 6",
+      "cat": "pharmacy",
+      "rating": 3.7,
+      "reviews": 80,
+      "branches": 8,
+      "lat": 49.957318,
+      "lon": 82.605006
+    },
+    {
+      "name": "Евромед, аптека",
+      "addr": "улица Виноградова, 18",
+      "cat": "pharmacy",
+      "rating": 3.4,
+      "reviews": 37,
+      "branches": 4,
+      "lat": 49.965084,
+      "lon": 82.589071
+    },
+    {
+      "name": "24, аптека",
+      "addr": "проспект Каныша Сатпаева, 20",
+      "cat": "pharmacy",
+      "rating": 4.2,
+      "reviews": 326,
+      "branches": 1,
+      "lat": 49.903106,
+      "lon": 82.623769
+    },
+    {
+      "name": "Europharma, аптека №103",
+      "addr": "улица Кабанбай батыра, 124",
+      "cat": "pharmacy",
+      "rating": 3.8,
+      "reviews": 67,
+      "branches": 8,
+      "lat": 49.950631,
+      "lon": 82.637279
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "Нурсултана Назарбаева проспект, 47",
+      "cat": "pharmacy",
+      "rating": 4.5,
+      "reviews": 31,
+      "branches": 18,
+      "lat": 49.973645,
+      "lon": 82.58814
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "бульвар Гагарина, 22",
+      "cat": "pharmacy",
+      "rating": 4.6,
+      "reviews": 19,
+      "branches": 18,
+      "lat": 49.969842,
+      "lon": 82.581553
+    },
+    {
+      "name": "БИОСФЕРА, аптека",
+      "addr": "Нурсултана Назарбаева проспект, 20",
+      "cat": "pharmacy",
+      "rating": 4.7,
+      "reviews": 10,
+      "branches": 23,
+      "lat": 49.959936,
+      "lon": 82.605489
+    },
+    {
+      "name": "БИОСФЕРА, аптека",
+      "addr": "улица Виноградова, 12",
+      "cat": "pharmacy",
+      "rating": 4.8,
+      "reviews": 36,
+      "branches": 23,
+      "lat": 49.963587,
+      "lon": 82.586325
+    },
+    {
+      "name": "Комек, аптека",
+      "addr": "проспект Ауэзова, 33",
+      "cat": "pharmacy",
+      "rating": 4.8,
+      "reviews": 7,
+      "branches": 1,
+      "lat": 49.949435,
+      "lon": 82.613652
+    },
+    {
+      "name": "Экономь, аптека",
+      "addr": "улица Потанина, 19",
+      "cat": "pharmacy",
+      "rating": 4.2,
+      "reviews": 27,
+      "branches": 23,
+      "lat": 49.958538,
+      "lon": 82.602746
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "улица Кабанбай батыра, 99",
+      "cat": "pharmacy",
+      "rating": 4.4,
+      "reviews": 3,
+      "branches": 18,
+      "lat": 49.951353,
+      "lon": 82.633415
+    },
+    {
+      "name": "Гедеон Рихтер, аптека",
+      "addr": "улица Бурова, 24",
+      "cat": "pharmacy",
+      "rating": 4,
+      "reviews": 26,
+      "branches": 4,
+      "lat": 49.95477,
+      "lon": 82.647089
+    },
+    {
+      "name": "Ваша Аптека",
+      "addr": "Нурсултана Назарбаева проспект, 42",
+      "cat": "pharmacy",
+      "rating": 4.1,
+      "reviews": 38,
+      "branches": 1,
+      "lat": 49.965517,
+      "lon": 82.598656
+    },
+    {
+      "name": "Kazmed, аптека",
+      "addr": "улица Казахстан, 90",
+      "cat": "pharmacy",
+      "rating": 4.3,
+      "reviews": 25,
+      "branches": 3,
+      "lat": 49.954472,
+      "lon": 82.633657
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "улица Бурова, 29",
+      "cat": "pharmacy",
+      "rating": 4.9,
+      "reviews": 11,
+      "branches": 18,
+      "lat": 49.95251,
+      "lon": 82.642388
+    },
+    {
+      "name": "БИОСФЕРА, аптека",
+      "addr": "проспект Ауэзова, 13",
+      "cat": "pharmacy",
+      "rating": 4.7,
+      "reviews": 28,
+      "branches": 23,
+      "lat": 49.948565,
+      "lon": 82.612879
+    },
+    {
+      "name": "Zhuldyz pharm, аптека",
+      "addr": "проспект Каныша Сатпаева, 7а",
+      "cat": "pharmacy",
+      "rating": 4,
+      "reviews": 37,
+      "branches": 2,
+      "lat": 49.897513,
+      "lon": 82.623153
+    },
+    {
+      "name": "Europharma, Аптека №338",
+      "addr": "улица Гоголя, 36",
+      "cat": "pharmacy",
+      "rating": 5,
+      "reviews": 1,
+      "branches": 8,
+      "lat": 49.974232,
+      "lon": 82.589035
+    },
+    {
+      "name": "Kazmed, аптека",
+      "addr": "набережная Славского, 12/1",
+      "cat": "pharmacy",
+      "rating": 4.1,
+      "reviews": 37,
+      "branches": 3,
+      "lat": 49.942972,
+      "lon": 82.619649
+    },
+    {
+      "name": "Europharma, Аптека №31",
+      "addr": "улица Оралхан Бокей, 2",
+      "cat": "pharmacy",
+      "rating": 2.8,
+      "reviews": 79,
+      "branches": 8,
+      "lat": 49.898364,
+      "lon": 82.621329
+    },
+    {
+      "name": "Забота, аптека",
+      "addr": "улица Бурова, 41",
+      "cat": "pharmacy",
+      "rating": 4.2,
+      "reviews": 40,
+      "branches": 1,
+      "lat": 49.953844,
+      "lon": 82.64359
+    },
+    {
+      "name": "Социальная аптека",
+      "addr": "улица Кабанбай батыра, 126",
+      "cat": "pharmacy",
+      "rating": 4.8,
+      "reviews": 30,
+      "branches": 1,
+      "lat": 49.951348,
+      "lon": 82.637821
+    },
+    {
+      "name": "Europharma",
+      "addr": "улица Казахстан, 75",
+      "cat": "pharmacy",
+      "rating": null,
+      "reviews": null,
+      "branches": 8,
+      "lat": 49.954378,
+      "lon": 82.632661
+    },
+    {
+      "name": "ЕвроАзияФарм",
+      "addr": "проспект Ауэзова, 24",
+      "cat": "pharmacy",
+      "rating": 3.6,
+      "reviews": 37,
+      "branches": 5,
+      "lat": 49.949738,
+      "lon": 82.615058
+    },
+    {
+      "name": "Евромед, аптека",
+      "addr": "улица Астана, 46",
+      "cat": "pharmacy",
+      "rating": 4.4,
+      "reviews": 21,
+      "branches": 4,
+      "lat": 49.95338,
+      "lon": 82.592164
+    },
+    {
+      "name": "ЕвроАзияФарм",
+      "addr": "улица Оралхан Бокей, 32",
+      "cat": "pharmacy",
+      "rating": 2.9,
+      "reviews": 70,
+      "branches": 5,
+      "lat": 49.902328,
+      "lon": 82.607863
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "улица Виноградова, 12",
+      "cat": "pharmacy",
+      "rating": 5,
+      "reviews": 5,
+      "branches": 18,
+      "lat": 49.963755,
+      "lon": 82.586648
+    },
+    {
+      "name": "AishaPharm, аптека",
+      "addr": "проспект Илияса Есенберлина, 6а",
+      "cat": "pharmacy",
+      "rating": 3.8,
+      "reviews": 49,
+      "branches": 1,
+      "lat": 49.893308,
+      "lon": 82.59648
+    },
+    {
+      "name": "Диана, аптека",
+      "addr": "улица Антона Чехова, 71",
+      "cat": "pharmacy",
+      "rating": 3.7,
+      "reviews": 24,
+      "branches": 1,
+      "lat": 49.954134,
+      "lon": 82.624645
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "Нурсултана Назарбаева проспект, 1",
+      "cat": "pharmacy",
+      "rating": 4.7,
+      "reviews": 18,
+      "branches": 18,
+      "lat": 49.956124,
+      "lon": 82.61357
+    },
+    {
+      "name": "Zerde, аптека",
+      "addr": "Нурсултана Назарбаева проспект, 87",
+      "cat": "pharmacy",
+      "rating": 4.3,
+      "reviews": 14,
+      "branches": 18,
+      "lat": 49.985692,
+      "lon": 82.571832
+    },
+    {
+      "name": "ОптоМед, аптека",
+      "addr": "проспект Ауэзова, 9",
+      "cat": "pharmacy",
+      "rating": 4.5,
+      "reviews": 62,
+      "branches": 11,
+      "lat": 49.946731,
+      "lon": 82.61109
+    },
+    {
+      "name": "БИОСФЕРА, аптека",
+      "addr": "бульвар Гагарина, 22",
+      "cat": "pharmacy",
+      "rating": 4.6,
+      "reviews": 13,
+      "branches": 23,
+      "lat": 49.970241,
+      "lon": 82.582312
+    },
+    {
+      "name": "Europharma, Аптека №210",
+      "addr": "улица Крылова, 47",
+      "cat": "pharmacy",
+      "rating": 4.1,
+      "reviews": 51,
+      "branches": 8,
+      "lat": 49.94556,
+      "lon": 82.614749
+    }
+  ],
+  "bakery": [
+    {
+      "name": "ПЛЮШКА, кофейня",
+      "addr": null,
+      "cat": "fastfood",
+      "rating": 4.8,
+      "reviews": 380,
+      "branches": 4,
+      "lat": 49.966137,
+      "lon": 82.597942
+    },
+    {
+      "name": "La Famiglia, итальянская пекарня",
+      "addr": "проспект Ауэзова, 33",
+      "cat": "pizza",
+      "rating": 4.7,
+      "reviews": 63,
+      "branches": 1,
+      "lat": 49.949493,
+      "lon": 82.613389
+    },
+    {
+      "name": "ПЛЮШКА, кофейня",
+      "addr": "улица Сагадат Нурмагамбетов, 49",
+      "cat": "food_service",
+      "rating": 4.7,
+      "reviews": 164,
+      "branches": 4,
+      "lat": 49.951373,
+      "lon": 82.620531
+    },
+    {
+      "name": "Буlки, пекарня-кофейня",
+      "addr": "проспект Илияса Есенберлина, 18",
+      "cat": "bakery",
+      "rating": 4.4,
+      "reviews": 26,
+      "branches": 1,
+      "lat": 49.904213,
+      "lon": 82.607316
+    },
+    {
+      "name": "ПЛЮШКА, кофейня",
+      "addr": null,
+      "cat": "food_service",
+      "rating": 4.7,
+      "reviews": 215,
+      "branches": 4,
+      "lat": 49.947662,
+      "lon": 82.611974
+    },
+    {
+      "name": "Вояж, кондитерская-пекарня",
+      "addr": null,
+      "cat": "candy",
+      "rating": 3.9,
+      "reviews": 153,
+      "branches": 1,
+      "lat": 49.958583,
+      "lon": 82.605541
+    },
+    {
+      "name": "Lakomka, кофейня с домашней выпечкой",
+      "addr": null,
+      "cat": "cafe",
+      "rating": 4.8,
+      "reviews": 251,
+      "branches": 1,
+      "lat": 49.950794,
+      "lon": 82.616429
+    },
+    {
+      "name": "Дом Хлеба, пекарня",
+      "addr": "Нурсултана Назарбаева проспект, 8/1",
+      "cat": "bakery",
+      "rating": 4.7,
+      "reviews": 165,
+      "branches": 1,
+      "lat": 49.958789,
+      "lon": 82.610174
+    },
+    {
+      "name": "ПЛЮШКА, кофейня",
+      "addr": null,
+      "cat": "food_service",
+      "rating": 4.7,
+      "reviews": 54,
+      "branches": 4,
+      "lat": 49.952513,
+      "lon": 82.632495
+    },
+    {
+      "name": "Добрый пекарь",
+      "addr": "улица Шарипова, 5/1",
+      "cat": "bakery",
+      "rating": 4.6,
+      "reviews": 6,
+      "branches": 7,
+      "lat": 49.892272,
+      "lon": 82.624143
+    },
+    {
+      "name": "Добрый пекарь",
+      "addr": "улица Кабанбай батыра, 142",
+      "cat": "bakery",
+      "rating": 4.1,
+      "reviews": 43,
+      "branches": 7,
+      "lat": 49.952357,
+      "lon": 82.632934
+    },
+    {
+      "name": "Добрый пекарь",
+      "addr": "улица Виноградова, 17а",
+      "cat": "bakery",
+      "rating": 4,
+      "reviews": 30,
+      "branches": 7,
+      "lat": 49.965435,
+      "lon": 82.587368
+    },
+    {
+      "name": "Булочная",
+      "addr": "набережная Славского, 46",
+      "cat": "food_service",
+      "rating": 4.8,
+      "reviews": 41,
+      "branches": 1,
+      "lat": 49.946915,
+      "lon": 82.596038
+    },
+    {
+      "name": "Добрый пекарь",
+      "addr": "улица Оралхан Бокей, 13/1",
+      "cat": "bakery",
+      "rating": 4.3,
+      "reviews": 37,
+      "branches": 7,
+      "lat": 49.90024,
+      "lon": 82.616234
+    },
+    {
+      "name": "Восток Нива, пекарня",
+      "addr": "улица Спасская, 44",
+      "cat": "bakery",
+      "rating": 4.6,
+      "reviews": 12,
+      "branches": 1,
+      "lat": 50.010868,
+      "lon": 82.574525
+    },
+    {
+      "name": "Burabai, пекарня",
+      "addr": "улица Прибрежная, 36/1",
+      "cat": "bakery",
+      "rating": 5,
+      "reviews": 11,
+      "branches": 2,
+      "lat": 49.924478,
+      "lon": 82.659178
+    },
+    {
+      "name": "Добрый пекарь",
+      "addr": "улица Жибек Жолы, 1",
+      "cat": "bakery",
+      "rating": 4.3,
+      "reviews": 17,
+      "branches": 7,
+      "lat": 49.929513,
+      "lon": 82.612735
+    },
+    {
+      "name": "Roj Helat, пекарня",
+      "addr": "улица Серикбаева, 7/1",
+      "cat": "bakery",
+      "rating": 3.2,
+      "reviews": 16,
+      "branches": 1,
+      "lat": 49.959579,
+      "lon": 82.595262
+    },
+    {
+      "name": "Аққу, пекарня",
+      "addr": "улица Мелиораторов, 36а",
+      "cat": "bakery",
+      "rating": 4.3,
+      "reviews": 9,
+      "branches": 1,
+      "lat": 49.95321,
+      "lon": 82.530215
+    },
+    {
+      "name": "Добрый пекарь",
+      "addr": "проспект Казыбек би, 5в",
+      "cat": "bakery",
+      "rating": 3.6,
+      "reviews": 14,
+      "branches": 7,
+      "lat": 49.895456,
+      "lon": 82.61485
+    },
+    {
+      "name": "Добрый пекарь",
+      "addr": "набережная Славского, 24",
+      "cat": "bakery",
+      "rating": 4.5,
+      "reviews": 23,
+      "branches": 7,
+      "lat": 49.94439,
+      "lon": 82.606999
+    },
+    {
+      "name": "Family Market, Пекарня",
+      "addr": null,
+      "cat": "bakery",
+      "rating": 2.2,
+      "reviews": 8,
+      "branches": 6,
+      "lat": 49.89558,
+      "lon": 82.596291
+    },
+    {
+      "name": "Пекарня Восточная",
+      "addr": "улица Карбышева, 54",
+      "cat": "bakery",
+      "rating": 2.8,
+      "reviews": 11,
+      "branches": 1,
+      "lat": 49.967315,
+      "lon": 82.572944
+    },
+    {
+      "name": "Пекарня",
+      "addr": "улица Дружбы Народов, 4",
+      "cat": "bakery",
+      "rating": null,
+      "reviews": null,
+      "branches": 1,
+      "lat": 49.899697,
+      "lon": 82.657954
+    },
+    {
+      "name": "Pekarina",
+      "addr": "улица Потанина, 29",
+      "cat": "bakery",
+      "rating": 4.2,
+      "reviews": 14,
+      "branches": 3,
+      "lat": 49.957776,
+      "lon": 82.597488
+    },
+    {
+      "name": "Pekarina",
+      "addr": "улица Протозанова, 5 к2",
+      "cat": "bakery",
+      "rating": 3.6,
+      "reviews": 8,
+      "branches": 3,
+      "lat": 49.960196,
+      "lon": 82.63174
+    },
+    {
+      "name": "Пекарня",
+      "addr": null,
+      "cat": "bakery",
+      "rating": null,
+      "reviews": null,
+      "branches": 1,
+      "lat": 50.01601,
+      "lon": 82.538539
+    },
+    {
+      "name": "Элит, пекарня",
+      "addr": "улица Лермонтова, 36",
+      "cat": "shop",
+      "rating": 2.1,
+      "reviews": 42,
+      "branches": 1,
+      "lat": 49.968099,
+      "lon": 82.623098
+    },
+    {
+      "name": "Pekarina",
+      "addr": "улица Бурова, 39/3",
+      "cat": "bakery",
+      "rating": 1,
+      "reviews": 1,
+      "branches": 3,
+      "lat": 49.954771,
+      "lon": 82.638522
+    },
+    {
+      "name": "Burabai, пекарня",
+      "addr": "улица Жибек Жолы, 44 к1",
+      "cat": "bakery",
+      "rating": null,
+      "reviews": null,
+      "branches": 2,
+      "lat": 49.930771,
+      "lon": 82.596516
+    },
+    {
+      "name": "Груша, пекарня",
+      "addr": "улица Кабанбай батыра, 142",
+      "cat": "shop",
+      "rating": 4.3,
+      "reviews": 55,
+      "branches": 1,
+      "lat": 49.952357,
+      "lon": 82.632934
+    },
+    {
+      "name": "NDN familybakery, кондитерский цех",
+      "addr": "улица Воронина, 42а",
+      "cat": "bakery",
+      "rating": 4.3,
+      "reviews": 16,
+      "branches": 1,
+      "lat": 49.893074,
+      "lon": 82.646232
+    },
+    {
+      "name": "Пекарня, ИП Оразбекова С.О.",
+      "addr": "улица Мерей, 93/1",
+      "cat": "bakery",
+      "rating": 5,
+      "reviews": 7,
+      "branches": 1,
+      "lat": 49.939054,
+      "lon": 82.525594
+    },
+    {
+      "name": "Нива, пекарня",
+      "addr": "91-й квартал, 35/2",
+      "cat": "bakery",
+      "rating": 5,
+      "reviews": 4,
+      "branches": 1,
+      "lat": 50.329771,
+      "lon": 83.463447
+    },
+    {
+      "name": "Береке Нан, пекарня",
+      "addr": "улица Щербакова, 10",
+      "cat": "shop",
+      "rating": 5,
+      "reviews": 1,
+      "branches": 1,
+      "lat": 50.015615,
+      "lon": 82.537784
+    },
+    {
+      "name": "Bonape, французская пекарня",
+      "addr": "улица Крылова, 106",
+      "cat": "shop",
+      "rating": 2.4,
+      "reviews": 38,
+      "branches": 1,
+      "lat": 49.949917,
+      "lon": 82.60663
+    },
+    {
+      "name": "Лакомка",
+      "addr": "улица Семёновой, 18",
+      "cat": "bakery",
+      "rating": 4.7,
+      "reviews": 12,
+      "branches": 1,
+      "lat": 50.337799,
+      "lon": 83.505876
+    },
+    {
+      "name": "Дастархан Экспресс, цех готовой еды",
+      "addr": "улица Семёновой, 18",
+      "cat": "food_service",
+      "rating": null,
+      "reviews": null,
+      "branches": 1,
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "vet": [
+    {
+      "name": "ZOOVITA, центр ветеринарной медицины",
+      "addr": null,
+      "cat": "pets",
+      "rating": 4.4,
+      "reviews": 784,
+      "branches": 3,
+      "lat": 49.982014,
+      "lon": 82.576239
+    },
+    {
+      "name": "VetLab, ветеринарный клинико-диагностический центр",
+      "addr": null,
+      "cat": "pets",
+      "rating": 4.7,
+      "reviews": 244,
+      "branches": 3,
+      "lat": 49.965963,
+      "lon": 82.578049
+    },
+    {
+      "name": "ZOOVITA, центр ветеринарной медицины",
+      "addr": null,
+      "cat": "pets",
+      "rating": 4.4,
+      "reviews": 225,
+      "branches": 3,
+      "lat": 49.953448,
+      "lon": 82.622572
+    },
+    {
+      "name": "ZOOVITA, центр ветеринарной медицины",
+      "addr": "проспект Каныша Сатпаева, 4",
+      "cat": "pets",
+      "rating": 4.6,
+      "reviews": 49,
+      "branches": 3,
+      "lat": 49.897275,
+      "lon": 82.621128
+    },
+    {
+      "name": "Вет-Эксперт, ветеринарный кабинет",
+      "addr": "улица Лихарева, 8/1",
+      "cat": "pets",
+      "rating": 4.8,
+      "reviews": 262,
+      "branches": 1,
+      "lat": 49.949074,
+      "lon": 82.604167
+    },
+    {
+      "name": "Свой Доктор, ветеринарный кабинет",
+      "addr": null,
+      "cat": "pets",
+      "rating": 4.9,
+      "reviews": 98,
+      "branches": 1,
+      "lat": 49.975254,
+      "lon": 82.602158
+    },
+    {
+      "name": "Фламинго, ветеринарная клиника",
+      "addr": "улица Мызы, 27",
+      "cat": "pets",
+      "rating": 4.4,
+      "reviews": 61,
+      "branches": 1,
+      "lat": 49.958968,
+      "lon": 82.638674
+    },
+    {
+      "name": "VetLab, ветеринарный клинико-диагностический центр",
+      "addr": "улица Бурова, 22",
+      "cat": "pets",
+      "rating": 4.6,
+      "reviews": 48,
+      "branches": 3,
+      "lat": 49.954372,
+      "lon": 82.645919
+    },
+    {
+      "name": "Феникс, ветеринарная клиника",
+      "addr": "Нурсултана Назарбаева проспект, 21",
+      "cat": "pets",
+      "rating": 4.3,
+      "reviews": 113,
+      "branches": 1,
+      "lat": 49.963204,
+      "lon": 82.600361
+    },
+    {
+      "name": "Бетховен, ветеринарная клиника",
+      "addr": "улица Кабанбай батыра, 112",
+      "cat": "pets",
+      "rating": 4.2,
+      "reviews": 137,
+      "branches": 2,
+      "lat": 49.948941,
+      "lon": 82.64172
+    },
+    {
+      "name": "Вита, ветеринарная клиника",
+      "addr": "улица Литвинова, 10",
+      "cat": "pets",
+      "rating": 4.1,
+      "reviews": 115,
+      "branches": 1,
+      "lat": 49.978213,
+      "lon": 82.58924
+    },
+    {
+      "name": "Бетховен, ветеринарная клиника",
+      "addr": "улица Маяковского, 14",
+      "cat": "pets",
+      "rating": 4.7,
+      "reviews": 29,
+      "branches": 2,
+      "lat": 49.967129,
+      "lon": 82.580165
+    },
+    {
+      "name": "Ветсервис Восток, ветеринарная аптека",
+      "addr": null,
+      "cat": "pets",
+      "rating": 4,
+      "reviews": 26,
+      "branches": 2,
+      "lat": 49.980049,
+      "lon": 82.597555
+    },
+    {
+      "name": "Мила, ветеринарный центр",
+      "addr": "улица Школьная, 32",
+      "cat": "pets",
+      "rating": 4.4,
+      "reviews": 21,
+      "branches": 1,
+      "lat": 49.9372,
+      "lon": 82.586033
+    },
+    {
+      "name": "Бастет, ветеринарный кабинет",
+      "addr": "улица Крылова, 49",
+      "cat": "pets",
+      "rating": 5,
+      "reviews": 6,
+      "branches": 1,
+      "lat": 49.945506,
+      "lon": 82.614471
+    },
+    {
+      "name": "Клиника кошек",
+      "addr": "проспект Каныша Сатпаева, 4",
+      "cat": "pets",
+      "rating": 4.4,
+      "reviews": 16,
+      "branches": 1,
+      "lat": 49.897419,
+      "lon": 82.621209
+    },
+    {
+      "name": "Лада-Н, ветеринарная клиника",
+      "addr": "улица Космическая, 8/1",
+      "cat": "pets",
+      "rating": 4,
+      "reviews": 45,
+      "branches": 1,
+      "lat": 49.961808,
+      "lon": 82.609276
+    },
+    {
+      "name": "АлАн, зооветцентр",
+      "addr": "улица Бажова, 79а",
+      "cat": "pets",
+      "rating": 4.1,
+      "reviews": 20,
+      "branches": 1,
+      "lat": 49.980049,
+      "lon": 82.597555
+    },
+    {
+      "name": "ВетLife, ветеринарная клиника",
+      "addr": "улица Гоголя, 19",
+      "cat": "pets",
+      "rating": 3.8,
+      "reviews": 27,
+      "branches": 1,
+      "lat": 49.976852,
+      "lon": 82.594839
+    },
+    {
+      "name": "PetHelp, ветеринарный кабинет",
+      "addr": "улица Пирогова, 15",
+      "cat": "pets",
+      "rating": 4.8,
+      "reviews": 18,
+      "branches": 1,
+      "lat": 50.148841,
+      "lon": 82.311872
+    }
+  ],
+  "otdelka": [
+    {
+      "name": "Industrial Service Ltd",
+      "addr": "улица Путевая, 2а к1",
+      "cat": "construction_market",
+      "rating": 4.8,
+      "reviews": 9,
+      "branches": 1,
+      "lat": 50.001142,
+      "lon": 82.628862
+    },
+    {
+      "name": "Магнат, магазин строительных материалов",
+      "addr": "улица Талаптан Ахметжан, 7",
+      "cat": "construction_market",
+      "rating": 4.2,
+      "reviews": 29,
+      "branches": 1,
+      "lat": 49.93366,
+      "lon": 82.585391
+    },
+    {
+      "name": "СТРОЙ АРСЕНАЛ, официальный представитель Knauf, Titan, Henkel",
+      "addr": "проспект Абая, 156/27",
+      "cat": "garden",
+      "rating": 4.7,
+      "reviews": 30,
+      "branches": 5,
+      "lat": 49.992414,
+      "lon": 82.650978
+    },
+    {
+      "name": "ТНП, магазин строительных материалов",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4.5,
+      "reviews": 168,
+      "branches": 3,
+      "lat": 49.916026,
+      "lon": 82.630562
+    },
+    {
+      "name": "ТНП, магазин строительных материалов",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 3.7,
+      "reviews": 266,
+      "branches": 3,
+      "lat": 49.960285,
+      "lon": 82.637467
+    },
+    {
+      "name": "Мегастрой, супермаркет строительных и отделочных материалов",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 2.6,
+      "reviews": 376,
+      "branches": 1,
+      "lat": 49.959575,
+      "lon": 82.639077
+    },
+    {
+      "name": "12 Месяцев, центр строительных материалов",
+      "addr": null,
+      "cat": "garden",
+      "rating": 4.5,
+      "reviews": 567,
+      "branches": 1,
+      "lat": 49.912949,
+      "lon": 82.631829
+    },
+    {
+      "name": "Комфорт, гипермаркет строительных материалов и товаров для дома",
+      "addr": null,
+      "cat": "construction_hypermarket",
+      "rating": 3.6,
+      "reviews": 251,
+      "branches": 1,
+      "lat": 49.964233,
+      "lon": 82.642555
+    },
+    {
+      "name": "Беакрис",
+      "addr": "Самарское шоссе, 101",
+      "cat": "construction_market",
+      "rating": 3.3,
+      "reviews": 91,
+      "branches": 2,
+      "lat": 49.898007,
+      "lon": 82.645114
+    },
+    {
+      "name": "СТРОЙ АРСЕНАЛ, официальный представитель Knauf, Titan, Henkel",
+      "addr": null,
+      "cat": "garden",
+      "rating": 4.4,
+      "reviews": 29,
+      "branches": 5,
+      "lat": 49.956737,
+      "lon": 82.626609
+    },
+    {
+      "name": "СТРОЙ АРСЕНАЛ, официальный представитель Knauf, Titan, Henkel",
+      "addr": null,
+      "cat": "garden",
+      "rating": 4.2,
+      "reviews": 19,
+      "branches": 5,
+      "lat": 50.001847,
+      "lon": 82.630465
+    },
+    {
+      "name": "Метизно-торговая компания",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4.1,
+      "reviews": 26,
+      "branches": 1,
+      "lat": 49.964766,
+      "lon": 82.57868
+    },
+    {
+      "name": "СТРОЙ АРСЕНАЛ, официальный представитель Knauf, Titan, Henkel",
+      "addr": null,
+      "cat": "garden",
+      "rating": 4.2,
+      "reviews": 46,
+      "branches": 5,
+      "lat": 49.961672,
+      "lon": 82.607544
+    },
+    {
+      "name": "Студия цвета, официальный дистрибьютор Tikkurila, Docke",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4.6,
+      "reviews": 32,
+      "branches": 1,
+      "lat": 49.970658,
+      "lon": 82.614561
+    },
+    {
+      "name": "Alina Group, торговая компания",
+      "addr": "улица Путевая, 2 к1",
+      "cat": "construction_market",
+      "rating": 3.8,
+      "reviews": 29,
+      "branches": 1,
+      "lat": 50.000181,
+      "lon": 82.625244
+    },
+    {
+      "name": "Caparol, официальный дилер ARCH, Alpina",
+      "addr": "улица Протозанова, 71",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 40,
+      "branches": 1,
+      "lat": 49.952298,
+      "lon": 82.612848
+    },
+    {
+      "name": "Алмаз, магазин хозяйственных товаров",
+      "addr": "улица Пограничная, 61г",
+      "cat": "construction_market",
+      "rating": 4.6,
+      "reviews": 17,
+      "branches": 1,
+      "lat": 49.976045,
+      "lon": 82.557383
+    },
+    {
+      "name": "Дом, магазин строительных материалов",
+      "addr": "улица Виноградова, 19",
+      "cat": "construction_market",
+      "rating": 4.4,
+      "reviews": 33,
+      "branches": 1,
+      "lat": 49.966346,
+      "lon": 82.590541
+    },
+    {
+      "name": "Новостройка, магазин строительных материалов",
+      "addr": "улица Увалиева, 3",
+      "cat": "construction_market",
+      "rating": 4.2,
+      "reviews": 36,
+      "branches": 1,
+      "lat": 49.893079,
+      "lon": 82.615606
+    },
+    {
+      "name": "Nota Bene, магазин отделочных материалов",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4.6,
+      "reviews": 55,
+      "branches": 5,
+      "lat": 49.957962,
+      "lon": 82.605539
+    },
+    {
+      "name": "Сигнал, магазин строительных и хозяйственных материалов",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 3.8,
+      "reviews": 14,
+      "branches": 1,
+      "lat": 49.953888,
+      "lon": 82.647966
+    },
+    {
+      "name": "Империал",
+      "addr": "улица Максима Горького, 58",
+      "cat": "construction_market",
+      "rating": 3.9,
+      "reviews": 9,
+      "branches": 1,
+      "lat": 49.94957,
+      "lon": 82.622053
+    },
+    {
+      "name": "Хозмаг, магазин",
+      "addr": "улица Береговая, 77",
+      "cat": "garden",
+      "rating": 5,
+      "reviews": 10,
+      "branches": 1,
+      "lat": 49.96668,
+      "lon": 82.545287
+    },
+    {
+      "name": "Bauramix, магазин декоративно-отделочных материалов",
+      "addr": "проспект Каныша Сатпаева, 172/1",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 19,
+      "branches": 2,
+      "lat": 49.923478,
+      "lon": 82.621454
+    },
+    {
+      "name": "Bauramix, магазин декоративно-отделочных материалов",
+      "addr": "улица Казахстан, 159/3",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 5,
+      "branches": 2,
+      "lat": 49.960666,
+      "lon": 82.637793
+    },
+    {
+      "name": "NS trade, торговая компания",
+      "addr": "улица Рабочая, 6/1",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 1,
+      "branches": 1,
+      "lat": 49.97914,
+      "lon": 82.606667
+    },
+    {
+      "name": "Строитель+, магазин строительных материалов и пиломатериалов",
+      "addr": "улица Бажова, 444а",
+      "cat": "garden",
+      "rating": 3.5,
+      "reviews": 9,
+      "branches": 1,
+      "lat": 50.014115,
+      "lon": 82.530895
+    },
+    {
+      "name": "Казвинилстрой, оптово-розничная компания",
+      "addr": "Самарское шоссе, 1/2Б",
+      "cat": "construction_market",
+      "rating": null,
+      "reviews": null,
+      "branches": 1,
+      "lat": 49.931019,
+      "lon": 82.646414
+    },
+    {
+      "name": "5 Баллов, лакокрасочная торговая компания",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 3.9,
+      "reviews": 14,
+      "branches": 3,
+      "lat": 49.963923,
+      "lon": 82.625219
+    },
+    {
+      "name": "РиО, официальный дилер TIKKURILA",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4.1,
+      "reviews": 29,
+      "branches": 1,
+      "lat": 49.957974,
+      "lon": 82.603124
+    },
+    {
+      "name": "Nota Bene, магазин отделочных материалов",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4.5,
+      "reviews": 77,
+      "branches": 5,
+      "lat": 49.965494,
+      "lon": 82.580606
+    },
+    {
+      "name": "Nota Bene, магазин отделочных материалов",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4.7,
+      "reviews": 42,
+      "branches": 5,
+      "lat": 49.961249,
+      "lon": 82.63401
+    },
+    {
+      "name": "Камелот, компания по продаже и производству искусственного камня",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4.9,
+      "reviews": 39,
+      "branches": 4,
+      "lat": 49.971824,
+      "lon": 82.648882
+    },
+    {
+      "name": "Глянец, торгово-монтажная фирма",
+      "addr": "улица Максима Горького, 82",
+      "cat": "construction_market",
+      "rating": 4.9,
+      "reviews": 126,
+      "branches": 1,
+      "lat": 49.9514,
+      "lon": 82.616536
+    },
+    {
+      "name": "5 Баллов, лакокрасочная торговая компания",
+      "addr": "улица Путевая, 1/7",
+      "cat": "construction_market",
+      "rating": 2.3,
+      "reviews": 3,
+      "branches": 3,
+      "lat": 50.004097,
+      "lon": 82.659705
+    },
+    {
+      "name": "5 Баллов, лакокрасочная торговая компания",
+      "addr": "проспект Каныша Сатпаева, 39",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 2,
+      "branches": 3,
+      "lat": 49.915918,
+      "lon": 82.630562
+    },
+    {
+      "name": "SmartGips, компания по производству гипсовых 3D панелей",
+      "addr": "улица Бажова, 100",
+      "cat": "construction_market",
+      "rating": 3.9,
+      "reviews": 11,
+      "branches": 1,
+      "lat": 49.980525,
+      "lon": 82.598914
+    },
+    {
+      "name": "RS, магазин строительных материалов",
+      "addr": "улица Кабанбай батыра, 136а",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 2,
+      "branches": 1,
+      "lat": 49.951848,
+      "lon": 82.635672
+    },
+    {
+      "name": "Print Star Media, рекламно-производственная компания",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4.4,
+      "reviews": 44,
+      "branches": 1,
+      "lat": 49.970418,
+      "lon": 82.607481
+    },
+    {
+      "name": "DecoRoom",
+      "addr": "проспект Каныша Сатпаева, 172/1",
+      "cat": "construction_market",
+      "rating": 4.5,
+      "reviews": 23,
+      "branches": 1,
+      "lat": 49.923478,
+      "lon": 82.621454
+    },
+    {
+      "name": "Юкка, магазин декоративного оформления",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4.4,
+      "reviews": 21,
+      "branches": 1,
+      "lat": 49.951492,
+      "lon": 82.619573
+    },
+    {
+      "name": "Оптово-розничный склад отделочных декоративных материалов",
+      "addr": "улица Кабанбай батыра, 96",
+      "cat": "construction_market",
+      "rating": 4.3,
+      "reviews": 6,
+      "branches": 1,
+      "lat": 49.948337,
+      "lon": 82.644236
+    },
+    {
+      "name": "Декор, студия искусственного камня",
+      "addr": "улица Грейдерная, 5/20",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 3,
+      "branches": 1,
+      "lat": 50.004407,
+      "lon": 82.579776
+    },
+    {
+      "name": "Прагматика, студия декоративных строительных материалов",
+      "addr": "улица Казахстан, 159 к2",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 3,
+      "branches": 1,
+      "lat": 49.960929,
+      "lon": 82.636612
+    },
+    {
+      "name": "ZMary_art, творческая мастерская",
+      "addr": "улица Протозанова, 83",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 2,
+      "branches": 1,
+      "lat": 49.951273,
+      "lon": 82.609212
+    },
+    {
+      "name": "Marmar luxe decor",
+      "addr": "проспект Каныша Сатпаева, 14/2",
+      "cat": "construction_market",
+      "rating": null,
+      "reviews": null,
+      "branches": 1,
+      "lat": 49.902331,
+      "lon": 82.621683
+    },
+    {
+      "name": "Камелот, компания по продаже и производству искусственного камня",
+      "addr": "улица Рейша, 9/1",
+      "cat": "construction_market",
+      "rating": null,
+      "reviews": null,
+      "branches": 4,
+      "lat": 49.898581,
+      "lon": 82.630266
+    },
+    {
+      "name": "Контраст, магазин строительных материалов",
+      "addr": "улица Орманды, 11",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 6,
+      "branches": 1,
+      "lat": 49.954838,
+      "lon": 82.688494
+    },
+    {
+      "name": "Lorex, мебельная компания",
+      "addr": "улица Борис Керімбаев, 38",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 1,
+      "branches": 1,
+      "lat": 49.946696,
+      "lon": 82.616369
+    },
+    {
+      "name": "Grand Mabel, цех по изготовлению мебели",
+      "addr": "улица Гастелло, 2/1",
+      "cat": "construction_market",
+      "rating": null,
+      "reviews": null,
+      "branches": 2,
+      "lat": 49.977469,
+      "lon": 82.610215
+    },
+    {
+      "name": "Камелот, компания по продаже и производству искусственного камня",
+      "addr": "улица Казахстан, 159/3",
+      "cat": "construction_market",
+      "rating": null,
+      "reviews": null,
+      "branches": 4,
+      "lat": 49.960666,
+      "lon": 82.637793
+    },
+    {
+      "name": "Art-studio, компания по изготовлению декоративного камня",
+      "addr": "улица Казахстан, 64",
+      "cat": "construction_market",
+      "rating": null,
+      "reviews": null,
+      "branches": 1,
+      "lat": 49.944584,
+      "lon": 82.626593
+    },
+    {
+      "name": "Камелот, компания по продаже и производству искусственного камня",
+      "addr": "улица Железнодорожная, 112",
+      "cat": "construction_market",
+      "rating": null,
+      "reviews": null,
+      "branches": 4,
+      "lat": 49.964233,
+      "lon": 82.642555
+    },
+    {
+      "name": "Компания по продаже стройматериалов, ИП 1Click",
+      "addr": "улица Пржевальского, 22а",
+      "cat": "construction_market",
+      "rating": null,
+      "reviews": null,
+      "branches": 1,
+      "lat": 49.993989,
+      "lon": 82.568084
+    },
+    {
+      "name": "Nota Bene, магазин отделочных материалов",
+      "addr": "проспект Казыбек би, 19/2",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 2,
+      "branches": 5,
+      "lat": 49.896337,
+      "lon": 82.616519
+    },
+    {
+      "name": "Nota Bene, магазин отделочных материалов",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4.6,
+      "reviews": 24,
+      "branches": 5,
+      "lat": 49.923478,
+      "lon": 82.621454
+    },
+    {
+      "name": "New Style, онлайн-компания по продаже жидких обоев",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 4,
+      "reviews": 4,
+      "branches": 1,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Arte-Italiana, декор-центр",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 1,
+      "branches": 1,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Amir Studio",
+      "addr": "улица Калинина, 87",
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 3,
+      "branches": 1,
+      "lat": 49.973565,
+      "lon": 82.610384
+    },
+    {
+      "name": "Мастерская Цвета",
+      "addr": null,
+      "cat": "construction_market",
+      "rating": 5,
+      "reviews": 60,
+      "branches": 1,
+      "lat": 50.019404,
+      "lon": 82.50429
+    }
+  ],
+  "fitness": [
+    {
+      "name": "TERRASPORT, фитнес-клуб",
+      "addr": "улица Кабанбай батыра, 164",
+      "cat": "gym",
+      "rating": 4.7,
+      "reviews": 65,
+      "branches": 7,
+      "lat": 49.954883,
+      "lon": 82.625952
+    },
+    {
+      "name": "UkaLeaderSport.kz, фитнес-клуб",
+      "addr": "улица Серикбаева, 3",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 6,
+      "branches": 1,
+      "lat": 49.9587,
+      "lon": 82.595262
+    },
+    {
+      "name": "Flash Pilates, студия пилатеса",
+      "addr": "улица Пермитина, 31",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 18,
+      "branches": 2,
+      "lat": 49.948201,
+      "lon": 82.635849
+    },
+    {
+      "name": "Atlantic",
+      "addr": "проспект Каныша Сатпаева, 27/1",
+      "cat": "aqua_park",
+      "rating": 4,
+      "reviews": 451,
+      "branches": 1,
+      "lat": 49.905705,
+      "lon": 82.631749
+    },
+    {
+      "name": "Invictus GO, фитнес-клуб",
+      "addr": "проспект Ауэзова, 22",
+      "cat": "gym",
+      "rating": 4.5,
+      "reviews": 201,
+      "branches": 1,
+      "lat": 49.948398,
+      "lon": 82.61364
+    },
+    {
+      "name": "Papa gym",
+      "addr": null,
+      "cat": "gym",
+      "rating": 4.7,
+      "reviews": 117,
+      "branches": 2,
+      "lat": 49.949636,
+      "lon": 82.617201
+    },
+    {
+      "name": "Flex Fitness Club",
+      "addr": null,
+      "cat": "gym",
+      "rating": 4.6,
+      "reviews": 124,
+      "branches": 2,
+      "lat": 49.947532,
+      "lon": 82.644333
+    },
+    {
+      "name": "TERRASPORT, фитнес-клуб",
+      "addr": null,
+      "cat": "gym",
+      "rating": 4.3,
+      "reviews": 292,
+      "branches": 7,
+      "lat": 49.956643,
+      "lon": 82.609967
+    },
+    {
+      "name": "TERRASPORT, фитнес-клуб",
+      "addr": null,
+      "cat": "gym",
+      "rating": 4.7,
+      "reviews": 121,
+      "branches": 7,
+      "lat": 49.897877,
+      "lon": 82.619773
+    },
+    {
+      "name": "Trinity Fitness, фитнес-центр",
+      "addr": "улица Карбышева, 24",
+      "cat": "gym",
+      "rating": 4.9,
+      "reviews": 133,
+      "branches": 1,
+      "lat": 49.962608,
+      "lon": 82.580248
+    },
+    {
+      "name": "Flex Fitness Club",
+      "addr": "улица Оралхан Бокей, 16",
+      "cat": "gym",
+      "rating": 4.8,
+      "reviews": 80,
+      "branches": 2,
+      "lat": 49.902582,
+      "lon": 82.616529
+    },
+    {
+      "name": "Papa gym",
+      "addr": null,
+      "cat": "gym",
+      "rating": 4.6,
+      "reviews": 134,
+      "branches": 2,
+      "lat": 49.895223,
+      "lon": 82.61589
+    },
+    {
+      "name": "TERRASPORT, фитнес-клуб",
+      "addr": "улица Серикбаева, 7/5",
+      "cat": "pool",
+      "rating": 4.8,
+      "reviews": 98,
+      "branches": 7,
+      "lat": 49.959336,
+      "lon": 82.596037
+    },
+    {
+      "name": "Art-fitness",
+      "addr": "улица Крылова, 70",
+      "cat": "gym",
+      "rating": 4.8,
+      "reviews": 63,
+      "branches": 1,
+      "lat": 49.946191,
+      "lon": 82.614311
+    },
+    {
+      "name": "TERRASPORT, фитнес-клуб",
+      "addr": "улица Потанина, 17",
+      "cat": "gym",
+      "rating": 4.9,
+      "reviews": 95,
+      "branches": 7,
+      "lat": 49.959356,
+      "lon": 82.604166
+    },
+    {
+      "name": "Extreme kids, мультиспортивные клубы",
+      "addr": "улица 30 Гвардейской Дивизии, 24/1",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 377,
+      "branches": 1,
+      "lat": 49.96101,
+      "lon": 82.593798
+    },
+    {
+      "name": "Aviva Fitness&SPA, женский премиальный фитнес-центр",
+      "addr": null,
+      "cat": "gym",
+      "rating": 4.5,
+      "reviews": 40,
+      "branches": 1,
+      "lat": 49.950831,
+      "lon": 82.634742
+    },
+    {
+      "name": "TERRASPORT, фитнес-клуб",
+      "addr": "улица Крылова, 106",
+      "cat": "gym",
+      "rating": 4.7,
+      "reviews": 139,
+      "branches": 7,
+      "lat": 49.949392,
+      "lon": 82.606844
+    },
+    {
+      "name": "Fitpro, фитнес-клуб",
+      "addr": "улица Кокжал Барака, 19/1",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 16,
+      "branches": 1,
+      "lat": 49.891321,
+      "lon": 82.619729
+    },
+    {
+      "name": "Soft Fitness, женская фитнес-студия стретчинга и растяжки",
+      "addr": "проспект Абая, 9/1",
+      "cat": "gym",
+      "rating": 4.9,
+      "reviews": 78,
+      "branches": 1,
+      "lat": 49.962001,
+      "lon": 82.614271
+    },
+    {
+      "name": "FitLife, фитнес-клуб",
+      "addr": "улица Потанина, 25/1",
+      "cat": "gym",
+      "rating": 4.3,
+      "reviews": 47,
+      "branches": 1,
+      "lat": 49.957578,
+      "lon": 82.600383
+    },
+    {
+      "name": "Ya. Pilates Room, студия пилатеса",
+      "addr": "проспект Каныша Сатпаева, 51",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 1,
+      "branches": 1,
+      "lat": 49.920356,
+      "lon": 82.628133
+    },
+    {
+      "name": "Fitclass, спортивный центр",
+      "addr": null,
+      "cat": "gym",
+      "rating": 4.9,
+      "reviews": 76,
+      "branches": 1,
+      "lat": 49.955661,
+      "lon": 82.610717
+    },
+    {
+      "name": "Олимпия, тренажерный зал",
+      "addr": "улица Кабанбай батыра, 11/2",
+      "cat": "gym",
+      "rating": 4.9,
+      "reviews": 29,
+      "branches": 1,
+      "lat": 49.943615,
+      "lon": 82.652333
+    },
+    {
+      "name": "OrangeArea, фитнес-клуб бизнес-класса",
+      "addr": "проспект Ауэзова, 1/1",
+      "cat": "gym",
+      "rating": 4.2,
+      "reviews": 21,
+      "branches": 1,
+      "lat": 49.945273,
+      "lon": 82.609708
+    },
+    {
+      "name": "Alik_Boxing_Team, спортивный клуб",
+      "addr": "набережная Славского, 48/2",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 208,
+      "branches": 2,
+      "lat": 49.947953,
+      "lon": 82.594836
+    },
+    {
+      "name": "Stimul, тренажерный зал",
+      "addr": "улица Прямая, 2",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 71,
+      "branches": 1,
+      "lat": 49.977034,
+      "lon": 82.574573
+    },
+    {
+      "name": "Protozanovskiy, спортивный комплекс",
+      "addr": null,
+      "cat": "pool",
+      "rating": 4.3,
+      "reviews": 31,
+      "branches": 1,
+      "lat": 49.949181,
+      "lon": 82.602126
+    },
+    {
+      "name": "Fitness Time",
+      "addr": "Нурсултана Назарбаева проспект, 127",
+      "cat": "gym",
+      "rating": 3.7,
+      "reviews": 23,
+      "branches": 1,
+      "lat": 49.983836,
+      "lon": 82.574808
+    },
+    {
+      "name": "Fitness Depo, тренажерный зал",
+      "addr": "улица Мухамеджан Тынышпаев, 122",
+      "cat": "gym",
+      "rating": 4.6,
+      "reviews": 61,
+      "branches": 1,
+      "lat": 50.007806,
+      "lon": 82.567733
+    },
+    {
+      "name": "Fitness Owl, студия танцев и фитнеса",
+      "addr": "улица Казахстан, 71",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 9,
+      "branches": 1,
+      "lat": 49.953641,
+      "lon": 82.631781
+    },
+    {
+      "name": "Жемчужинка, фитнес-клуб",
+      "addr": "Нурсултана Назарбаева проспект, 54",
+      "cat": "gym",
+      "rating": 4.6,
+      "reviews": 17,
+      "branches": 1,
+      "lat": 49.970033,
+      "lon": 82.594584
+    },
+    {
+      "name": "ZhastarSport, фитнес-клуб",
+      "addr": "проспект Илияса Есенберлина, 28/1",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 5,
+      "branches": 1,
+      "lat": 49.909233,
+      "lon": 82.610163
+    },
+    {
+      "name": "Intellekt Boxing Academy, школа бокса",
+      "addr": "улица Сагадат Нурмагамбетов, 48",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 13,
+      "branches": 2,
+      "lat": 49.952669,
+      "lon": 82.61895
+    },
+    {
+      "name": "JUMPING, фитнес-клуб на батутах",
+      "addr": "улица Казахстан, 71",
+      "cat": "gym",
+      "rating": 4,
+      "reviews": 2,
+      "branches": 1,
+      "lat": 49.953641,
+      "lon": 82.631781
+    },
+    {
+      "name": "Lipina Dance Studio, студия танцев и фитнеса",
+      "addr": "улица Сагадат Нурмагамбетов, 42/1",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 3,
+      "branches": 2,
+      "lat": 49.952268,
+      "lon": 82.620092
+    },
+    {
+      "name": "Fitness lady, фитнес-клуб",
+      "addr": "проспект Каныша Сатпаева, 20/1",
+      "cat": "gym",
+      "rating": null,
+      "reviews": null,
+      "branches": 1,
+      "lat": 49.90527,
+      "lon": 82.624017
+    },
+    {
+      "name": "Intellekt Boxing Academy, школа бокса",
+      "addr": "улица Сагадат Нурмагамбетов, 44",
+      "cat": "gym",
+      "rating": 4.9,
+      "reviews": 58,
+      "branches": 2,
+      "lat": 49.952567,
+      "lon": 82.619769
+    },
+    {
+      "name": "Луч, студия танца и фитнеса",
+      "addr": "улица Сагадат Нурмагамбетов, 45",
+      "cat": "gym",
+      "rating": null,
+      "reviews": null,
+      "branches": 1,
+      "lat": 49.951099,
+      "lon": 82.620649
+    },
+    {
+      "name": "Mndance ballet, балетная студия",
+      "addr": "улица Крылова, 85",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 2,
+      "branches": 1,
+      "lat": 49.946667,
+      "lon": 82.608197
+    },
+    {
+      "name": "Lipina Dance Studio, студия танцев и фитнеса",
+      "addr": "набережная Славского, 40",
+      "cat": "gym",
+      "rating": null,
+      "reviews": null,
+      "branches": 2,
+      "lat": 49.946598,
+      "lon": 82.598387
+    },
+    {
+      "name": "Athletic, спортивный клуб",
+      "addr": "улица Багдат Шаяхметов, 15",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 27,
+      "branches": 1,
+      "lat": 50.026453,
+      "lon": 82.730726
+    },
+    {
+      "name": "Атмосфера, фитнес-клуб",
+      "addr": "улица Багдат Шаяхметов, 12",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 29,
+      "branches": 1,
+      "lat": 50.027474,
+      "lon": 82.733476
+    },
+    {
+      "name": "TERRASPORT, фитнес-клуб",
+      "addr": "улица Гоголя, 45",
+      "cat": "gym",
+      "rating": 4.8,
+      "reviews": 6,
+      "branches": 7,
+      "lat": 50.329562,
+      "lon": 83.500544
+    },
+    {
+      "name": "Mind of Body, фитнес-клуб",
+      "addr": "проспект Независимости, 1",
+      "cat": "gym",
+      "rating": 5,
+      "reviews": 3,
+      "branches": 1,
+      "lat": 50.342675,
+      "lon": 83.511755
+    }
+  ],
+  "barber": [
+    {
+      "name": "Барон, барбершоп",
+      "addr": "Нурсултана Назарбаева проспект, 5",
+      "cat": "men_haircuts",
+      "rating": 4.9,
+      "reviews": 29,
+      "branches": 1,
+      "lat": 49.957194,
+      "lon": 82.610811
+    },
+    {
+      "name": "Upgrade, барбершоп",
+      "addr": "улица Антона Чехова, 35/1",
+      "cat": "men_haircuts",
+      "rating": 4.9,
+      "reviews": 693,
+      "branches": 1,
+      "lat": 49.948888,
+      "lon": 82.620181
+    },
+    {
+      "name": "Gentlemen’s club, барбершоп",
+      "addr": "проспект Казыбек би, 40",
+      "cat": "men_haircuts",
+      "rating": 4.8,
+      "reviews": 268,
+      "branches": 2,
+      "lat": 49.898858,
+      "lon": 82.605135
+    },
+    {
+      "name": "Probor, барбершоп",
+      "addr": null,
+      "cat": "men_haircuts",
+      "rating": 4.9,
+      "reviews": 1115,
+      "branches": 2,
+      "lat": 49.950492,
+      "lon": 82.622154
+    },
+    {
+      "name": "SAL’VA, барбершоп",
+      "addr": "Нурсултана Назарбаева проспект, 58",
+      "cat": "men_haircuts",
+      "rating": 5,
+      "reviews": 889,
+      "branches": 2,
+      "lat": 49.970619,
+      "lon": 82.592645
+    },
+    {
+      "name": "Pravda, барбершоп",
+      "addr": "улица Крылова, 66",
+      "cat": "men_haircuts",
+      "rating": 4.9,
+      "reviews": 139,
+      "branches": 1,
+      "lat": 49.945807,
+      "lon": 82.618879
+    },
+    {
+      "name": "Brutal, барбершоп",
+      "addr": "улица Антона Чехова, 57",
+      "cat": "men_haircuts",
+      "rating": 5,
+      "reviews": 331,
+      "branches": 1,
+      "lat": 49.952597,
+      "lon": 82.622771
+    },
+    {
+      "name": "Barber Lounge, барбершоп",
+      "addr": "улица Оралхан Бокей, 28/4",
+      "cat": "men_haircuts",
+      "rating": 4.9,
+      "reviews": 94,
+      "branches": 1,
+      "lat": 49.90476,
+      "lon": 82.609406
+    },
+    {
+      "name": "Britva, мужской салон",
+      "addr": "Нурсултана Назарбаева проспект, 64",
+      "cat": "men_haircuts",
+      "rating": 4.6,
+      "reviews": 278,
+      "branches": 1,
+      "lat": 49.972137,
+      "lon": 82.590724
+    },
+    {
+      "name": "SAL’VA, барбершоп",
+      "addr": "улица Антона Чехова, 62",
+      "cat": "men_haircuts",
+      "rating": 5,
+      "reviews": 381,
+      "branches": 2,
+      "lat": 49.950974,
+      "lon": 82.622744
+    },
+    {
+      "name": "HotRod, барбершоп",
+      "addr": "Нурсултана Назарбаева проспект, 7",
+      "cat": "men_haircuts",
+      "rating": 4.7,
+      "reviews": 238,
+      "branches": 1,
+      "lat": 49.957821,
+      "lon": 82.608778
+    },
+    {
+      "name": "Barbershop Doss, барбершоп",
+      "addr": null,
+      "cat": "men_haircuts",
+      "rating": 4.6,
+      "reviews": 270,
+      "branches": 2,
+      "lat": 49.953965,
+      "lon": 82.628029
+    },
+    {
+      "name": "Avangard, барбершоп",
+      "addr": "улица Космическая, 12",
+      "cat": "men_haircuts",
+      "rating": 4.9,
+      "reviews": 117,
+      "branches": 1,
+      "lat": 49.963596,
+      "lon": 82.60972
+    },
+    {
+      "name": "Borodach, барбершоп",
+      "addr": "Нурсултана Назарбаева проспект, 35",
+      "cat": "men_haircuts",
+      "rating": 4.9,
+      "reviews": 297,
+      "branches": 1,
+      "lat": 49.967495,
+      "lon": 82.594961
+    },
+    {
+      "name": "Aq Saqal, барбершоп",
+      "addr": "проспект Илияса Есенберлина, 92",
+      "cat": "men_haircuts",
+      "rating": 4.6,
+      "reviews": 214,
+      "branches": 1,
+      "lat": 49.921198,
+      "lon": 82.617374
+    },
+    {
+      "name": "Winchester, барбершоп",
+      "addr": "проспект Ауэзова, 12",
+      "cat": "men_haircuts",
+      "rating": 4.9,
+      "reviews": 90,
+      "branches": 1,
+      "lat": 49.945793,
+      "lon": 82.611225
+    },
+    {
+      "name": "Studio 4.4",
+      "addr": "набережная Славского, 16",
+      "cat": "men_haircuts",
+      "rating": 5,
+      "reviews": 163,
+      "branches": 1,
+      "lat": 49.942345,
+      "lon": 82.617635
+    },
+    {
+      "name": "Gentlemen’s club, барбершоп",
+      "addr": "улица Оралхан Бокей, 12/2",
+      "cat": "men_haircuts",
+      "rating": 4.8,
+      "reviews": 70,
+      "branches": 2,
+      "lat": 49.901182,
+      "lon": 82.616946
+    },
+    {
+      "name": "Head Shot, барбершоп",
+      "addr": "улица Крылова, 106",
+      "cat": "men_haircuts",
+      "rating": 4.8,
+      "reviews": 58,
+      "branches": 1,
+      "lat": 49.949778,
+      "lon": 82.606634
+    },
+    {
+      "name": "Chistobarber, барбершоп",
+      "addr": "Нурсултана Назарбаева проспект, 66",
+      "cat": "men_haircuts",
+      "rating": 5,
+      "reviews": 30,
+      "branches": 1,
+      "lat": 49.97298,
+      "lon": 82.589667
+    },
+    {
+      "name": "Kwt.Barber",
+      "addr": "улица Увалиева, 9/3",
+      "cat": "men_haircuts",
+      "rating": 4.8,
+      "reviews": 38,
+      "branches": 1,
+      "lat": 49.887224,
+      "lon": 82.61762
+    },
+    {
+      "name": "Probor, барбершоп",
+      "addr": "улица Космическая, 6",
+      "cat": "men_haircuts",
+      "rating": 4.8,
+      "reviews": 56,
+      "branches": 2,
+      "lat": 49.960677,
+      "lon": 82.607195
+    },
+    {
+      "name": "Assel.tatto, тату салон",
+      "addr": "улица Мызы, 16/1",
+      "cat": "tattoo",
+      "rating": 5,
+      "reviews": 3,
+      "branches": 2,
+      "lat": 49.961249,
+      "lon": 82.63401
+    },
+    {
+      "name": "Luxury, барбершоп",
+      "addr": "4-й микрорайон, 9",
+      "cat": "manicure",
+      "rating": null,
+      "reviews": null,
+      "branches": 1,
+      "lat": 50.327907,
+      "lon": 83.506471
+    },
+    {
+      "name": "Zapis.kz, сервис онлайн-записи в салоны красоты, барбершопы и стоматологии",
+      "addr": null,
+      "cat": "computer_services",
+      "rating": null,
+      "reviews": null,
+      "branches": 1,
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
