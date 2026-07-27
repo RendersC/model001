@@ -1,0 +1,47 @@
+{
+ "collected": "2026-07-27",
+ "base_rate": {"value": 16.75, "changed": "2026-07-24", "prev": 17.00,
+   "note": "снижена на 0,25 п.п. 24.07.2026"},
+ "inflation_yoy": {"value": 10.3, "asof": "начало июля 2026",
+   "forecast_year_end": "9,0–9,5%", "official_range": "9–11%"},
+ "deposits": {
+   "term_12m_best": 16.3, "term_12m_typical": 15.9,
+   "term_3m_accum_best": 20.5, "term_3m_group": 20.0,
+   "used_in_model": 16.0,
+   "note": "20–20,5% — накопительные на 3 месяца (Home Credit 20,5%; Kaspi, Altyn, KMF 20,0%). На 12 месяцев — 15,9–16,3% (ForteBank 16,3%, KZI 16,0%, ВТБ 15,9%). Для сравнения с бизнесом взята 12-месячная ставка как сопоставимая по горизонту.",
+   "insured_by": "КФГД (КДИФ)"
+ },
+ "mrp": 4325,
+ "mzp": 85000,
+ "law": "Закон №239-VIII от 08.12.2025 «О республиканском бюджете на 2026–2028 годы»",
+ "vko": {
+   "avg_salary_nominal": 409918,
+   "avg_salary_period": "I квартал 2026",
+   "retail_jan_may": {"volume_mln_tenge": 507029.8, "growth_nominal_pct": 0.4,
+     "share_of_kz_pct": 5.6,
+     "note": "январь–май 2026 к соответствующему периоду 2025; ранее использовалась оценка +0,6% за янв–июнь"},
+   "real_retail_growth_pct": -9.9
+ },
+ "tax": {
+   "snr_rate_pct": 4,
+   "snr_limit_mrp": 600000,
+   "snr_limit_tenge": 2595000000,
+   "vat_threshold_mrp": 10000,
+   "vat_threshold_tenge": 43250000,
+   "our_kpn_pct": 20,
+   "vat_pct": 16,
+   "retail_tax": "отменён с 01.01.2026"
+ },
+ "payroll": {
+   "opv_pct": 10, "vosms_pct": 2, "ipn_pct": 10, "ipn_deduction_mrp": 14,
+   "employer_so_pct": 3.5, "employer_osms_pct": 3,
+   "net_from_gross_factor": 0.807,
+   "employer_cost_from_gross_factor": 1.065
+ },
+ "sources": [
+   "nationalbank.kz — базовая ставка и пресс-релизы",
+   "finratings.kz — обзор депозитных ставок июль 2026",
+   "stat.gov.kz — БНС РК, статистика ВКО",
+   "Закон РК №239-VIII (МРП/МЗП 2026)"
+ ]
+}
