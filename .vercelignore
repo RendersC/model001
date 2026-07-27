@@ -1,4 +1,5 @@
 node_modules
 *.xlsx
 data/
+.playwright-mcp/
 ПРОГРЕСС_АНАЛИЗА.md
